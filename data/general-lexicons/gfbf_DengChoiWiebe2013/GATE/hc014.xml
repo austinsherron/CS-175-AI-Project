@@ -1,0 +1,548 @@
+<?xml version='1.0' encoding='MacRoman'?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/E:/Users/conrada/Documents/My%20Dropbox/healthcare_devel_data_final/hc014.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String">CRLF</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0" />Health care debate brings out politics, perks at their worst<Node id="60" />
+By Kathleen Parker - Washington Post Writers Group columnist
+ <Node id="123" />Skipping through the Candy Land of <Node id="158" />the health care bill<Node id="178" />, one is tempted to hum "Let Me Call You Sweetheart<Node id="229" />."
+ <Node id="233" />What a deal<Node id="244" />.
+ <Node id="247" />For deal-makers<Node id="262" />.
+ <Node id="265" />Not so much for American taxpayers, who have been misled into thinking that the<Node id="344" /> sweetheart deals<Node id="361" /> have been excised<Node id="379" />.
+ <Node id="382" />Not only are the deals still there, but they're bigger and worser, as the bard gave us permission to say<Node id="486" />.
+ <Node id="489" />And the health care "reform" bill is, consequently, costlier by billions<Node id="561" />.
+
+ <Node id="565" />Yes, gone (sort of) is the so-called "Cornhusker kickback," extended to Nebraska Sen. Ben Nelson when his 60th vote needed a bit of coaxing<Node id="704" />.
+ <Node id="707" />Meaning, Nelson is no longer special<Node id="743" />.
+ Now, everyone is.
+ <Node id="765" />All states now will get their own Cornhusker kickbacks<Node id="819" />.
+
+ Originally, Nelson had secured 100 percent federal funding for Nebraska's Medicaid expansion -- in perpetuity -- among other hidden prizes to benefit locally based insurance companies.
+ <Node id="1009" />When other states complained about <Node id="1044" />the unfair treatment<Node id="1064" />, <Node id="1066" />President Obama and Congress<Node id="1094" /> <Node id="1095" />"fixed"<Node id="1102" /> <Node id="1103" />it<Node id="1105" /> by <Node id="1109" />increasing<Node id="1119" /> <Node id="1120" />the federal share of Medicaid to all states through 2017, after which all amounts are supposed to decrease<Node id="1226" />.
+
+ Nelson's deal might have escaped largely unnoticed, if not for his pivotal role in the Senate vote last December.
+ <Node id="1345" />The value of what he originally negotiated for Nebraska -- about $100 million -- wasn't that much in the trillion-dollar scheme of things, but the cost of the "fix" runs in the tens of billions<Node id="1538" />.
+ <Node id="1541" />Other sweetheart provisions that remain in the bill include special perks for Florida ("Gatorade"), Louisiana ("The Louisiana Purchase"), Nevada, Montana, Wyoming, North Dakota and Utah ("The Frontier States").
+<Node id="1752" />
+ <Node id="1754" />Wearily, one might concede that this is, well, politics as usual.<Node id="1819" />
+
+ <Node id="1822" />But whither the transparency of the Promised Land?<Node id="1872" />
+ During last month's health care summit, Sen. John McCain had the audacity to raise -- "with respect" -- the specter of opaque and "unsavory" deal-making, whereupon Obama reminded his former presidential foe that the campaign was over.
+ To his credit, Obama conceded McCain's point in a post-summit letter to Congress, noting that some provisions had been added that shouldn't have been.
+ His proposal does not include the Medicare Advantage provision mentioned by McCain that allowed extras for Florida and other states.
+ <Node id="2396" />The president also mentioned that his plan eliminates the Nebraska yum-yum (not his term), "replacing it with additional federal financing to all states for the expansion of Medicaid.<Node id="2579" />"
+ More fair? <Node id="2593" />Sure, but at mind-boggling cost to taxpayers.<Node id="2638" />
+
+ <Node id="2641" />To correct a $100 million mistake, we'll spend tens of billions.
+<Node id="2706" />
+ <Node id="2708" />Throughout the health care process, the Democrats' modus operandi has been to offer a smarmy deal and then, when caught, to double down rather than correct course.<Node id="2871" />
+
+ <Node id="2874" />The proposed tax on "Cadillac" insurance policies is another case in point<Node id="2948" />.
+ Pushed by the president, and initially passed by the Senate, the tax was broadly viewed as an effective way to bend the cost curve down.
+ <Node id="3089" />But then labor objected, and the tax was postponed until 2018<Node id="3150" />.
+
+ <Node id="3154" />And the cost of the union compromise<Node id="3190" />?
+ <Node id="3193" />According to the Congressional Budget Office, <Node id="3239" />the original Cadillac tax<Node id="3264" /> would have <Node id="3276" />saved<Node id="3281" /> <Node id="3282" />the Treasury<Node id="3294" /> $149 billion between 2013 and 2019.<Node id="3330" />
+
+ <Node id="3333" />Under the postponed tax, the savings will likely plunge to just $65 billion, or a net loss to the Treasury of $84 billion.
+<Node id="3456" />
+ A spoonful of sugar may indeed help the medicine go down, but even King Kandy and the Gingerbread People can choke on too many sweets.
+kathleenparker@washpost.com
+<Node id="3621" />
+<Node id="3622" /></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation Id="1" Type="doc" StartNode="0" EndNode="3621">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">hc014</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">author</Name>
+  <Value className="java.lang.String">Kathleen,Parker</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">source</Name>
+  <Value className="java.lang.String">hutchnews,Hutchinson,News</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">side</Name>
+  <Value className="java.lang.String">anti</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">url</Name>
+  <Value className="java.lang.String">http://www.hutchnews.com/Columns/Parker-column3-10--1 </Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="rel" StartNode="158" EndNode="178">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">r1</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="rel" StartNode="344" EndNode="361">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">r2</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="rel" StartNode="382" EndNode="486">
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">not_ethically_negotiated</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">about-rel</Name>
+  <Value className="java.lang.String">r2</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">incomplete</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="arg" StartNode="489" EndNode="561">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">too_expensive_for_govt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="arg" StartNode="765" EndNode="819">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">votes_bought_through_kickbacks</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="rel" StartNode="1541" EndNode="1752">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">votes_bought_through_kickbacks</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="rel" StartNode="1754" EndNode="1819">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">not_ethically_negotiated</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">incomplete</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="arg" StartNode="2593" EndNode="2638">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">too_expensive_for_govt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">incomplete</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="arg" StartNode="2641" EndNode="2706">
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">votes_bought_through_kickbacks</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="arg" StartNode="2708" EndNode="2871">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">not_ethically_negotiated</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="rel" StartNode="3193" EndNode="3330">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">r3</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">unions_unfairly_favored</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="rel" StartNode="3154" EndNode="3190">
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">unions_unfairly_favored</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">about-rel</Name>
+  <Value className="java.lang.String">r3</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="17" Type="arg" StartNode="0" EndNode="60">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">politicizes_healthcare_system</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="arg" StartNode="3333" EndNode="3456">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">too_expensive_for_govt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="19" Type="rel" StartNode="265" EndNode="379">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">not_ethically_negotiated</Value>
+</Feature>
+</Annotation>
+<Annotation Id="18" Type="rel" StartNode="123" EndNode="229">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">not_ethically_negotiated</Value>
+</Feature>
+</Annotation>
+<Annotation Id="21" Type="rel" StartNode="233" EndNode="244">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">not_ethically_negotiated</Value>
+</Feature>
+</Annotation>
+<Annotation Id="20" Type="rel" StartNode="565" EndNode="704">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">votes_bought_through_kickbacks</Value>
+</Feature>
+</Annotation>
+<Annotation Id="23" Type="rel" StartNode="707" EndNode="743">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">votes_bought_through_kickbacks</Value>
+</Feature>
+</Annotation>
+<Annotation Id="22" Type="rel" StartNode="247" EndNode="262">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">not_ethically_negotiated</Value>
+</Feature>
+</Annotation>
+<Annotation Id="25" Type="rel" StartNode="1009" EndNode="1226">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">votes_bought_through_kickbacks</Value>
+</Feature>
+</Annotation>
+<Annotation Id="27" Type="rel" StartNode="1345" EndNode="1538">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">votes_bought_through_kickbacks</Value>
+</Feature>
+</Annotation>
+<Annotation Id="29" Type="rel" StartNode="2396" EndNode="2579">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">not_ethically_negotiated</Value>
+</Feature>
+</Annotation>
+<Annotation Id="28" Type="rel" StartNode="1822" EndNode="1872">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">not_ethically_negotiated</Value>
+</Feature>
+</Annotation>
+<Annotation Id="31" Type="rel" StartNode="3089" EndNode="3150">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">unions_unfairly_favored</Value>
+</Feature>
+</Annotation>
+<Annotation Id="30" Type="rel" StartNode="2874" EndNode="2948">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">unions_unfairly_favored</Value>
+</Feature>
+</Annotation>
+<Annotation Id="34" Type="gfbf" StartNode="1095" EndNode="1102">
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">37</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">35</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">goodfor</Value>
+</Feature>
+</Annotation>
+<Annotation Id="35" Type="gfbf-object" StartNode="1103" EndNode="1105">
+<Feature>
+  <Name className="java.lang.String">referentId</Name>
+  <Value className="java.lang.String">36</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">refererence</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="32" Type="gfbf" StartNode="1109" EndNode="1119">
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">37</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">goodfor</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">39</Value>
+</Feature>
+</Annotation>
+<Annotation Id="39" Type="gfbf-object" StartNode="1120" EndNode="1226">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="36" Type="referent" StartNode="1044" EndNode="1064">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="37" Type="gfbf-agent" StartNode="1066" EndNode="1094">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="42" Type="gfbf-object" StartNode="3282" EndNode="3294">
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="40" Type="gfbf-agent" StartNode="3239" EndNode="3264">
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="41" Type="gfbf" StartNode="3276" EndNode="3281">
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">40</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">42</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">goodfor</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="3622">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

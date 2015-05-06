@@ -1,0 +1,288 @@
+<?xml version='1.0' encoding='MacRoman'?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/home/conrada/Dropbox/healthcare_data/training_new/hc113.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String">LF</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0" />November 12, 2011
+<Node id="18" />More fallout from Obamacare: workers <Node id="55" />losing<Node id="61" /> employer paid insurance<Node id="85" />
+Rick Moran<Node id="96" />
+
+<Node id="98" />This is a feature, not a bug<Node id="126" />. <Node id="128" />It was anticipated by Obamacare supporters that employers would ditch their health care plans and force their employees to <Node id="251" />get<Node id="254" /> insurance on their own<Node id="277" />. <Node id="279" />According to Gallup, it is working beautifully<Node id="325" />:<Node id="326" />
+
+    <Node id="332" />The percentage of American adults who get their health insurance from an employer continues to decline, falling to 44.5% in the third quarter of this year<Node id="486" />. <Node id="488" />This percentage has been steadily declining since Gallup and Healthways started tracking Americans' health insurance sources in 2008<Node id="620" />.<Node id="621" />
+
+    <Node id="627" />At least 45% of Americans got their health insurance from an employer in every month in 2010, compared with more than 46% in 2009 and more than 48% in 2008<Node id="782" />. <Node id="784" />Initially, the percentage reporting they have employer-based health insurance seemed to be decreasing as unemployment and underemployment increased<Node id="931" />. <Node id="933" />However, it is likely that other factors -- including fewer employers offering health insurance -- are also contributing to this trend<Node id="1067" />.<Node id="1068" />
+
+    <Node id="1074" />The percentage of adults with no health insurance has been increasing in 2011, with the 17.3% who were uninsured last quarter statistically tying the second quarter of this year for the highest on record<Node id="1277" />. The increase in the percentage of uninsured Americans in the second quarter of 2011 coincides with Gallup's decision to include surveying more cell phone-only respondents in the US beginning April 1. Thus, some of the increase in the uninsured could reflect the greater representation of cell phone-only respondents -- who tend to be younger (young adults are more likely to be uninsured) -- in Gallup samples.<Node id="1689" />
+
+    <Node id="1695" />While the percentage of 18- to 26-year-olds who lack health insurance has declined, there has been an increase among 25- to- 64-year-olds -- who make up a much larger segment of the population -- without health insurance<Node id="1915" />. Young adults are likely benefiting from the provision in the new healthcare law that lets them stay on their parents' health plans until age 26. <Node id="2062" />However, none of the other components of the health law that have already been implemented -- tax credits to help small businesses provide health insurance to their employees and the establishment of a Pre-Existing Condition Insurance Plan among several others -- appear to be affecting coverage for older adults<Node id="2374" />.<Node id="2375" />
+
+<Node id="2377" />If you examine the graph at the link, you will see a jump in employers dropping coverage about halfway through 2010<Node id="2492" />. <Node id="2494" />Obamacare was signed in June of that year and employers immediately began to vote with their feet<Node id="2591" />.<Node id="2592" />
+
+<Node id="2594" />Eventually, of course, there is only one place all of this leads; single payer, government sponsored health insurance<Node id="2711" />. <Node id="2713" />That's been the plan all along and at this point, it appears to be working<Node id="2787" />.<Node id="2788" />
+
+<Node id="2790" />Read more: http://www.americanthinker.com/blog/2011/11/more_fallout_from_obamacare_workers_losing_employer_paid_insurance.html#ixzz1lGA6VGvB<Node id="2930" />
+
+<Node id="2932" /></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation Id="23" Type="rel" StartNode="1074" EndNode="1277">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">getting_insurance_will_be_harder</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="doc" StartNode="0" EndNode="2932">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">hc113</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">author</Name>
+  <Value className="java.lang.String">rick,morgan</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">source</Name>
+  <Value className="java.lang.String">americanthinker</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">date</Name>
+  <Value className="java.lang.String">20111112</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">side</Name>
+  <Value className="java.lang.String">anti</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">url</Name>
+  <Value className="java.lang.String">http://www.americanthinker.com/blog/2011/11/more_fallout_from_obamacare_workers_losing_employer_paid_insurance.html</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="arg" StartNode="18" EndNode="85">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">businesses_will_stop_offering_insurance_to_employees</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="27" Type="others" StartNode="251" EndNode="254">
+<Feature>
+  <Name className="java.lang.String">comment</Name>
+  <Value className="java.lang.String">propoerty...</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="arg" StartNode="98" EndNode="126">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">else</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="26" Type="others" StartNode="55" EndNode="61">
+<Feature>
+  <Name className="java.lang.String">comment</Name>
+  <Value className="java.lang.String">property...</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="arg" StartNode="128" EndNode="277">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">businesses_will_stop_offering_insurance_to_employees</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="arg" StartNode="279" EndNode="325">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">else</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="rel" StartNode="332" EndNode="486">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">businesses_will_stop_offering_insurance_to_employees</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="rel" StartNode="488" EndNode="620">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">businesses_will_stop_offering_insurance_to_employees</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="96">
+</Annotation>
+<Annotation Id="1" Type="paragraph" StartNode="98" EndNode="326">
+</Annotation>
+<Annotation Id="2" Type="paragraph" StartNode="332" EndNode="621">
+</Annotation>
+<Annotation Id="3" Type="paragraph" StartNode="627" EndNode="1068">
+</Annotation>
+<Annotation Id="4" Type="paragraph" StartNode="1074" EndNode="1689">
+</Annotation>
+<Annotation Id="5" Type="paragraph" StartNode="1695" EndNode="2375">
+</Annotation>
+<Annotation Id="6" Type="paragraph" StartNode="2377" EndNode="2592">
+</Annotation>
+<Annotation Id="7" Type="paragraph" StartNode="2594" EndNode="2788">
+</Annotation>
+<Annotation Id="8" Type="paragraph" StartNode="2790" EndNode="2930">
+</Annotation>
+<Annotation Id="17" Type="rel" StartNode="784" EndNode="931">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">businesses_will_stop_offering_insurance_to_employees</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="rel" StartNode="627" EndNode="782">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">businesses_will_stop_offering_insurance_to_employees</Value>
+</Feature>
+</Annotation>
+<Annotation Id="19" Type="rel" StartNode="2377" EndNode="2492">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">businesses_will_stop_offering_insurance_to_employees</Value>
+</Feature>
+</Annotation>
+<Annotation Id="18" Type="rel" StartNode="933" EndNode="1067">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">businesses_will_stop_offering_insurance_to_employees</Value>
+</Feature>
+</Annotation>
+<Annotation Id="21" Type="arg" StartNode="2594" EndNode="2711">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">goal_is_to_expand_entitlements</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="20" Type="arg" StartNode="2494" EndNode="2591">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">businesses_will_stop_offering_insurance_to_employees</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="22" Type="arg" StartNode="2713" EndNode="2787">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">else</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="25" Type="rel" StartNode="1695" EndNode="1915">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">getting_insurance_will_be_harder</Value>
+</Feature>
+</Annotation>
+<Annotation Id="24" Type="rel" StartNode="2062" EndNode="2374">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">getting_insurance_will_be_harder</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,266 @@
+<?xml version='1.0' encoding='MacRoman'?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/home/conrada/Dropbox/healthcare_data/training_new/hc129.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String">LF</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0" />United States Still Number 1  -  In Health Care Spending<Node id="56" />
+
+<Node id="58" />By Igor Volsky on Nov 23, 2011 at 12:02 pm<Node id="100" />
+
+<Node id="102" />A new Health at a Glance 2011 report finds - to nobody's great surprise - that the United States is leading the world in health care costs, spending some $7,960 per person in 2009 or 2.5 times the average of the 34 other countries studied<Node id="340" />:<Node id="341" />
+
+<Node id="343" />The report attributes the difference to higher than average prices for hospital services, certain medical procedures, and more frequent use of expensive medical technologies like MRIs and knee replacements<Node id="548" />. <Node id="550" />Consequently, the United States "stands out as performing very well in the area of cancer care" - high tech medicine - but falls behind in preventing these costly chronic conditions in the first place<Node id="750" />. <Node id="752" />We rank 27th in life expectancy at birth, 31st in premature mortality, 25th in the rate of cardiovascular mortality, and have the second worst rate of adult diabetes<Node id="917" />.<Node id="918" />
+
+<Node id="920" />But this kind of model is truly unsustainable<Node id="965" />. <Node id="967" />With the rising reates of obesity - the United States is leading the world in childhood and adult rates - and the chronic conditions that come with them<Node id="1119" />, <Node id="1121" />the system must be re-oriented towards prevention if <Node id="1174" />we<Node id="1176" /> ever want to start <Node id="1196" />tackling<Node id="1204" /> <Node id="1205" />health care costs<Node id="1222" />. <Node id="1224" />Fortunately, <Node id="1237" />the Affordable Care Act<Node id="1260" /> sets the nation on that path by <Node id="1293" />investing in<Node id="1305" /> <Node id="1306" />prevention<Node id="1316" /> and greatly <Node id="1329" />expanding<Node id="1338" /> <Node id="1339" />health care access<Node id="1357" />.
+Tags:<Node id="1364" />
+
+    <Node id="1370" />Health Care Costs<Node id="1387" />
+
+
+<Node id="1390" /></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation Id="6" Type="doc" StartNode="0" EndNode="1390">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">hc129</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">author</Name>
+  <Value className="java.lang.String">igor,volsky</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">source</Name>
+  <Value className="java.lang.String">thinkprogress</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">date</Name>
+  <Value className="java.lang.String">20111123</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">side</Name>
+  <Value className="java.lang.String">pro</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">url</Name>
+  <Value className="java.lang.String">http://thinkprogress.org/health/2011/11/23/375547/united-states-still-number-1-in-health-care-spending/</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="rel" StartNode="0" EndNode="56">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">healthcare_costs_out-of-control</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="rel" StartNode="102" EndNode="340">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">healthcare_costs_out-of-control</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="rel" StartNode="343" EndNode="548">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">healthcare_costs_out-of-control</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="rel" StartNode="550" EndNode="750">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">healthcare_quality_currently_not_good</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="rel" StartNode="752" EndNode="917">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">healthcare_quality_currently_not_good</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="arg" StartNode="1121" EndNode="1222">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">expands/guarantees_access_to_preventative_care</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="arg" StartNode="1224" EndNode="1357">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">expands/guarantees_access_to_preventative_care</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="arg" StartNode="920" EndNode="965">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">healthcare_costs_out-of-control</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="17" Type="gfbf" StartNode="1293" EndNode="1305">
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">21</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">goodfor</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">18</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="rel" StartNode="967" EndNode="1119">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">expands/guarantees_access_to_preventative_care</Value>
+</Feature>
+</Annotation>
+<Annotation Id="19" Type="gfbf" StartNode="1329" EndNode="1338">
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">21</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">goodfor</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">20</Value>
+</Feature>
+</Annotation>
+<Annotation Id="18" Type="gfbf-object" StartNode="1306" EndNode="1316">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="21" Type="gfbf-agent" StartNode="1237" EndNode="1260">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="20" Type="gfbf-object" StartNode="1339" EndNode="1357">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="23" Type="gfbf-object" StartNode="1205" EndNode="1222">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="22" Type="gfbf" StartNode="1196" EndNode="1204">
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">24</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">badfor</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">23</Value>
+</Feature>
+</Annotation>
+<Annotation Id="24" Type="gfbf-agent" StartNode="1174" EndNode="1176">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="56">
+</Annotation>
+<Annotation Id="1" Type="paragraph" StartNode="58" EndNode="100">
+</Annotation>
+<Annotation Id="2" Type="paragraph" StartNode="102" EndNode="341">
+</Annotation>
+<Annotation Id="3" Type="paragraph" StartNode="343" EndNode="918">
+</Annotation>
+<Annotation Id="4" Type="paragraph" StartNode="920" EndNode="1364">
+</Annotation>
+<Annotation Id="5" Type="paragraph" StartNode="1370" EndNode="1387">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

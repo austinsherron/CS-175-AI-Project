@@ -1,0 +1,381 @@
+<?xml version='1.0' encoding='MacRoman'?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/home/conrada/Dropbox/healthcare_data/devel2/hcd036.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String">LF</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0" />SkeeterVTFollowRSS
+Daily Kos member<Node id="35" />
+
+    <Node id="41" />Profile
+    Diaries (list)
+    Stream<Node id="78" />
+
+<Node id="80" />Tue Jan 03, 2012 at 07:41 AM PST
+<Node id="113" />Foes of Health-Care Law's 'Individual Mandate'<Node id="159" /> <Node id="160" />Ignore<Node id="166" /> <Node id="167" />Decades-Old Mandate for Auto Insurance<Node id="205" />
+
+<Node id="207" />by SkeeterVTFollow
+Share
+permalink 	38 Comments<Node id="254" />
+
+<Node id="256" />Lost in all the hullaballoo about the so-called  "individual mandate" in the health-care reform law is the fact that there has been an "individual mandate" for another type of insurance in place for decades  -- and, to date, no one has uttered a peep about whether that mandate is constitutional or not<Node id="558" />.<Node id="559" />
+
+<Node id="561" />You don't remember that one? Take a a look at your car. <Node id="617" /> You're required to carry liability insurance on it, or else you'll lose your license to drive it<Node id="714" />.<Node id="715" />
+
+<Node id="717" />All 50 states have compulsory auto-insurance laws<Node id="766" />. <Node id="768" />Yet no one has ever challenged the constitutionality of that requirement<Node id="840" />.  <Node id="843" />Indeed, any state that did not mandate compulsory auto insurance would likely lose federal highway funds under the Federal Aid Highway Act -- which has been in force for more than half a century<Node id="1037" />.<Node id="1038" />
+
+<Node id="1040" />Ironically, it is precisely because of the auto-insurance individual mandate that we have such fierce competition among auto insurers today<Node id="1179" />. <Node id="1181" />Such competition would not exist if auto insurance wasn't mandatory<Node id="1248" />.<Node id="1249" />
+
+<Node id="1251" />The Supreme Court<Node id="1268" /> should <Node id="1276" />uphold<Node id="1282" /> <Node id="1283" />the individual mandate for health insurance<Node id="1326" />. <Node id="1328" />It would ultimately do for the health-insurance industry what the individual mandate for auto insurance did for the auto insurance industry: <Node id="1469" />Create<Node id="1475" /> <Node id="1476" />fierce competition<Node id="1494" />, which would, in turn, force <Node id="1524" />a lowering of <Node id="1538" />premiums<Node id="1546" />.<Node id="1547" />
+
+<Node id="1549" />Tags<Node id="1553" />
+
+    <Node id="1559" />Health Care
+    Health-Care Reform Law
+    insurance<Node id="1611" />
+
+
+<Node id="1614" /></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation Id="11" Type="doc" StartNode="0" EndNode="1614">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">hcd036</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">author</Name>
+  <Value className="java.lang.String">skeetervt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">source</Name>
+  <Value className="java.lang.String">dailykos</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">date</Name>
+  <Value className="java.lang.String">20120103</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">side</Name>
+  <Value className="java.lang.String">pro</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">url</Name>
+  <Value className="java.lang.String">http://www.dailykos.com/story/2012/01/03/1051082/-Foes-of-Health-Care-Laws-Individual-Mandate-Ignore-Decades-Old-Mandate-for-Auto-Insurance</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="arg" StartNode="113" EndNode="205">
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">constitutional</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="rel" StartNode="256" EndNode="558">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">constitutional</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="rel" StartNode="617" EndNode="714">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">constitutional</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="rel" StartNode="717" EndNode="766">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">constitutional</Value>
+</Feature>
+</Annotation>
+<Annotation Id="17" Type="rel" StartNode="843" EndNode="1037">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">constitutional</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="rel" StartNode="768" EndNode="840">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">constitutional</Value>
+</Feature>
+</Annotation>
+<Annotation Id="19" Type="arg" StartNode="1181" EndNode="1248">
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">universal_coverage_requires_mandate</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="18" Type="arg" StartNode="1040" EndNode="1179">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">universal_coverage_requires_mandate</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="21" Type="arg" StartNode="1328" EndNode="1546">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">improves_competition</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">incomplete</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="20" Type="arg" StartNode="1251" EndNode="1326">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">constitutional</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="23" Type="para" StartNode="717" EndNode="1038">
+<Feature>
+  <Name className="java.lang.String">argmnt-label</Name>
+  <Value className="java.lang.String">constitutional</Value>
+</Feature>
+</Annotation>
+<Annotation Id="22" Type="para" StartNode="256" EndNode="715">
+<Feature>
+  <Name className="java.lang.String">argmnt-label</Name>
+  <Value className="java.lang.String">constitutional</Value>
+</Feature>
+</Annotation>
+<Annotation Id="25" Type="para" StartNode="1251" EndNode="1547">
+<Feature>
+  <Name className="java.lang.String">argmnt-label</Name>
+  <Value className="java.lang.String">constitutional</Value>
+</Feature>
+</Annotation>
+<Annotation Id="24" Type="para" StartNode="1040" EndNode="1249">
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argmnt-label</Name>
+  <Value className="java.lang.String">constitutional</Value>
+</Feature>
+</Annotation>
+<Annotation Id="27" Type="gfbf-object" StartNode="167" EndNode="205">
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="26" Type="gfbf" StartNode="160" EndNode="166">
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">31</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">27</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">badfor</Value>
+</Feature>
+</Annotation>
+<Annotation Id="29" Type="gfbf-object" StartNode="1283" EndNode="1326">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="28" Type="gfbf" StartNode="1276" EndNode="1282">
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">30</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">29</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">goodfor</Value>
+</Feature>
+</Annotation>
+<Annotation Id="31" Type="gfbf-agent" StartNode="113" EndNode="159">
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="30" Type="gfbf-agent" StartNode="1251" EndNode="1268">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="34" Type="gfbf-agent" StartNode="1469" EndNode="1494">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="35" Type="gfbf" StartNode="1469" EndNode="1475">
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">implicit</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">36</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">goodfor</Value>
+</Feature>
+</Annotation>
+<Annotation Id="32" Type="gfbf" StartNode="1524" EndNode="1538">
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">34</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">33</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">badfor</Value>
+</Feature>
+</Annotation>
+<Annotation Id="33" Type="gfbf-object" StartNode="1538" EndNode="1546">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="36" Type="gfbf-object" StartNode="1476" EndNode="1494">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="35">
+</Annotation>
+<Annotation Id="1" Type="paragraph" StartNode="41" EndNode="78">
+</Annotation>
+<Annotation Id="2" Type="paragraph" StartNode="80" EndNode="205">
+</Annotation>
+<Annotation Id="3" Type="paragraph" StartNode="207" EndNode="254">
+</Annotation>
+<Annotation Id="4" Type="paragraph" StartNode="256" EndNode="559">
+</Annotation>
+<Annotation Id="5" Type="paragraph" StartNode="561" EndNode="715">
+</Annotation>
+<Annotation Id="6" Type="paragraph" StartNode="717" EndNode="1038">
+</Annotation>
+<Annotation Id="7" Type="paragraph" StartNode="1040" EndNode="1249">
+</Annotation>
+<Annotation Id="8" Type="paragraph" StartNode="1251" EndNode="1547">
+</Annotation>
+<Annotation Id="9" Type="paragraph" StartNode="1549" EndNode="1553">
+</Annotation>
+<Annotation Id="10" Type="paragraph" StartNode="1559" EndNode="1611">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

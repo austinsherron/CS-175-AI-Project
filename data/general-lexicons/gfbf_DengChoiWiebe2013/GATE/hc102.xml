@@ -1,0 +1,352 @@
+<?xml version='1.0' encoding='US-ASCII'?>
+<GateDocument version="2">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/home/conrada/Dropbox/healthcare_data/training_new/hc102.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String">LF</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>January 27, 2012
+<Node id="17"/>Poll: Most believe <Node id="36"/>SCOTUS<Node id="42"/> should <Node id="50"/>reject<Node id="56"/> <Node id="57"/>health insurance mandate<Node id="81"/>
+Rick Moran<Node id="92"/>
+
+<Node id="94"/>What makes this poll particularly telling is that it was conducted by one of Obamacare's biggest boosters; the Kaiser Foundation.<Node id="223"/>
+
+<Node id="225"/>Wall Street Journal:<Node id="245"/>
+
+    <Node id="251"/>A new poll from the Kaiser Family Foundation shows that more than half of Americans say the Supreme Court should rule that <Node id="374"/>the health<Node id="384"/> <Node id="385"/>overhaul<Node id="393"/> <Node id="394"/>law's requirement<Node id="411"/> to have health insurance or pay a fine is unconstitutional<Node id="470"/>.<Node id="471"/>
+
+    <Node id="477"/>The poll by the nonpartisan foundation found that 54% of those surveyed said the Supreme Court should rule against the mandate while only 17% said the court should uphold it and 29% either didn't know or didn't answer<Node id="694"/>.<Node id="695"/>
+
+    <Node id="701"/>Republican opposition to the Democrats' 2010 health care overhaul law is intense, with 73% of Republicans having an unfavorable view of it<Node id="839"/>. By contrast, 62% of Democrats view it favorably.<Node id="889"/>
+
+    <Node id="895"/>The survey also found that <Node id="922"/>most Republican<Node id="937"/> voters <Node id="945"/>don't<Node id="950"/> <Node id="951"/>agree with<Node id="961"/> <Node id="962"/>the attack on<Node id="975"/> <Node id="976"/>GOP presidential candidate Mitt Romney<Node id="1014"/> that the health care law he signed as governor of Massachusetts is similar to the federal law<Node id="1108"/>. <Node id="1110"/>Some 30% said they felt Mr  Romney's views on health care were akin to President Barack Obama's, but almost half said the former governor's views are different, and 22% didn't answer<Node id="1292"/>.<Node id="1293"/>
+
+    <Node id="1299"/>The poll, conducted from Jan  12 to Jan  17, has a three percentage point margin of error.<Node id="1389"/>
+
+<Node id="1391"/>Interesting state of denial by GOP voters about Romneycare - especially since Obama has stated that much of Obamacare was based on the MA law<Node id="1532"/>. <Node id="1534"/>But the findings that show an overwhelming <Node id="1577"/>preference to<Node id="1590"/> <Node id="1591"/>have SCOTUS declare the mandate unconstitutional is heartening<Node id="1653"/>. <Node id="1655"/>The Supreme Court is an intensely political bunch and hate getting too far out ahead of the American people - usually<Node id="1772"/>. They read the polls just like the rest of us.<Node id="1819"/>
+
+<Node id="1821"/>The arguments and decision will be among the most momentus since the civil rights cases of the 50's and 60's.<Node id="1930"/>
+
+<Node id="1932"/>Read more: http://www.americanthinker.com/blog/2012/01/poll_most_believe_scotus_should_reject_health_insurance_mandate.html#ixzz1lFfSBqBi<Node id="2069"/>
+
+<Node id="2071"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation Id="34" Type="gfbf-object" StartNode="1591" EndNode="1653">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="32" Type="gfbf-object" StartNode="976" EndNode="1014">
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="33" Type="gfbf" StartNode="1577" EndNode="1590">
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">implicit</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">34</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">goodfor</Value>
+</Feature>
+</Annotation>
+<Annotation Id="36" Type="influencer" StartNode="951" EndNode="961">
+<Feature>
+  <Name className="java.lang.String">effect</Name>
+  <Value className="java.lang.String">retain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">29</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">31</Value>
+</Feature>
+</Annotation>
+<Annotation Id="37" Type="influencer" StartNode="945" EndNode="950">
+<Feature>
+  <Name className="java.lang.String">effect</Name>
+  <Value className="java.lang.String">reverse</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">29</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">36</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="doc" StartNode="0" EndNode="2071">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">hc102</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">author</Name>
+  <Value className="java.lang.String">rick,morgan</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">date</Name>
+  <Value className="java.lang.String">20120127</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">source</Name>
+  <Value className="java.lang.String">americanthinker</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">side</Name>
+  <Value className="java.lang.String">anti</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">url</Name>
+  <Value className="java.lang.String">http://www.americanthinker.com/blog/2012/01/poll_most_believe_scotus_should_reject_health_insurance_mandate.html</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="arg" StartNode="17" EndNode="81">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">mandate_unpopular</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="arg" StartNode="251" EndNode="470">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">mandate_unpopular</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="rel" StartNode="477" EndNode="694">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">mandate_unpopular</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="rel" StartNode="701" EndNode="839">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">unpopular</Value>
+</Feature>
+</Annotation>
+<Annotation Id="17" Type="rel" StartNode="1110" EndNode="1292">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">massachusetts_plan_better_than_obamacare</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="arg" StartNode="895" EndNode="1108">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">massachusetts_plan_better_than_obamacare</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="19" Type="arg" StartNode="1534" EndNode="1653">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">mandate_unpopular</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="18" Type="rel" StartNode="1391" EndNode="1532">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">massachusetts_plan_better_than_obamacare</Value>
+</Feature>
+</Annotation>
+<Annotation Id="21" Type="gfbf" StartNode="50" EndNode="56">
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">23</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">badfor</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">22</Value>
+</Feature>
+</Annotation>
+<Annotation Id="20" Type="rel" StartNode="1655" EndNode="1772">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">mandate_unpopular</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</Annotation>
+<Annotation Id="23" Type="gfbf-agent" StartNode="36" EndNode="42">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="22" Type="gfbf-object" StartNode="57" EndNode="81">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="25" Type="gfbf-object" StartNode="394" EndNode="411">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="24" Type="gfbf-agent" StartNode="374" EndNode="384">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="26" Type="gfbf" StartNode="385" EndNode="393">
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">24</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">badfor</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">25</Value>
+</Feature>
+</Annotation>
+<Annotation Id="29" Type="gfbf-agent" StartNode="922" EndNode="937">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="31" Type="gfbf" StartNode="962" EndNode="975">
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">implicit</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">32</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">badfor</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="92">
+</Annotation>
+<Annotation Id="1" Type="paragraph" StartNode="94" EndNode="223">
+</Annotation>
+<Annotation Id="2" Type="paragraph" StartNode="225" EndNode="245">
+</Annotation>
+<Annotation Id="3" Type="paragraph" StartNode="251" EndNode="471">
+</Annotation>
+<Annotation Id="4" Type="paragraph" StartNode="477" EndNode="695">
+</Annotation>
+<Annotation Id="5" Type="paragraph" StartNode="701" EndNode="889">
+</Annotation>
+<Annotation Id="6" Type="paragraph" StartNode="895" EndNode="1293">
+</Annotation>
+<Annotation Id="7" Type="paragraph" StartNode="1299" EndNode="1389">
+</Annotation>
+<Annotation Id="8" Type="paragraph" StartNode="1391" EndNode="1819">
+</Annotation>
+<Annotation Id="9" Type="paragraph" StartNode="1821" EndNode="1930">
+</Annotation>
+<Annotation Id="10" Type="paragraph" StartNode="1932" EndNode="2069">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

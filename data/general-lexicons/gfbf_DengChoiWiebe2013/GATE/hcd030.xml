@@ -1,0 +1,929 @@
+<?xml version='1.0' encoding='US-ASCII'?>
+<GateDocument version="2">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/home/conrada/Dropbox/healthcare_data/devel2/hcd030.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String">LF</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>CedwynFollowRSS
+Daily Kos member<Node id="32"/>
+
+    <Node id="38"/>Profile
+    Diaries (list)
+    Stream<Node id="75"/>
+
+<Node id="77"/>Tue Dec 21, 2010 at 08:45 AM PST
+<Node id="110"/>PPACA<Node id="115"/> <Node id="116"/>Regulating<Node id="126"/> <Node id="127"/>Insurance Premiums<Node id="145"/>
+
+<Node id="147"/>by CedwynFollow
+ShareNew
+permalink 	27 Comments<Node id="194"/>
+
+<Node id="196"/>Kathleen Sebelius has sent out an announcement discussing the $250 million PPACA provides to states to monitor and review insurance rate hikes<Node id="338"/>.  <Node id="341"/>It's an excellent foil to the Medical Loss Ratio requirements, as <Node id="407"/>insurers<Node id="415"/> now have to think twice about <Node id="446"/>upping<Node id="452"/> <Node id="453"/>premiums<Node id="461"/> to <Node id="465"/>boost<Node id="470"/> <Node id="471"/>their profit volume<Node id="490"/>. <Node id="492"/>It's also the foundation and a beautiful prelude to the exchanges, where <Node id="565"/>bad faith actors<Node id="581"/> will be <Node id="590"/>shut out<Node id="598"/> of the market<Node id="612"/>.<Node id="613"/>
+
+<Node id="615"/>There's a really groovy widget-thingy at healthcare.gov you can play with; it's basically a timeline of when the different parts of PPACA go into effect.  Here is what it says about the oversight grant money:<Node id="823"/>
+
+    <Node id="829"/>The law allows states that have, or plan to implement, measures that require insurance companies to justify their premium increases to be eligible for $250 million in new grants<Node id="1006"/>.  <Node id="1009"/>Insurance companies with excessive or unjustified premium increases may not be able to participate in the new health insurance Exchanges in 2014<Node id="1153"/>.<Node id="1154"/>
+
+<Node id="1156"/>And here is additional information from Sebelius' announcement this morning:<Node id="1232"/>
+
+    <Node id="1238"/>The Affordable Care Act<Node id="1261"/> has already begun to <Node id="1283"/>help<Node id="1287"/> <Node id="1288"/>states<Node id="1294"/> <Node id="1295"/>strengthen<Node id="1305"/> or <Node id="1309"/>create<Node id="1315"/> <Node id="1316"/>rate review processes<Node id="1337"/>.  <Node id="1340"/>On August 16, HHS awarded <Node id="1366"/>$46 million<Node id="1377"/> to <Node id="1381"/>45 states and the District of Columbia<Node id="1419"/> to <Node id="1423"/>help<Node id="1427"/> <Node id="1428"/>them<Node id="1432"/> <Node id="1433"/>improve<Node id="1440"/> <Node id="1441"/>their oversight of proposed health insurance rate increases<Node id="1500"/>.<Node id="1501"/>
+
+    <Node id="1507"/>...<Node id="1510"/>Today's proposed regulations will build on these efforts by requiring insurers in all states to publicly justify any unreasonable rate increases beginning in 2011<Node id="1672"/>. <Node id="1674"/>In 2011, proposed rate increases of 10 percent or higher will be publicly disclosed and thoroughly reviewed to determine if the rate increase is unreasonable<Node id="1831"/>.  <Node id="1834"/>After 2011, state-specific thresholds would be set using data and trends that better reflect cost trends particular to each state<Node id="1963"/>.  <Node id="1966"/>Insurance company's justifications for unreasonable increases will be posted on HealthCare.gov and the insurance plan's website<Node id="2093"/>.<Node id="2094"/>
+
+    <Node id="2100"/>...<Node id="2103"/>Under the proposed regulation, states with effective rate review systems would conduct the reviews<Node id="2201"/>. <Node id="2203"/>If a state lacks the resources or authority to do thorough actuarial reviews, HHS would conduct them<Node id="2303"/>.  <Node id="2306"/>Meanwhile, HHS will continue to make <Node id="2343"/>resources<Node id="2352"/> available to <Node id="2366"/>states<Node id="2372"/> to <Node id="2376"/>strengthen<Node id="2386"/> <Node id="2387"/>their rate review processes<Node id="2414"/>.  <Node id="2417"/>
+
+    <Node id="2423"/>In 2014, <Node id="2432"/>the Affordable Care Act<Node id="2455"/> <Node id="2456"/>empowers<Node id="2464"/> <Node id="2465"/>states<Node id="2471"/> to <Node id="2475"/>exclude<Node id="2482"/> <Node id="2483"/>health plans that show a pattern of excessive or unjustified premium increases<Node id="2561"/> from the new health insurance exchanges<Node id="2601"/>.<Node id="2602"/>
+
+<Node id="2604"/>I especially like how 2011 will be used as a calibration point of sorts, with <Node id="2682"/>these reviews<Node id="2695"/> <Node id="2696"/>forming the basis for<Node id="2717"/> <Node id="2718"/>state-specific premium models and controls<Node id="2760"/>.  <Node id="2763"/>The part about HHS conducting the reviews for states that can't<Node id="2826"/> was also particularly delicious; it no longer matters if a state doesn't have its own insurance commissioner or other oversight<Node id="2954"/>.  <Node id="2957"/>It<Node id="2959"/> also <Node id="2965"/>complements<Node id="2976"/> <Node id="2977"/>state regulation<Node id="2993"/>, <Node id="2995"/>not<Node id="2998"/> <Node id="2999"/>supplant<Node id="3007"/> <Node id="3008"/>it<Node id="3010"/>, i.e., <Node id="3018"/>it<Node id="3020"/> <Node id="3021"/>bolsters<Node id="3029"/> <Node id="3030"/>states that don't have adequate oversight<Node id="3071"/> but leaves states that do alone<Node id="3103"/>.  But they still have to meet HHS requirements.<Node id="3151"/>
+Originally posted to Cedwyn on Tue Dec 21, 2010 at 08:45 AM PST.
+Tags<Node id="3221"/>
+
+    <Node id="3227"/>Kathleen Sebelius
+    PPACA<Node id="3254"/>
+
+
+
+<Node id="3258"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation Id="14" Type="doc" StartNode="0" EndNode="3258">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">hcd030</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">author</Name>
+  <Value className="java.lang.String">cedwyn</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">source</Name>
+  <Value className="java.lang.String">dailykos</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">date</Name>
+  <Value className="java.lang.String">20101221</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">side</Name>
+  <Value className="java.lang.String">pro</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">url</Name>
+  <Value className="java.lang.String">http://www.dailykos.com/story/2010/12/21/930665/-PPACA-Regulating-Insurance-Premiums</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="arg" StartNode="341" EndNode="490">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">prevents_exorbitant_rate_increases</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="17" Type="rel" StartNode="196" EndNode="338">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">prevents_exorbitant_rate_increases</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="arg" StartNode="492" EndNode="612">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">exchanges_support_informed_choice</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="19" Type="rel" StartNode="829" EndNode="1006">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">prevents_exorbitant_rate_increases</Value>
+</Feature>
+</Annotation>
+<Annotation Id="18" Type="rel" StartNode="110" EndNode="145">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">prevents_corporate_exploitation</Value>
+</Feature>
+</Annotation>
+<Annotation Id="21" Type="arg" StartNode="1238" EndNode="1337">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">prevents_exorbitant_rate_increases</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="20" Type="rel" StartNode="1009" EndNode="1153">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">prevents_exorbitant_rate_increases</Value>
+</Feature>
+</Annotation>
+<Annotation Id="23" Type="rel" StartNode="1510" EndNode="1672">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">prevents_exorbitant_rate_increases</Value>
+</Feature>
+</Annotation>
+<Annotation Id="22" Type="rel" StartNode="1340" EndNode="1500">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">prevents_exorbitant_rate_increases</Value>
+</Feature>
+</Annotation>
+<Annotation Id="25" Type="rel" StartNode="1834" EndNode="1963">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">prevents_exorbitant_rate_increases</Value>
+</Feature>
+</Annotation>
+<Annotation Id="24" Type="rel" StartNode="1674" EndNode="1831">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">prevents_exorbitant_rate_increases</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="27" Type="rel" StartNode="2103" EndNode="2201">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">prevents_exorbitant_rate_increases</Value>
+</Feature>
+</Annotation>
+<Annotation Id="26" Type="rel" StartNode="1966" EndNode="2093">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">prevents_exorbitant_rate_increases</Value>
+</Feature>
+</Annotation>
+<Annotation Id="29" Type="rel" StartNode="2306" EndNode="2414">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">prevents_exorbitant_rate_increases</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="28" Type="rel" StartNode="2203" EndNode="2303">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">prevents_exorbitant_rate_increases</Value>
+</Feature>
+</Annotation>
+<Annotation Id="31" Type="arg" StartNode="2604" EndNode="2760">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">prevents_exorbitant_rate_increases</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">incomplete</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="30" Type="arg" StartNode="2423" EndNode="2601">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">prevents_exorbitant_rate_increases</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="34" Type="para" StartNode="196" EndNode="613">
+<Feature>
+  <Name className="java.lang.String">argmnt-label</Name>
+  <Value className="java.lang.String">prevents_exorbitant_rate_increases</Value>
+</Feature>
+</Annotation>
+<Annotation Id="35" Type="para" StartNode="615" EndNode="823">
+<Feature>
+  <Name className="java.lang.String">argmnt-label</Name>
+  <Value className="java.lang.String">none</Value>
+</Feature>
+</Annotation>
+<Annotation Id="32" Type="arg" StartNode="2763" EndNode="2954">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">prevents_exorbitant_rate_increases</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">incomplete</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="33" Type="arg" StartNode="2957" EndNode="3103">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">prevents_exorbitant_rate_increases</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">incomplete</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</Annotation>
+<Annotation Id="38" Type="para" StartNode="1507" EndNode="2094">
+<Feature>
+  <Name className="java.lang.String">argmnt-label</Name>
+  <Value className="java.lang.String">prevents_exorbitant_rate_increases</Value>
+</Feature>
+</Annotation>
+<Annotation Id="39" Type="para" StartNode="2100" EndNode="2417">
+<Feature>
+  <Name className="java.lang.String">argmnt-label</Name>
+  <Value className="java.lang.String">prevents_exorbitant_rate_increases</Value>
+</Feature>
+</Annotation>
+<Annotation Id="36" Type="para" StartNode="829" EndNode="1154">
+<Feature>
+  <Name className="java.lang.String">argmnt-label</Name>
+  <Value className="java.lang.String">prevents_exorbitant_rate_increases</Value>
+</Feature>
+</Annotation>
+<Annotation Id="37" Type="para" StartNode="1156" EndNode="1501">
+<Feature>
+  <Name className="java.lang.String">argmnt-label</Name>
+  <Value className="java.lang.String">prevents_exorbitant_rate_increases</Value>
+</Feature>
+</Annotation>
+<Annotation Id="42" Type="gfbf-object" StartNode="471" EndNode="490">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="43" Type="gfbf-agent" StartNode="446" EndNode="461">
+<Feature>
+  <Name className="java.lang.String">uncertain</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="40" Type="para" StartNode="2423" EndNode="3151">
+<Feature>
+  <Name className="java.lang.String">argmnt-label</Name>
+  <Value className="java.lang.String">prevents_exorbitant_rate_increases</Value>
+</Feature>
+</Annotation>
+<Annotation Id="41" Type="gfbf" StartNode="465" EndNode="470">
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">43</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">uncertain</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">42</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">goodfor</Value>
+</Feature>
+</Annotation>
+<Annotation Id="46" Type="gfbf-agent" StartNode="407" EndNode="415">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="47" Type="gfbf" StartNode="590" EndNode="598">
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">implicit</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">uncertain</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">48</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">badfor</Value>
+</Feature>
+</Annotation>
+<Annotation Id="44" Type="gfbf" StartNode="446" EndNode="452">
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">46</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">goodfor</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">45</Value>
+</Feature>
+</Annotation>
+<Annotation Id="45" Type="gfbf-object" StartNode="453" EndNode="461">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="51" Type="gfbf" StartNode="1309" EndNode="1315">
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">53</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">goodfor</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">52</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50" Type="gfbf" StartNode="1295" EndNode="1305">
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">53</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">goodfor</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">52</Value>
+</Feature>
+</Annotation>
+<Annotation Id="48" Type="gfbf-object" StartNode="565" EndNode="581">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="54" Type="gfbf" StartNode="2475" EndNode="2482">
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">56</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">badfor</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">90</Value>
+</Feature>
+</Annotation>
+<Annotation Id="53" Type="gfbf-agent" StartNode="1288" EndNode="1294">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="52" Type="gfbf-object" StartNode="1316" EndNode="1337">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="59" Type="gfbf-object" StartNode="2718" EndNode="2760">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="58" Type="gfbf-agent" StartNode="2682" EndNode="2695">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="57" Type="gfbf" StartNode="2696" EndNode="2717">
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">58</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">uncertain</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">59</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">goodfor</Value>
+</Feature>
+</Annotation>
+<Annotation Id="56" Type="gfbf-agent" StartNode="2465" EndNode="2471">
+<Feature>
+  <Name className="java.lang.String">comment</Name>
+  <Value className="java.lang.String">.</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="63" Type="gfbf-object" StartNode="3008" EndNode="3010">
+<Feature>
+  <Name className="java.lang.String">referentId</Name>
+  <Value className="java.lang.String">72</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">refererence</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="62" Type="gfbf" StartNode="2999" EndNode="3007">
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">66</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">badfor</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">63</Value>
+</Feature>
+</Annotation>
+<Annotation Id="61" Type="gfbf-object" StartNode="2977" EndNode="2993">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="60" Type="gfbf" StartNode="2965" EndNode="2976">
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">65</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">goodfor</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">61</Value>
+</Feature>
+</Annotation>
+<Annotation Id="68" Type="gfbf" StartNode="3021" EndNode="3029">
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">67</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">goodfor</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">69</Value>
+</Feature>
+</Annotation>
+<Annotation Id="69" Type="gfbf-object" StartNode="3030" EndNode="3071">
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">none</Value>
+</Feature>
+</Annotation>
+<Annotation Id="71" Type="referent" StartNode="2763" EndNode="2826">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="64" Type="influencer" StartNode="2995" EndNode="2998">
+<Feature>
+  <Name className="java.lang.String">effect</Name>
+  <Value className="java.lang.String">reverse</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">66</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">62</Value>
+</Feature>
+</Annotation>
+<Annotation Id="65" Type="gfbf-agent" StartNode="2957" EndNode="2959">
+<Feature>
+  <Name className="java.lang.String">reference</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">referentId</Name>
+  <Value className="java.lang.String">71</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="66" Type="gfbf-agent" StartNode="2957" EndNode="2959">
+<Feature>
+  <Name className="java.lang.String">reference</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">referentId</Name>
+  <Value className="java.lang.String">71</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="67" Type="gfbf-agent" StartNode="3018" EndNode="3020">
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">reference</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">referentId</Name>
+  <Value className="java.lang.String">71</Value>
+</Feature>
+</Annotation>
+<Annotation Id="76" Type="referent" StartNode="1381" EndNode="1419">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="77" Type="gfbf" StartNode="1433" EndNode="1440">
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">79</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">78</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">goodfor</Value>
+</Feature>
+</Annotation>
+<Annotation Id="78" Type="gfbf-object" StartNode="1441" EndNode="1500">
+<Feature>
+  <Name className="java.lang.String">referentId</Name>
+  <Value className="java.lang.String">76</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">refererence</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="79" Type="gfbf-agent" StartNode="1428" EndNode="1432">
+<Feature>
+  <Name className="java.lang.String">reference</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">referentId</Name>
+  <Value className="java.lang.String">76</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="72" Type="referent" StartNode="2977" EndNode="2993">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="73" Type="influencer" StartNode="1423" EndNode="1427">
+<Feature>
+  <Name className="java.lang.String">effect</Name>
+  <Value className="java.lang.String">retain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">83</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">77</Value>
+</Feature>
+</Annotation>
+<Annotation Id="85" Type="gfbf-object" StartNode="2387" EndNode="2414">
+<Feature>
+  <Name className="java.lang.String">referentId</Name>
+  <Value className="java.lang.String">89</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">refererence</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="84" Type="gfbf" StartNode="2376" EndNode="2386">
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">87</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">goodfor</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">85</Value>
+</Feature>
+</Annotation>
+<Annotation Id="87" Type="gfbf-agent" StartNode="2343" EndNode="2352">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="81" Type="influencer" StartNode="1283" EndNode="1287">
+<Feature>
+  <Name className="java.lang.String">effect</Name>
+  <Value className="java.lang.String">retain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">82</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">50</Value>
+</Feature>
+</Annotation>
+<Annotation Id="80" Type="influencer" StartNode="1283" EndNode="1287">
+<Feature>
+  <Name className="java.lang.String">effect</Name>
+  <Value className="java.lang.String">retain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">82</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">51</Value>
+</Feature>
+</Annotation>
+<Annotation Id="83" Type="gfbf-agent" StartNode="1366" EndNode="1377">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="82" Type="gfbf-agent" StartNode="1238" EndNode="1261">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="93" Type="gfbf" StartNode="116" EndNode="126">
+<Feature>
+  <Name className="java.lang.String">uncertain</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">95</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">94</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">badfor</Value>
+</Feature>
+</Annotation>
+<Annotation Id="92" Type="gfbf-agent" StartNode="2432" EndNode="2455">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="95" Type="gfbf-agent" StartNode="110" EndNode="115">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="94" Type="gfbf-object" StartNode="127" EndNode="145">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="89" Type="referent" StartNode="2366" EndNode="2372">
+</Annotation>
+<Annotation Id="91" Type="influencer" StartNode="2456" EndNode="2464">
+<Feature>
+  <Name className="java.lang.String">effect</Name>
+  <Value className="java.lang.String">retain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">92</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">54</Value>
+</Feature>
+</Annotation>
+<Annotation Id="90" Type="gfbf-object" StartNode="2483" EndNode="2561">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="32">
+</Annotation>
+<Annotation Id="1" Type="paragraph" StartNode="38" EndNode="75">
+</Annotation>
+<Annotation Id="2" Type="paragraph" StartNode="77" EndNode="145">
+</Annotation>
+<Annotation Id="3" Type="paragraph" StartNode="147" EndNode="194">
+</Annotation>
+<Annotation Id="4" Type="paragraph" StartNode="196" EndNode="613">
+</Annotation>
+<Annotation Id="5" Type="paragraph" StartNode="615" EndNode="823">
+</Annotation>
+<Annotation Id="6" Type="paragraph" StartNode="829" EndNode="1154">
+</Annotation>
+<Annotation Id="7" Type="paragraph" StartNode="1156" EndNode="1232">
+</Annotation>
+<Annotation Id="8" Type="paragraph" StartNode="1238" EndNode="1501">
+</Annotation>
+<Annotation Id="9" Type="paragraph" StartNode="1507" EndNode="2094">
+</Annotation>
+<Annotation Id="10" Type="paragraph" StartNode="2100" EndNode="2417">
+</Annotation>
+<Annotation Id="11" Type="paragraph" StartNode="2423" EndNode="2602">
+</Annotation>
+<Annotation Id="12" Type="paragraph" StartNode="2604" EndNode="3221">
+</Annotation>
+<Annotation Id="13" Type="paragraph" StartNode="3227" EndNode="3254">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,311 @@
+<?xml version='1.0' encoding='MacRoman'?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/E:/Users/conrada/Documents/My%20Dropbox/healthcare_data/training_3/hc088.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String">CRLF</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0" />Category: Tax Tips Tags: , Affordable Care Act, tax deductions and credits&#xd;
+by JoeTaxpayer April 5, 2011&#xd;
+What is the Affordable Care Act?&#xd;
+<Node id="140" />&#xd;
+<Node id="142" />Healthcare reform kicked off in 2010, and some changes to tax credits and medical accounts will go into effect in 2010 and 2011. But you won't see major changes until 2013 and 2014. There are two major pieces to understand, first the Patient Protection and Affordable Care Act (PPACA), and the Health Care and Education Reconciliation Act of 2010. Today, I'd like to discuss the first statute, commonly referred to as the Affordable Care Act and how it might impact your wallet.&#xd;
+<Node id="622" />&#xd;
+    <Node id="628" />Small Business Health Care Tax Credit: 4 million small businesses are eligible for <Node id="711" />a tax credit<Node id="723" /> to help <Node id="732" />fund<Node id="736" /> <Node id="737" />insurance for their workers<Node id="764" />. <Node id="766" />A small business is defined as those employing 25 or fewer people, and the credit is up to 35% of the coverage cost<Node id="881" />.&#xd;
+    Changes to the Flexible Spending Account: In 2011 one change that may impact you is that non-prescription (ie  over the counter) medicines are no longer allowed to be reimbursed by the FSA or you Health Savings Account (HSA). There is a specific waiver that permits insulin to be covered without prescriptions, and eyeglasses, contact lenses, and co-pays/deductibles remain approved.&#xd;
+    <Node id="1277" />Health Coverage for Older Children: Companies are now permitted to cover employee's children up to age 27<Node id="1382" />. <Node id="1384" />This may appear a bit old at first, but given the job market and students taking time off during their college years, many were left uninsured<Node id="1526" />. <Node id="1528" />This provision helps close that gap<Node id="1563" />.&#xd;
+    <Node id="1570" />Indoor Tanning: A 10% excise tax went into effect July 1, 2010<Node id="1632" />. Licensed medical professionals treating skin disorders are exempt from this "vanity" tax.&#xd;
+    Employer-Provided Health Coverage: While not taxable, employers are encouraged to report the value of this benefit to their employees. This is optional for 2011, but required next year.&#xd;
+    <Node id="1920" />The Adoption Credit: The tax credit you can receive for the expenses associated with the <Node id="2009" />adoption of<Node id="2020" /> <Node id="2021" />a child<Node id="2028" /> is now up to $13,170 per child<Node id="2059" />. <Node id="2061" />Further, this credit is refundable, meaning if your total tax bill was otherwise lower than the credit you qualify for, you will get a check for the amount owed to you<Node id="2228" />. Form 8839 will walk you through the income restrictions and other details to better understand this benefit.&#xd;
+<Node id="2340" />&#xd;
+<Node id="2342" />Overall the intent of <Node id="2364" />the Affordable Care Act<Node id="2387" /> is to <Node id="2394" />live up to<Node id="2404" /> <Node id="2405" />its own name<Node id="2417" />, to <Node id="2422" />reduce<Node id="2428" /> and one day <Node id="2441" />eliminate<Node id="2450" /> <Node id="2451" />the high numbers of us who are counted as uninsured<Node id="2502" />.<Node id="2503" /></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation Id="4" Type="doc" StartNode="0" EndNode="2503">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">hc088</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">author</Name>
+  <Value className="java.lang.String">joetaxpayer</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">date</Name>
+  <Value className="java.lang.String">20110405</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">source</Name>
+  <Value className="java.lang.String">tax,break,turbotax</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">side</Name>
+  <Value className="java.lang.String">pro</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">url</Name>
+  <Value className="java.lang.String">http://blog.turbotax.intuit.com/2011/04/05/what-is-the-affordable-care-act/</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="arg" StartNode="628" EndNode="764">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">helps_small_business</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="rel" StartNode="1277" EndNode="1382">
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">children_can_stay_on_parent_plans_longer</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="arg" StartNode="1384" EndNode="1526">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">children_can_stay_on_parent_plans_longer</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="arg" StartNode="2342" EndNode="2502">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">improves_access_to_healthcare_and_insurance</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="arg" StartNode="1920" EndNode="2059">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">new_tax_credits_for_adoption</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="rel" StartNode="766" EndNode="881">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">helps_small_business</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="rel" StartNode="2061" EndNode="2228">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">tax_credits_improve_affordability</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="rel" StartNode="1570" EndNode="1632">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">improves_efficiency_of_medicine_utilization</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="gfbf" StartNode="732" EndNode="736">
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">17</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">16</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">goodfor</Value>
+</Feature>
+</Annotation>
+<Annotation Id="17" Type="gfbf-agent" StartNode="711" EndNode="723">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="gfbf-object" StartNode="737" EndNode="764">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="19" Type="gfbf-object" StartNode="2021" EndNode="2028">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="18" Type="gfbf" StartNode="2009" EndNode="2020">
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">implicit</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">19</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">goodfor</Value>
+</Feature>
+</Annotation>
+<Annotation Id="21" Type="gfbf-agent" StartNode="2364" EndNode="2387">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="20" Type="gfbf" StartNode="2394" EndNode="2404">
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">21</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">22</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">goodfor</Value>
+</Feature>
+</Annotation>
+<Annotation Id="23" Type="gfbf" StartNode="2422" EndNode="2428">
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">21</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">25</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">badfor</Value>
+</Feature>
+</Annotation>
+<Annotation Id="22" Type="gfbf-object" StartNode="2405" EndNode="2417">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="25" Type="gfbf-object" StartNode="2451" EndNode="2502">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="24" Type="gfbf" StartNode="2441" EndNode="2450">
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">21</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">25</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">badfor</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="140">
+</Annotation>
+<Annotation Id="1" Type="paragraph" StartNode="142" EndNode="622">
+</Annotation>
+<Annotation Id="2" Type="paragraph" StartNode="628" EndNode="2340">
+</Annotation>
+<Annotation Id="3" Type="paragraph" StartNode="2342" EndNode="2503">
+</Annotation>
+<Annotation Id="11" Type="arg" StartNode="1528" EndNode="1563">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">children_can_stay_on_parent_plans_longer</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

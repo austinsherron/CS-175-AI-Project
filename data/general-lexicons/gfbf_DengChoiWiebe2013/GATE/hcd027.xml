@@ -1,0 +1,441 @@
+<?xml version='1.0' encoding='MacRoman'?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/home/conrada/Dropbox/healthcare_data/devel2/hcd027.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String">LF</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0" />And the Winners of the First Obamacare Payout Lottery Are ... Not the Taxpayers<Node id="79" />
+Share33
+posted at 3:45 pm on April 2, 2011 by Jimmie Bise, Jr
+[ Healthcare ]    printer-friendly<Node id="176" />
+
+<Node id="178" />If you had any doubt that <Node id="204" />Obamacare<Node id="213" /> was a huge scam, let <Node id="235" />Jamie Dupree<Node id="247" /> <Node id="248" />blast<Node id="253" /> <Node id="254" />it<Node id="256" /> away like an oyster cracker before a sandstorm<Node id="303" />.<Node id="304" />
+
+    <Node id="310" />Facing questions from both parties in the Congress, the Obama Administration has now revealed how it has spent over $1.7 billion on part of the Obama health law, known as the Early Retiree Reinsurance Program<Node id="518" />.<Node id="519" />
+
+    <Node id="525" />This plan<Node id="534" /> is intended to help companies pay the cost of health care for their early retirees<Node id="617" />, but <Node id="623" />lawmakers say <Node id="637" />it<Node id="639" /> is <Node id="643" />wrongly<Node id="650" /> <Node id="651" />benefiting<Node id="661" /> <Node id="662" />companies like AT&amp;T and General Electric, who have billions in profits on their bottom lines<Node id="754" />. <Node id="756" />
+
+<Node id="758" />The list that follows is like a Who's Who of big campaign donors, unions, and public employee groups<Node id="858" />. <Node id="860" />Six of the top ten recipients are pension systems for public employees<Node id="930" />. <Node id="932" />The United Auto Workers, already $3.4 richer from the auto bailout, topped the list with an award of almost $207 million<Node id="1052" />. <Node id="1054" />General Electric, which paid no taxes at all in 2010 and whose CEO is a darling of the White House, received $36.6 million, good for 11th place on the list<Node id="1209" />.<Node id="1210" />
+
+<Node id="1212" />AT&amp;T, which placed second on the list, spent slightly under $15.4 million on lobbying efforts in 2010 and will rake in over $140 million from just this portion of Obamacare<Node id="1384" />. <Node id="1386" />Verizon, third on the list, will make $91.9 million on its $16.75 million 2010 lobbying investment<Node id="1484" />.<Node id="1485" />
+
+<Node id="1487" />Melissa Clouthier has the right of it<Node id="1524" />. <Node id="1526" />This has to stop<Node id="1542" />. <Node id="1544" />Let us set aside the obvious fact that we simply can't afford Obamacare and focus on the message the ERRP sends<Node id="1655" />. <Node id="1657" />Companies now have a crystal-clear example that if they pony up a few million dollars to Washington politicians, they can expect to see their money returned to them multiplied many times<Node id="1843" />. <Node id="1845" />Most of us who have watched Washington politics know this has been true for a while but I can't recall a time when our government was this blatant about paying back its corporate and union supporters<Node id="2044" />. <Node id="2046" />If ever there was a time for the taxpayers to push back hard against the rent-seeking and paybacks, it's now<Node id="2154" />. If not, well, we deserve everything we get.<Node id="2199" />
+
+<Node id="2201" />Jimmie runs The Sundries Shack and has his own very entertaining podcast called "The Delivery". He is also an amateur musician, an aspiring composer, an unrepentant geek and an avid fan of Twitter. This article is cross-posted there.<Node id="2434" />
+
+<Node id="2436" /></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation Id="34" Type="gfbf" StartNode="651" EndNode="661">
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">37</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">35</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">goodfor</Value>
+</Feature>
+</Annotation>
+<Annotation Id="35" Type="gfbf-object" StartNode="662" EndNode="754">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="32" Type="gfbf-object" StartNode="254" EndNode="256">
+<Feature>
+  <Name className="java.lang.String">referentId</Name>
+  <Value className="java.lang.String">38</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">refererence</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="33" Type="gfbf-agent" StartNode="235" EndNode="247">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="38" Type="referent" StartNode="204" EndNode="213">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="39" Type="referent" StartNode="525" EndNode="534">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="36" Type="influencer" StartNode="643" EndNode="650">
+<Feature>
+  <Name className="java.lang.String">effect</Name>
+  <Value className="java.lang.String">reverse</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">37</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">34</Value>
+</Feature>
+</Annotation>
+<Annotation Id="37" Type="gfbf-agent" StartNode="637" EndNode="639">
+<Feature>
+  <Name className="java.lang.String">referentId</Name>
+  <Value className="java.lang.String">39</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">reference</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="doc" StartNode="0" EndNode="2436">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">hcd027</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">author</Name>
+  <Value className="java.lang.String">jimmie,bise,jr</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">source</Name>
+  <Value className="java.lang.String">hotair</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">date</Name>
+  <Value className="java.lang.String">20110402</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">side</Name>
+  <Value className="java.lang.String">anti</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">url</Name>
+  <Value className="java.lang.String">http://hotair.com/greenroom/archives/2011/04/02/and-the-winners-of-the-first-obamacare-payout-lottery-are-not-the-taxpayers/</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="arg" StartNode="0" EndNode="79">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">organizations_support_bill_so_they_can_profit</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="arg" StartNode="178" EndNode="303">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">bill_generally_bad</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="arg" StartNode="623" EndNode="754">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">organizations_support_bill_so_they_can_profit</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="rel" StartNode="758" EndNode="858">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">organizations_support_bill_so_they_can_profit</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="rel" StartNode="860" EndNode="930">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">unions_unfairly_favored</Value>
+</Feature>
+</Annotation>
+<Annotation Id="27" Type="para" StartNode="178" EndNode="756">
+<Feature>
+  <Name className="java.lang.String">argmnt-label</Name>
+  <Value className="java.lang.String">organizations_support_bill_so_they_can_profit</Value>
+</Feature>
+</Annotation>
+<Annotation Id="26" Type="rel" StartNode="310" EndNode="518">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">organizations_support_bill_so_they_can_profit</Value>
+</Feature>
+</Annotation>
+<Annotation Id="29" Type="para" StartNode="1212" EndNode="1485">
+<Feature>
+  <Name className="java.lang.String">argmnt-label</Name>
+  <Value className="java.lang.String">organizations_support_bill_so_they_can_profit</Value>
+</Feature>
+</Annotation>
+<Annotation Id="28" Type="para" StartNode="758" EndNode="1210">
+<Feature>
+  <Name className="java.lang.String">argmnt-label</Name>
+  <Value className="java.lang.String">organizations_support_bill_so_they_can_profit</Value>
+</Feature>
+</Annotation>
+<Annotation Id="31" Type="gfbf" StartNode="248" EndNode="253">
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">33</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">32</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">badfor</Value>
+</Feature>
+</Annotation>
+<Annotation Id="30" Type="para" StartNode="1487" EndNode="2199">
+<Feature>
+  <Name className="java.lang.String">argmnt-label</Name>
+  <Value className="java.lang.String">organizations_support_bill_so_they_can_profit</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="176">
+</Annotation>
+<Annotation Id="1" Type="paragraph" StartNode="178" EndNode="304">
+</Annotation>
+<Annotation Id="2" Type="paragraph" StartNode="310" EndNode="519">
+</Annotation>
+<Annotation Id="3" Type="paragraph" StartNode="525" EndNode="756">
+</Annotation>
+<Annotation Id="4" Type="paragraph" StartNode="758" EndNode="1210">
+</Annotation>
+<Annotation Id="5" Type="paragraph" StartNode="1212" EndNode="1485">
+</Annotation>
+<Annotation Id="6" Type="paragraph" StartNode="1487" EndNode="2199">
+</Annotation>
+<Annotation Id="7" Type="paragraph" StartNode="2201" EndNode="2434">
+</Annotation>
+<Annotation Id="14" Type="rel" StartNode="932" EndNode="1052">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">unions_unfairly_favored</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="rel" StartNode="1054" EndNode="1209">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">organizations_support_bill_so_they_can_profit</Value>
+</Feature>
+</Annotation>
+<Annotation Id="17" Type="rel" StartNode="1386" EndNode="1484">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">organizations_support_bill_so_they_can_profit</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="rel" StartNode="1212" EndNode="1384">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">organizations_support_bill_so_they_can_profit</Value>
+</Feature>
+</Annotation>
+<Annotation Id="19" Type="arg" StartNode="1657" EndNode="1843">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">organizations_support_bill_so_they_can_profit</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="18" Type="arg" StartNode="1544" EndNode="1655">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">too_expensive_for_govt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="21" Type="arg" StartNode="2046" EndNode="2154">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">organizations_support_bill_so_they_can_profit</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="20" Type="arg" StartNode="1845" EndNode="2044">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">organizations_support_bill_so_they_can_profit</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="23" Type="arg" StartNode="1526" EndNode="1542">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">else</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="22" Type="arg" StartNode="1487" EndNode="1524">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">else</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="25" Type="rel" StartNode="525" EndNode="617">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">organizations_support_bill_so_they_can_profit</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

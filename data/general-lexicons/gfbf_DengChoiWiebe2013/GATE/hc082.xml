@@ -1,0 +1,528 @@
+<?xml version='1.0' encoding='US-ASCII'?>
+<GateDocument version="2">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/E:/Users/conrada/Documents/My%20Dropbox/healthcare_data/training_3/hc082.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String">CRLF</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>A Majority Of Physicians<Node id="24"/> <Node id="25"/>Oppose<Node id="31"/> <Node id="32"/>Us Healthcare Reform<Node id="52"/>&#xd;
+<Node id="54"/>&#xd;
+<Node id="56"/>Healthcare reform is a highly debated topic these days, due to <Node id="119"/>new legislation<Node id="134"/> <Node id="135"/>passed<Node id="141"/> by <Node id="145"/>President Obama<Node id="160"/> late last year. <Node id="177"/>Although the American public seems to be divided in their stance on the reform act, the now majority Republican-controlled House is not its only critic- a recent study cites that <Node id="356"/>many physicians themselves<Node id="382"/> <Node id="383"/>are actually opposed to<Node id="406"/> <Node id="407"/>the reform efforts<Node id="425"/>. <Node id="427"/>Among the major points made, physicians polled feel that reform calls for a greater number of healthcare workers, many of whom are not required to earn doctorate-level healthcare degrees like nurse practitioners and physician assistants<Node id="663"/>.&#xd;
+<Node id="666"/>The report recently released by Thomson Reuters and HCPlexus details the results of a national survey which polled nearly 3,000 US  physicians on the issue of healthcare reform<Node id="842"/>. <Node id="844"/>The overall consensus can be generalized to say that a majority of physicians feel "frustration and dismay in a time of change<Node id="970"/>."&#xd;
+<Node id="974"/>Of the physicians polled,&#xd;
+<Node id="1001"/>&#xd;
+<Node id="1003"/>65% believe that US  healthcare will deteriorate with five years&#xd;<Node id="1068"/>
+18% believe<Node id="1080"/> it will improve<Node id="1096"/>&#xd;
+17% believe it will stay the same&#xd;<Node id="1132"/>
+<Node id="1133"/>&#xd;
+<Node id="1135"/>If <Node id="1138"/>the healthcare reform act<Node id="1163"/> <Node id="1164"/>passed<Node id="1170"/> by <Node id="1174"/>President Obama<Node id="1189"/> remains in legislation, under the Patient Protection and Affordable Care Act (PPACA), an estimated 32 million currently uninsured Americans will have will access to healthcare<Node id="1365"/>. <Node id="1367"/>Physicians participating in the survey report concern over who will treat these new patients<Node id="1459"/>. <Node id="1461"/>Nurse practitioners and physician assistants will likely begin seeing and treating nearly as many patients as physicians themselves<Node id="1592"/>.&#xd;
+According to the report, "<Node id="1621"/>physicians overall have a clear frustration with the non-physician providers' compensation, which is comparable to primary care physicians, citing that nurse practitioners and physician assistants are not as well-trained or as educated<Node id="1856"/>."&#xd;
+<Node id="1860"/>Nurse practitioners and physician assistants do have an education above a bachelor's degree, but are not required to have earned their doctorate from a medical school like a physician<Node id="2043"/>. <Node id="2045"/>Healthcare degrees of all levels are in high-demand in response to reform efforts, which will require greater numbers of healthcare workers overall, in both an administrative and clinical capacity<Node id="2241"/>. Online programs offering advanced healthcare degrees are growing in popularity as a method for working healthcare professionals to earn the additional credentials necessary to qualify for higher-level positions.&#xd;
+<Node id="2456"/>Results of the study also claim that a majority of physicians have a similarly cynical view on how <Node id="2555"/>healthcare reform<Node id="2572"/> will <Node id="2578"/>affect<Node id="2584"/> <Node id="2585"/>patients<Node id="2593"/>. <Node id="2595"/>Results conclude that:&#xd;
+<Node id="2619"/>&#xd;
+<Node id="2621"/>58% feel <Node id="2630"/>the legislation<Node id="2645"/> will negatively <Node id="2662"/>affect<Node id="2668"/> <Node id="2669"/>patients<Node id="2677"/>&#xd;
+27% feel the effect will be positive<Node id="2715"/>&#xd;
+<Node id="2717"/>&#xd;
+<Node id="2719"/>Survey results distinguished responses among physicians of different medical practices, for example, as primary care physicians, or psychiatrists<Node id="2864"/>. <Node id="2866"/>Of all participating groups, pediatricians and psychiatrists were the most optimistic about the future of healthcare<Node id="2982"/>. <Node id="2984"/>On the other hand, dermatologists were found to have the most negative outlook; not a single dermatologist polled reported a belief that <Node id="3121"/>current healthcare reform efforts<Node id="3154"/> would <Node id="3161"/>have a positive effect on<Node id="3186"/> <Node id="3187"/>physicians<Node id="3197"/>.<Node id="3198"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation Id="6" Type="doc" StartNode="0" EndNode="3198">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">hc082</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">author</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">source</Name>
+  <Value className="java.lang.String">us,healthcare,constitution</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">date</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">side</Name>
+  <Value className="java.lang.String">anti</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">url</Name>
+  <Value className="java.lang.String">http://www.ushealthcareconstitution.org/a-majority-of-physicians-oppose-us-healthcare-reform.html</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="arg" StartNode="0" EndNode="52">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">unpopular_among_doctors</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="arg" StartNode="177" EndNode="425">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">unpopular_among_doctors</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="arg" StartNode="427" EndNode="663">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">healthcare_supply_is_too_small</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="arg" StartNode="1621" EndNode="1856">
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">healthcare_supply_is_too_small</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="arg" StartNode="2456" EndNode="2593">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">diminishes_quality_of_care</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="17" Type="rel" StartNode="974" EndNode="1132">
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">unpopular_among_doctors</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="arg" StartNode="844" EndNode="970">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">unpopular_among_doctors</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="19" Type="arg" StartNode="1367" EndNode="1459">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">healthcare_supply_is_too_small</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="18" Type="rel" StartNode="1135" EndNode="1365">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">healthcare_supply_is_too_small</Value>
+</Feature>
+</Annotation>
+<Annotation Id="21" Type="rel" StartNode="1860" EndNode="2043">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">healthcare_supply_is_too_small</Value>
+</Feature>
+</Annotation>
+<Annotation Id="20" Type="arg" StartNode="1461" EndNode="1592">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">healthcare_supply_is_too_small</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="23" Type="arg" StartNode="2984" EndNode="3197">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">unpopular_among_doctors</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="22" Type="rel" StartNode="2595" EndNode="2715">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">diminishes_quality_of_care</Value>
+</Feature>
+</Annotation>
+<Annotation Id="24" Type="rel" StartNode="666" EndNode="842">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">unpopular_among_doctors</Value>
+</Feature>
+</Annotation>
+<Annotation Id="27" Type="rel" StartNode="2866" EndNode="2982">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">healthcare_supply_is_too_small</Value>
+</Feature>
+</Annotation>
+<Annotation Id="26" Type="rel" StartNode="2719" EndNode="2864">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">healthcare_supply_is_too_small</Value>
+</Feature>
+</Annotation>
+<Annotation Id="29" Type="gfbf-object" StartNode="32" EndNode="52">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="28" Type="gfbf" StartNode="25" EndNode="31">
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">30</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">badfor</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">29</Value>
+</Feature>
+</Annotation>
+<Annotation Id="31" Type="gfbf" StartNode="383" EndNode="406">
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">32</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">badfor</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">33</Value>
+</Feature>
+</Annotation>
+<Annotation Id="30" Type="gfbf-agent" StartNode="0" EndNode="24">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="32" Type="gfbf-agent" StartNode="356" EndNode="382">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="33" Type="gfbf-object" StartNode="407" EndNode="425">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="38" Type="gfbf-object" StartNode="2585" EndNode="2593">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="39" Type="gfbf-agent" StartNode="2555" EndNode="2572">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="37" Type="gfbf" StartNode="2578" EndNode="2584">
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">39</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">38</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">comment</Name>
+  <Value className="java.lang.String">here is badfor...I think affect could be either goodfor or badfor</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">badfor</Value>
+</Feature>
+</Annotation>
+<Annotation Id="42" Type="gfbf-object" StartNode="3187" EndNode="3197">
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="43" Type="gfbf" StartNode="1164" EndNode="1170">
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">44</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">goodfor</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">45</Value>
+</Feature>
+</Annotation>
+<Annotation Id="40" Type="gfbf" StartNode="3161" EndNode="3186">
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">41</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">uncertain</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">42</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">goodfor</Value>
+</Feature>
+</Annotation>
+<Annotation Id="41" Type="gfbf-agent" StartNode="3121" EndNode="3154">
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="46" Type="gfbf" StartNode="135" EndNode="141">
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">48</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">47</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">goodfor</Value>
+</Feature>
+</Annotation>
+<Annotation Id="47" Type="gfbf-object" StartNode="119" EndNode="134">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="44" Type="gfbf-agent" StartNode="1174" EndNode="1189">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="45" Type="gfbf-object" StartNode="1138" EndNode="1163">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="51" Type="gfbf-agent" StartNode="2630" EndNode="2645">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50" Type="gfbf-object" StartNode="2669" EndNode="2677">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="49" Type="gfbf" StartNode="2662" EndNode="2668">
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">51</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">uncertain</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">50</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">badfor</Value>
+</Feature>
+</Annotation>
+<Annotation Id="48" Type="gfbf-agent" StartNode="145" EndNode="160">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="53" Type="highlight" StartNode="1080" EndNode="1096">
+</Annotation>
+<Annotation Id="52" Type="highlight" StartNode="1003" EndNode="1068">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="54">
+</Annotation>
+<Annotation Id="1" Type="paragraph" StartNode="56" EndNode="1001">
+</Annotation>
+<Annotation Id="2" Type="paragraph" StartNode="1003" EndNode="1133">
+</Annotation>
+<Annotation Id="3" Type="paragraph" StartNode="1135" EndNode="2619">
+</Annotation>
+<Annotation Id="4" Type="paragraph" StartNode="2621" EndNode="2717">
+</Annotation>
+<Annotation Id="5" Type="paragraph" StartNode="2719" EndNode="3198">
+</Annotation>
+<Annotation Id="25" Type="rel" StartNode="2045" EndNode="2241">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">healthcare_supply_is_too_small</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

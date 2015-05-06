@@ -1,0 +1,340 @@
+<?xml version='1.0' encoding='MacRoman'?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/home/conrada/Dropbox/healthcare_data/training_new/hc114.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String">LF</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0" />January 4, 2011
+<Node id="16" />Obamacare stops construction at 45 physician owned hospitals nationwide<Node id="87" />
+Rick Moran
+ What a superlative idea! <Node id="125" />Let's <Node id="131" />throw thousands of construction workers out of work<Node id="182" /> and <Node id="187" />make it harder to<Node id="204" /> access quality medical care at the same time<Node id="249" />.<Node id="250" />
+
+<Node id="252" />Man, those Democrats are 6 times brilliant, eh? The Weekly Standard:<Node id="320" />
+
+    <Node id="326" />Under the headline, "Construction Stops at Physician Hospitals," Politico reports today that "Physician Hospitals of America says that construction had to stop at 45 hospitals nationwide or they would not be able to bill Medicare for treatments<Node id="570" />." <Node id="573" />Stopping<Node id="581" /> <Node id="582" />construction at doctor-owned hospitals<Node id="620" /> might <Node id="627" />not<Node id="630" /> seem like the best way to <Node id="657" />boost<Node id="662" /> <Node id="663" />the economy<Node id="674" /> or to <Node id="681" />promote<Node id="688" /> <Node id="689" />greater access and choice in health care<Node id="729" />, but that exactly what Obamacare is doing<Node id="771" />. <Node id="773" />
+
+    <Node id="779" />Kenneth Artz of the Heartland Institute explains, "<Node id="830" />Section 6001 of the health care law<Node id="865" /> effectively <Node id="878" />bans<Node id="882" /> <Node id="883" />new physician-owned hospitals (POHs)<Node id="919" /> from starting up, and it keeps existing ones from <Node id="970" />expanding<Node id="979" />." Politico adds, "Friday [New Year's Eve] marked the last day physician-owned hospitals could get Medicare certification covering their new or expanded hospitals, one of the latest provisions of the reform law to go into effect."<Node id="1209" />
+
+    <Node id="1215" />This little-noticed but particularly egregious aspect of Obamacare is, by all accounts, a concession to the powerful American Hospital Association (AHA), a supporter of Obamacare, which prefers to have its member hospitals operate without competition from hospitals owned by doctors<Node id="1497" />.<Node id="1498" />
+
+    <Node id="1504" />Dr  Michael Russell, president of Physician Hospitals of America, which has filed suit to try to stop this selective building-ban from going into effect, says<Node id="1662" />, "<Node id="1665" />There are so many regulations [in Obamacare] and they are so onerous and intrusive that we believe that the section [Section 6001] was deliberately designed so no physician owned hospital could successfully comply<Node id="1878" />." <Node id="1881" />
+
+<Node id="1883" />It's not a bug; it's a feature.<Node id="1914" />
+
+
+
+<Node id="1918" />physician
+<Node id="1929" /></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation Id="8" Type="doc" StartNode="0" EndNode="1929">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">hc114</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">author</Name>
+  <Value className="java.lang.String">rick,morgan</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">date</Name>
+  <Value className="java.lang.String">20110104</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">source</Name>
+  <Value className="java.lang.String">americanthinker</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">side</Name>
+  <Value className="java.lang.String">anti</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">url</Name>
+  <Value className="java.lang.String">http://www.americanthinker.com/blog/2011/01/obamacare_stops_construction_a.html</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="arg" StartNode="1215" EndNode="1497">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">organizations_support_bill_so_they_can_profit</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="arg" StartNode="1665" EndNode="1878">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">reduces_availability_of_medical_care</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="rel" StartNode="1504" EndNode="1662">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">reduces_availability_of_medical_care</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="rel" StartNode="16" EndNode="87">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">hurts_doctors</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="arg" StartNode="125" EndNode="249">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">reduces_availability_of_medical_care</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="arg" StartNode="573" EndNode="771">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">reduces_availability_of_medical_care</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="arg" StartNode="779" EndNode="979">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">reduces_availability_of_medical_care</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="17" Type="others" StartNode="131" EndNode="182">
+<Feature>
+  <Name className="java.lang.String">comment</Name>
+  <Value className="java.lang.String">throw out?</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="rel" StartNode="326" EndNode="570">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">reduces_availability_of_medical_care</Value>
+</Feature>
+</Annotation>
+<Annotation Id="19" Type="gfbf" StartNode="573" EndNode="581">
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">implicit</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">badfor</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">20</Value>
+</Feature>
+</Annotation>
+<Annotation Id="18" Type="others" StartNode="187" EndNode="204">
+<Feature>
+  <Name className="java.lang.String">comment</Name>
+  <Value className="java.lang.String">make it adj</Value>
+</Feature>
+</Annotation>
+<Annotation Id="21" Type="gfbf" StartNode="657" EndNode="662">
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">22</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">goodfor</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">23</Value>
+</Feature>
+</Annotation>
+<Annotation Id="20" Type="gfbf-object" StartNode="582" EndNode="620">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="23" Type="gfbf-object" StartNode="663" EndNode="674">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="22" Type="gfbf-agent" StartNode="573" EndNode="620">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="25" Type="gfbf-object" StartNode="689" EndNode="729">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="24" Type="gfbf" StartNode="681" EndNode="688">
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">22</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">25</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">goodfor</Value>
+</Feature>
+</Annotation>
+<Annotation Id="27" Type="influencer" StartNode="627" EndNode="630">
+<Feature>
+  <Name className="java.lang.String">effect</Name>
+  <Value className="java.lang.String">reverse</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">22</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">24</Value>
+</Feature>
+</Annotation>
+<Annotation Id="26" Type="influencer" StartNode="627" EndNode="630">
+<Feature>
+  <Name className="java.lang.String">effect</Name>
+  <Value className="java.lang.String">reverse</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">22</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">21</Value>
+</Feature>
+</Annotation>
+<Annotation Id="29" Type="gfbf-agent" StartNode="830" EndNode="865">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="28" Type="gfbf" StartNode="878" EndNode="882">
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">29</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">30</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">badfor</Value>
+</Feature>
+</Annotation>
+<Annotation Id="31" Type="others" StartNode="970" EndNode="979">
+<Feature>
+  <Name className="java.lang.String">comment</Name>
+  <Value className="java.lang.String">GoodFor agent</Value>
+</Feature>
+</Annotation>
+<Annotation Id="30" Type="gfbf-object" StartNode="883" EndNode="919">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="250">
+</Annotation>
+<Annotation Id="1" Type="paragraph" StartNode="252" EndNode="320">
+</Annotation>
+<Annotation Id="2" Type="paragraph" StartNode="326" EndNode="773">
+</Annotation>
+<Annotation Id="3" Type="paragraph" StartNode="779" EndNode="1209">
+</Annotation>
+<Annotation Id="4" Type="paragraph" StartNode="1215" EndNode="1498">
+</Annotation>
+<Annotation Id="5" Type="paragraph" StartNode="1504" EndNode="1881">
+</Annotation>
+<Annotation Id="6" Type="paragraph" StartNode="1883" EndNode="1914">
+</Annotation>
+<Annotation Id="7" Type="paragraph" StartNode="1918" EndNode="1929">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

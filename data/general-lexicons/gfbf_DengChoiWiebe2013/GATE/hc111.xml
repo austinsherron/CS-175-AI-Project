@@ -1,0 +1,674 @@
+<?xml version='1.0' encoding='MacRoman'?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/home/conrada/Dropbox/healthcare_data/training_new/hc111.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String">LF</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0" />December 3, 2011
+<Node id="17" />How Not to Criticize American Health Care<Node id="58" />
+By Matt Palumbo<Node id="74" />
+
+<Node id="76" />There is much talk about a health care "crisis" in America, but the only real problem, rising costs, is largely attributable to interference in markets, not markets themselves<Node id="251" />.  Unfortunately, going socialized wouldn't be much of a transition, since the status quo is hardly a free market.  <Node id="367" />The government already covers half of all health care costs, with other third parties, mainly insurance, covering a large chunk of the rest<Node id="506" />.  <Node id="509" />The average person pays only 12% of his bill out of pocket<Node id="567" />.  <Node id="570" />Since there is still a profit motive, all the negative aspects of current interference aren't realized, but <Node id="678" />the costs masked by government and insurance<Node id="722" /> give an excuse to <Node id="741" />increase<Node id="749" /> <Node id="750" />costs<Node id="755" /> further, and thus all the benefits of a free-market system aren't realized as well<Node id="838" />.  <Node id="841" />As Milton Friedman warned us, "nobody spends other people's money as well as they spend their own<Node id="938" />."  <Node id="942" />The problem with third parties picking up the bill is that we have no motive whatsoever to know what we're paying, since we are in fact spending other people's money indirectly<Node id="1118" />.<Node id="1119" />
+
+<Node id="1121" />Many of the arguments<Node id="1142" /> <Node id="1143" />favoring<Node id="1151" /> <Node id="1152" />the existence of a health care "crisis"<Node id="1191" /> tend to be based on unreliable or unexamined data<Node id="1241" />.  <Node id="1244" />Among these claims are that 46 million Americans are uninsured, Americans lag behind in lifespan and infant mortality, and that we rank a measly 37th in health care worldwide<Node id="1418" />.<Node id="1419" />
+
+<Node id="1421" />The oft-cited "46 million uninsured" is breathtakingly easy to break down to size<Node id="1502" />.  <Node id="1505" />Keep in mind that there is overlap in the following statistics, as many people listed in them belong to multiple categories<Node id="1628" />.  <Node id="1631" />Around 10 million of the uninsured aren't even citizens<Node id="1686" />.  <Node id="1689" />Another 8 million are aged 18-24, which is the group least prone to medical problems<Node id="1773" />.  <Node id="1776" />The average salary of a person in this age group is $31,790, so affording health care would not be a problem<Node id="1884" />.  <Node id="1887" />Seventeen million of the uninsured make over $50,000 a year, and within that group, 8 million make over $75,000<Node id="1998" />.  <Node id="2001" />These people are usually referred to as the "voluntarily uninsured<Node id="2067" />."  <Node id="2071" />Another large group of these 46 million are uninsured in name only, as they are eligible for government programs that they haven't signed up for<Node id="2215" />.  Estimates on how large this group is vary, the range being from 5.4 million as estimated by the Kaiser Family Foundation to as large as one third of all the uninsured, as estimated by BlueCross BlueShield.  <Node id="2425" />The number of people without care because they cannot afford it is around 6 million -- still a large number, but a fraction of 46 million, and no reason to restructure the entire health care system<Node id="2622" />.<Node id="2623" />
+
+<Node id="2625" />Then comes the issue of lifespan<Node id="2657" />.  <Node id="2660" />Of all attempts to discredit the American system, lifespan has been the worst<Node id="2737" />.  <Node id="2740" />Although lifespan gives a good indicator of a nation's health at a glance, it does have its problems under analysis<Node id="2855" />.  <Node id="2858" />We get a strange paradox when examining two statistics: life expectancy and cancer survival rates<Node id="2955" />.  <Node id="2958" />Estimates vary on how we rank exactly; the World Fact Book showing that we rank as poorly as 50th worldwide<Node id="3065" />.  <Node id="3068" />Even the best estimates in our favor place us far behind most developed nations<Node id="3147" />.  <Node id="3150" />Despite this, the United States excels at cancer survival<Node id="3207" />.  <Node id="3210" />Of the 16 most common cancers, the United States has the highest survival rate for 13 of them<Node id="3303" />.  <Node id="3306" />Overall, the five-year cancer survival rate for men in the States is 66.3%, and 47.3% in Europe<Node id="3401" />. <Node id="3403" /> Women have an advantage too, with a survival rate of 62.9% in the States, and 55.8% in Europe<Node id="3497" />.  <Node id="3500" />So that said, how is it that our system takes better care of us, and doesn't grant added lifespan to boot?<Node id="3606" />  <Node id="3608" />Quite simply, the lifespan measurement commonly cited doesn't factor in many variables which shorten lifespan, many of which medical care cannot prevent<Node id="3760" />.  <Node id="3763" />Among these factors are murders, suicides, obesity, and accidents<Node id="3828" />.<Node id="3829" />
+
+<Node id="3831" />The United States has a murder rate that is double that of Canada, Australia, Finland, Israel, China, and the United Kingdom.  Our suicide rate is higher than Australia's, and almost double that of Israel and the United Kingdom.  The United States ranks #1 in obesity with around 30% of the population fat -- the United Kingdom, Australia, and Israel rank between 7 and 10 percentage points behind.  Since cars are driven more often in America, that has implications as well.  The car accident death rate in America has on average around 3-9 more deaths per 100,000 than the countries previously mentioned.  <Node id="4439" />Scott Atlas of the Hoover Institution demonstrated how America ranks in lifespan when accounting for these factors -- and ended up resolving the apparent paradox<Node id="4600" />.  <Node id="4603" />With variables except for "fatal injures" accounted for, the United States ranks #1 in life expectancy at 76.9 years<Node id="4719" />.<Node id="4720" />
+
+<Node id="4722" />The argument that the States rank poorly when measured by infant mortality rate is based on multiple apples-to-oranges comparisons<Node id="4852" />.  <Node id="4855" />The World Fact Book has led many to believe that the States rank 46th in infant mortality<Node id="4944" />.  (Please note that in the hyperlink for the previous statistic, countries are ranked worst to best, which I adapted and ranked best to worst for the "46" ranking.)  <Node id="5111" />What ought to be included in this ranking, however, is an adjustment based on how different countries calculate infant mortality<Node id="5239" />.  In Hong Kong and Japan, for instance, babies who die within 24 hours of birth are classified as miscarriages and don't factor into their infant mortality rate.  In the United States, half of all infant mortalities occur within the first 24 hours after birth.  Canada, Germany, and Ireland all don't count premature babies weighing under 500 grams towards their infant mortality rate, instead defining them as "still births."  Australia does the same thing, but at 400 grams.  The mortality rate for babies at that weight is 869 per 1,000.  Even ethnicity plays a role, the infant mortality rate for blacks being around 2.4 times higher than that of whites.  Mexican-Americans have the least access to health insurance, are twice as likely to be born out of hospital, and have better survival rates than Native Americans and blacks.  Being a diverse nation works for and against our favor in this statistic.  <Node id="6150" />With many of these variables accounted for, the United States is on par with Norway for infant mortality, which ranks 13th<Node id="6272" />.  <Node id="6275" />That isn't to say that America is the 13th-best place to be born as a high-risk child, however -- one study on babies who weighed under 400g has noted that around 70% of them were born in the States<Node id="6473" />.<Node id="6474" />
+
+<Node id="6476" />The claim that the United States ranks 37th in health care has even made its way into Paul Krugman's bestselling book, The Conscience of a Liberal<Node id="6622" />. That particular ranking is based on a study by the World Health Organization (WHO), has a model composed of five factors: health level (25% of ranking), health distribution (25%), responsiveness (12.5%), responsiveness distribution (12.5%), and financial fairness.<Node id="6888" />
+
+<Node id="6890" />Health level is judged largely by a nation's lifespan, which, although it's important to a nation's health, would be biased against the States in this case, as discussed<Node id="7059" />.  All factors including "distribution" judge negatively based on inequality, not quality.  If the "distribution" criterion were applied to the United States and the former Soviet Union, the USSR would fare better because although their living standards were drastically poorer, there was less inequality between standards.  Responsiveness measures a nation's speed of service, response time, and other miscellaneous features which do deserve to be included.  What is telling, however, is that a factor this necessary accounts for only 12.5% of the score.  Lastly, financial fairness remains, and this suffers from the same problems that plague the "distribution" criterion.  Financial fairness is calculated by finding the percentage of income households from each income bracket use for health care, then measuring the difference paid across brackets.  The poor and rich pay virtually the same amount on health care yearly, the top 20% paying $4,451 in 2003, and the bottom 20% $4,447.  Although the amount they spend in real dollars is the same, this criterion measures percentages, not real dollars.  For this factor to positively affect a nation's standing in WHO's study, that nation's poor would literally have to spend less on health services.<Node id="8310" />
+
+<Node id="8312" />Although this article does not prove that a free-market health care system would be superior to a socialized system, my goal is simply to show that the foundation on which the case for socialized medicine is built is made of straw, not brick<Node id="8553" />.<Node id="8554" />
+
+<Node id="8556" />Read more: http://www.americanthinker.com/2011/12/how_not_to_criticize_american_health_care.html#ixzz1lG6AvjYd<Node id="8666" />
+
+<Node id="8668" /></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation Id="11" Type="doc" StartNode="0" EndNode="8668">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">hc111</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">author</Name>
+  <Value className="java.lang.String">matt,palumbo</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">date</Name>
+  <Value className="java.lang.String">20111203</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">source</Name>
+  <Value className="java.lang.String">americanthinker</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">side</Name>
+  <Value className="java.lang.String">anti</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">url</Name>
+  <Value className="java.lang.String">http://www.americanthinker.com/2011/12/how_not_to_criticize_american_health_care.html</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="arg" StartNode="76" EndNode="251">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">healthcare_better_addressed_by_private_sector</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="rel" StartNode="367" EndNode="506">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">healthcare_system_insulates_consumers_from_costs</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="rel" StartNode="509" EndNode="567">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">healthcare_system_insulates_consumers_from_costs</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="arg" StartNode="570" EndNode="838">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">healthcare_system_insulates_consumers_from_costs</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="17" Type="arg" StartNode="942" EndNode="1118">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">healthcare_system_insulates_consumers_from_costs</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="rel" StartNode="841" EndNode="938">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">healthcare_system_insulates_consumers_from_costs</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="19" Type="rel" StartNode="1244" EndNode="1418">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">healthcare_not_major_problem</Value>
+</Feature>
+</Annotation>
+<Annotation Id="18" Type="arg" StartNode="1121" EndNode="1241">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">healthcare_not_major_problem</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="21" Type="rel" StartNode="1631" EndNode="1686">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">uninsured_not_major_problem</Value>
+</Feature>
+</Annotation>
+<Annotation Id="20" Type="arg" StartNode="1421" EndNode="1502">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">else</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">uninsured_not_major_problem</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="23" Type="rel" StartNode="1776" EndNode="1884">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">uninsured_not_major_problem</Value>
+</Feature>
+</Annotation>
+<Annotation Id="22" Type="rel" StartNode="1689" EndNode="1773">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">uninsured_not_major_problem</Value>
+</Feature>
+</Annotation>
+<Annotation Id="25" Type="rel" StartNode="2001" EndNode="2067">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">uninsured_not_major_problem</Value>
+</Feature>
+</Annotation>
+<Annotation Id="24" Type="rel" StartNode="1887" EndNode="1998">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">uninsured_not_major_problem</Value>
+</Feature>
+</Annotation>
+<Annotation Id="27" Type="arg" StartNode="2425" EndNode="2622">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">uninsured_not_major_problem</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="26" Type="rel" StartNode="2071" EndNode="2215">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">uninsured_not_major_problem</Value>
+</Feature>
+</Annotation>
+<Annotation Id="28" Type="rel" StartNode="1505" EndNode="1628">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">uninsured_not_major_problem</Value>
+</Feature>
+</Annotation>
+<Annotation Id="55" Type="gfbf-agent" StartNode="678" EndNode="722">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="54" Type="gfbf" StartNode="741" EndNode="749">
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">55</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">goodfor</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">56</Value>
+</Feature>
+</Annotation>
+<Annotation Id="52" Type="rel" StartNode="3763" EndNode="3828">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">healthcare_quality_good</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="59" Type="gfbf-agent" StartNode="1121" EndNode="1142">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="58" Type="gfbf-object" StartNode="1152" EndNode="1191">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="57" Type="gfbf" StartNode="1143" EndNode="1151">
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">59</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">goodfor</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">58</Value>
+</Feature>
+</Annotation>
+<Annotation Id="56" Type="gfbf-object" StartNode="750" EndNode="755">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="74">
+</Annotation>
+<Annotation Id="1" Type="paragraph" StartNode="76" EndNode="1119">
+</Annotation>
+<Annotation Id="2" Type="paragraph" StartNode="1121" EndNode="1419">
+</Annotation>
+<Annotation Id="3" Type="paragraph" StartNode="1421" EndNode="2623">
+</Annotation>
+<Annotation Id="4" Type="paragraph" StartNode="2625" EndNode="3829">
+</Annotation>
+<Annotation Id="5" Type="paragraph" StartNode="3831" EndNode="4720">
+</Annotation>
+<Annotation Id="6" Type="paragraph" StartNode="4722" EndNode="6474">
+</Annotation>
+<Annotation Id="7" Type="paragraph" StartNode="6476" EndNode="6888">
+</Annotation>
+<Annotation Id="8" Type="paragraph" StartNode="6890" EndNode="8310">
+</Annotation>
+<Annotation Id="9" Type="paragraph" StartNode="8312" EndNode="8554">
+</Annotation>
+<Annotation Id="10" Type="paragraph" StartNode="8556" EndNode="8666">
+</Annotation>
+<Annotation Id="29" Type="rel" StartNode="2625" EndNode="2657">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">healthcare_quality_good</Value>
+</Feature>
+</Annotation>
+<Annotation Id="31" Type="rel" StartNode="2740" EndNode="2855">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">healthcare_quality_good</Value>
+</Feature>
+</Annotation>
+<Annotation Id="30" Type="arg" StartNode="2660" EndNode="2737">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">healthcare_quality_good</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="34" Type="rel" StartNode="3068" EndNode="3147">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">healthcare_quality_good</Value>
+</Feature>
+</Annotation>
+<Annotation Id="35" Type="arg" StartNode="3150" EndNode="3207">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">healthcare_quality_good</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="32" Type="rel" StartNode="2858" EndNode="2955">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">healthcare_quality_good</Value>
+</Feature>
+</Annotation>
+<Annotation Id="33" Type="rel" StartNode="2958" EndNode="3065">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">healthcare_quality_good</Value>
+</Feature>
+</Annotation>
+<Annotation Id="38" Type="rel" StartNode="3403" EndNode="3497">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">healthcare_quality_good</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="39" Type="rel" StartNode="3500" EndNode="3606">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">healthcare_quality_good</Value>
+</Feature>
+</Annotation>
+<Annotation Id="36" Type="arg" StartNode="3210" EndNode="3303">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">healthcare_quality_good</Value>
+</Feature>
+</Annotation>
+<Annotation Id="37" Type="rel" StartNode="3306" EndNode="3401">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">healthcare_quality_good</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="42" Type="arg" StartNode="4603" EndNode="4719">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">healthcare_quality_good</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="43" Type="arg" StartNode="4722" EndNode="4852">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">healthcare_quality_good</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="40" Type="arg" StartNode="3608" EndNode="3760">
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">healthcare_quality_good</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="41" Type="rel" StartNode="4439" EndNode="4600">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">healthcare_quality_good</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="46" Type="arg" StartNode="6150" EndNode="6272">
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">healthcare_quality_good</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">incomplete</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</Annotation>
+<Annotation Id="47" Type="rel" StartNode="6275" EndNode="6473">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">healthcare_quality_good</Value>
+</Feature>
+</Annotation>
+<Annotation Id="44" Type="rel" StartNode="4855" EndNode="4944">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">healthcare_quality_good</Value>
+</Feature>
+</Annotation>
+<Annotation Id="45" Type="arg" StartNode="5111" EndNode="5239">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">else</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="51" Type="arg" StartNode="8312" EndNode="8553">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">bill_generally_bad</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="49" Type="rel" StartNode="6890" EndNode="7059">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">healthcare_quality_good</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="48" Type="rel" StartNode="6476" EndNode="6622">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">healthcare_quality_good</Value>
+</Feature>
+</Annotation>
+<Annotation Id="53" Type="rel" StartNode="17" EndNode="58">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">healthcare_quality_good</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

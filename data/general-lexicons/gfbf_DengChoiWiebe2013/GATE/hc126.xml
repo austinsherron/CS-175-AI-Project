@@ -1,0 +1,229 @@
+<?xml version='1.0' encoding='MacRoman'?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/home/conrada/Dropbox/healthcare_data/training_new/hc126.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String">LF</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0" />Having Plunged Previously, After The Affordable Care Act Passed Private Sector Employment Increased<Node id="99" />
+
+<Node id="101" />By Matthew Yglesias on Jul 21, 2011 at 10:44 am<Node id="148" />
+
+<Node id="150" />I don't think this chart showing that private sector employment has grown after the passage of the Affordable Care Act really proves much one way or another<Node id="306" />, but <Node id="312" />it certainly proves that private sector employment has <Node id="367" />grown<Node id="372" /> after the passage of the Affordable Care Act<Node id="417" />:<Node id="418" />
+
+<Node id="420" />But the "math is hard" crowd at the Heritage Department has discovered that by taking the second derivative of employment <Node id="542" />you can create a "trend" that makes the ACA look bad<Node id="594" />:<Node id="595" />
+
+<Node id="597" />It's very ingenious. <Node id="618" />And judged by my Twitter feed, there are actually <Node id="668" />some conservatives<Node id="686" /> out there who are gullible enough to be <Node id="727" />taken in<Node id="735" /> by <Node id="739" />this kind of thing<Node id="757" />. <Node id="759" />Clearly, though, no fair-minded person actually interested in the subject is going to be persuaded by this kind of nonsense<Node id="882" />. <Node id="884" />I think it's really too bad that conservative institutions spend a fair amount of time and energy on <Node id="985" />projects<Node id="993" /> whose only possible effect can be to <Node id="1031" />mislead<Node id="1038" /> <Node id="1039" />their own constituency<Node id="1061" />.
+<Node id="1064" /></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation Id="5" Type="doc" StartNode="0" EndNode="1064">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">hc126</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">author</Name>
+  <Value className="java.lang.String">matthew,yglesias</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">source</Name>
+  <Value className="java.lang.String">thinkprogress</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">date</Name>
+  <Value className="java.lang.String">20110721</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">side</Name>
+  <Value className="java.lang.String">pro</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">url</Name>
+  <Value className="java.lang.String">http://thinkprogress.org/yglesias/2011/07/21/275117/having-plunged-previously-after-the-affordable-care-act-passed-private-sector-employment-increased/</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="rel" StartNode="0" EndNode="99">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">promotes_jobs</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="arg" StartNode="312" EndNode="417">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">promotes_jobs</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="rel" StartNode="150" EndNode="306">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">promotes_jobs</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="arg" StartNode="759" EndNode="882">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">else</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="arg" StartNode="884" EndNode="1061">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">opposition_demagogues_bill</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="arg" StartNode="618" EndNode="757">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">else</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="others" StartNode="367" EndNode="372">
+<Feature>
+  <Name className="java.lang.String">comment</Name>
+  <Value className="java.lang.String">GoodFor agent</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="gfbf" StartNode="727" EndNode="735">
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">14</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">15</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">badfor</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="gfbf-agent" StartNode="739" EndNode="757">
+<Feature>
+  <Name className="java.lang.String">referentId</Name>
+  <Value className="java.lang.String">19</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">reference</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="gfbf-object" StartNode="668" EndNode="686">
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="17" Type="gfbf-object" StartNode="1039" EndNode="1061">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="gfbf" StartNode="1031" EndNode="1038">
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">18</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">badfor</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">17</Value>
+</Feature>
+</Annotation>
+<Annotation Id="19" Type="referent" StartNode="542" EndNode="594">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="18" Type="gfbf-agent" StartNode="985" EndNode="993">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="99">
+</Annotation>
+<Annotation Id="1" Type="paragraph" StartNode="101" EndNode="148">
+</Annotation>
+<Annotation Id="2" Type="paragraph" StartNode="150" EndNode="418">
+</Annotation>
+<Annotation Id="3" Type="paragraph" StartNode="420" EndNode="595">
+</Annotation>
+<Annotation Id="4" Type="paragraph" StartNode="597" EndNode="1064">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

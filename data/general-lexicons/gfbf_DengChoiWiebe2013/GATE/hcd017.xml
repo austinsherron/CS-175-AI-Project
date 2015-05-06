@@ -1,0 +1,800 @@
+<?xml version='1.0' encoding='MacRoman'?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/home/conrada/Dropbox/healthcare_data/devel2/hcd016.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String">LF</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0" />Study: ObamaCare will make doctor shortage 50% worse by 2015<Node id="60" />
+posted at 1:36 pm on October 1, 2010 by Ed Morrissey<Node id="113" />
+
+<Node id="115" />More good news on what we found out about ObamaCare after its passage comes from two different sources today.  First, a new study by the Association of American Medical Colleges and reported by Reuters shows that <Node id="328" />the bill<Node id="336" /> will have a big impact on <Node id="363" />an expected shortage of physicians<Node id="397" /> over the next few years<Node id="421" /> - by <Node id="427" />amplifying<Node id="437" /> <Node id="438" />it<Node id="440" />:<Node id="441" />
+
+    <Node id="447" />The US healthcare reform law<Node id="475" /> will <Node id="481" />worsen<Node id="487" /> <Node id="488" />a shortage of physicians<Node id="512" /> as millions of newly insured patients seek care, the Association of American Medical Colleges said on Thursday<Node id="623" />.<Node id="624" />
+
+    <Node id="630" />The group's Center for Workforce Studies released new estimates that showed shortages would be 50 percent worse in 2015 than forecast<Node id="763" />.<Node id="764" />
+
+    "<Node id="771" />While previous projections showed a baseline shortage of 39,600 doctors in 2015, current estimates bring that number closer to 63,000, with a worsening of shortages through 2025," the group said in a statement<Node id="980" />.<Node id="981" />
+
+<Node id="983" />The artificial cap on reimbursements - a form of price-fixing - will be the main culprit<Node id="1071" />.  With education becoming more and more expensive, physicians need to recoup their investment in it from plying their trade.  <Node id="1198" />Unfortunately, <Node id="1213" />government reimbursement schedules<Node id="1247" /> will <Node id="1253" />force <Node id="1259" />payments<Node id="1267" /> down<Node id="1272" /> through the entire industry, making specializations in areas that have Medicare or Medicaid implications much less attractive<Node id="1398" />.  Those who can choose specialties will be more likely to go into cosmetic surgery, Lasik, and other areas where third-party payer structures are not an issue.<Node id="1558" />
+
+<Node id="1560" />Speaking of third-party payers, another insurance company has called it quits ahead of the ObamaCare mandates<Node id="1669" />.  <Node id="1672" />Six more Iowa companies may follow suit soon, too<Node id="1721" />.  <Node id="1724" />Principal<Node id="1733" /> also <Node id="1739" />cut<Node id="1742" /> <Node id="1743" />1500 jobs in Iowa<Node id="1760" />, a rather sensitive state for those wishing to win re-election to the White House<Node id="1842" />:<Node id="1843" />
+
+    <Node id="1849" />Principal Financial Group said Thursday that it will leave the medical insurance business<Node id="1938" />, further <Node id="1948" />reducing<Node id="1956" /> <Node id="1957" />competition among health insurers in Iowa<Node id="1998" />.<Node id="1999" />
+
+    <Node id="2005" />Principal will transfer the renewal rights for its health insurance customers in Iowa and 30 other states to UnitedHealthcare over the next 36 months. ...<Node id="2159" />
+
+    <Node id="2165" />The decision means the disappearance of the third-largest health insurer in Iowa at a time when half a dozen other small insurers have told the Iowa Insurance Division that they also plan to quit selling health insurance in Iowa<Node id="2393" />.<Node id="2394" />
+
+    <Node id="2400" />The health insurance industry is consolidating, Voss said, driven by a combination of market forces and increased government regulation<Node id="2535" />.<Node id="2536" />
+
+<Node id="2538" />The problem for policyholders is that United will have different offerings than those provided by Principal<Node id="2645" />.  While they cannot be denied on the basis of pre-existing conditions, United will have the right to set its own terms for this risk pool, and <Node id="2789" />given the upcoming mandates, those terms are likely to be less friendly than those offered by Principal<Node id="2892" />.  In fact, it would have to be - otherwise, Principal wouldn't have had to give up the business in the first place.<Node id="3008" />
+
+<Node id="3010" />"<Node id="3011" />Consolidation" means that smaller insurers will <Node id="3059" />get squeezed out of the market<Node id="3089" />.  <Node id="3092" />Those insurers played significant roles in the health-insurance sector by offering plans to niche markets that suited their consumers better than one-size-fits-all plans offered by larger outfits<Node id="3287" />.  <Node id="3290" />As in most cases, <Node id="3308" />heavy government intrusion<Node id="3334" /> <Node id="3335" />boosts<Node id="3341" /> <Node id="3342" />the biggest players in markets<Node id="3372" /> by <Node id="3376" />eliminating<Node id="3387" /> <Node id="3388" />their smaller competition<Node id="3413" />, whose scale makes it difficult if not impossible to handle mandates and remain competitive<Node id="3505" />.<Node id="3506" />
+
+<Node id="3508" />Lost jobs<Node id="3517" />.  <Node id="3520" />Less choice<Node id="3531" />. <Node id="3533" />Shortages<Node id="3542" />.  <Node id="3545" />Higher costs<Node id="3557" />.  <Node id="3560" />Destruction of smaller businesses<Node id="3593" />.  <Node id="3596" />These are all the things that are in ObamaCare, and now that it's been passed, everyone can find them ... the hard way<Node id="3714" />.<Node id="3715" />
+
+<Node id="3717" />Update: <Node id="3725" />Alan Colmes' bloggers<Node id="3746" /> apparently can't read<Node id="3768" />.  <Node id="3771" />They<Node id="3775" />'re <Node id="3779" />blaming<Node id="3786" /> <Node id="3787" />me<Node id="3789" /> for blaming it on ObamaCare, but the very first line in the Reuters report lays the blame on ObamaCare.  Why?  <Node id="3901" />Because, although we were aware that a doctor shortage was coming anyway, dumping 32 million people into Medicaid makes it worse, because of the increased demand<Node id="4062" />.  <Node id="4065" />It's really not that difficult to figure out - but apparently they can't do math, either<Node id="4153" />.<Node id="4154" />
+Tags: entitlement programs, Iowa, White House<Node id="4200" />
+
+<Node id="4202" /></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation Id="15" Type="doc" StartNode="0" EndNode="4202">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">hcd017</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">author</Name>
+  <Value className="java.lang.String">ed,morrissey</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">source</Name>
+  <Value className="java.lang.String">hotair</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">date</Name>
+  <Value className="java.lang.String">20101001</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">side</Name>
+  <Value className="java.lang.String">anti</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">url</Name>
+  <Value className="java.lang.String">http://hotair.com/archives/2010/10/01/study-obamacare-will-make-doctor-shortage-50-worse-by-2015/</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="arg" StartNode="0" EndNode="60">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">healthcare_supply_is_too_small</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="18" Type="arg" StartNode="447" EndNode="623">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">healthcare_supply_is_too_small</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="21" Type="rel" StartNode="771" EndNode="980">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">healthcare_supply_is_too_small</Value>
+</Feature>
+</Annotation>
+<Annotation Id="20" Type="rel" StartNode="630" EndNode="763">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">healthcare_supply_is_too_small</Value>
+</Feature>
+</Annotation>
+<Annotation Id="23" Type="arg" StartNode="1560" EndNode="1669">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">hurts_insurance_market</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="22" Type="rel" StartNode="983" EndNode="1071">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">healthcare_supply_is_too_small</Value>
+</Feature>
+</Annotation>
+<Annotation Id="25" Type="rel" StartNode="1724" EndNode="1842">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">causes_unemployment</Value>
+</Feature>
+</Annotation>
+<Annotation Id="24" Type="rel" StartNode="1672" EndNode="1721">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">hurts_insurance_market</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="27" Type="rel" StartNode="3508" EndNode="3517">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">causes_unemployment</Value>
+</Feature>
+</Annotation>
+<Annotation Id="26" Type="rel" StartNode="1849" EndNode="1998">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">hurts_insurance_market</Value>
+</Feature>
+</Annotation>
+<Annotation Id="29" Type="rel" StartNode="3533" EndNode="3542">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">healthcare_supply_is_too_small</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="28" Type="rel" StartNode="3520" EndNode="3531">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">existing_plans_will_be_eliminated/cancelled</Value>
+</Feature>
+</Annotation>
+<Annotation Id="31" Type="rel" StartNode="3560" EndNode="3593">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">hurts_businesses</Value>
+</Feature>
+</Annotation>
+<Annotation Id="30" Type="rel" StartNode="3545" EndNode="3557">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">does_not_control_healthcare_costs</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="34" Type="arg" StartNode="3725" EndNode="3768">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">else</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="35" Type="arg" StartNode="3290" EndNode="3505">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">diminishes_competition</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="32" Type="rel" StartNode="3901" EndNode="4062">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">healthcare_supply_is_too_small</Value>
+</Feature>
+</Annotation>
+<Annotation Id="33" Type="arg" StartNode="4065" EndNode="4153">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">else</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="38" Type="arg" StartNode="1198" EndNode="1398">
+<Feature>
+  <Name className="java.lang.String">prospect</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">reimbursements_too_small</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="39" Type="rel" StartNode="2165" EndNode="2393">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">hurts_insurance_market</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="36" Type="arg" StartNode="3011" EndNode="3089">
+<Feature>
+  <Name className="java.lang.String">prospect</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">diminishes_competition</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">incomplete</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="37" Type="rel" StartNode="3092" EndNode="3287">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">diminishes_competition</Value>
+</Feature>
+</Annotation>
+<Annotation Id="40" Type="rel" StartNode="2400" EndNode="2535">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">hurts_insurance_market</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="46" Type="content" StartNode="488" EndNode="512">
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="47" Type="content" StartNode="328" EndNode="336">
+</Annotation>
+<Annotation Id="44" Type="arg" StartNode="328" EndNode="440">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">healthcare_supply_is_too_small</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="45" Type="content" StartNode="363" EndNode="397">
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="51" Type="para" StartNode="983" EndNode="1558">
+<Feature>
+  <Name className="java.lang.String">argmnt-label</Name>
+  <Value className="java.lang.String">reimbursements_too_small</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50" Type="para" StartNode="447" EndNode="981">
+<Feature>
+  <Name className="java.lang.String">argmnt-label</Name>
+  <Value className="java.lang.String">reduces_availability_of_medical_care</Value>
+</Feature>
+</Annotation>
+<Annotation Id="49" Type="para" StartNode="115" EndNode="441">
+<Feature>
+  <Name className="java.lang.String">argmnt-label</Name>
+  <Value className="java.lang.String">reduces_availability_of_medical_care</Value>
+</Feature>
+</Annotation>
+<Annotation Id="48" Type="rel" StartNode="2789" EndNode="2892">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">individuals_will_pay_more</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="55" Type="para" StartNode="3010" EndNode="3506">
+<Feature>
+  <Name className="java.lang.String">argmnt-label</Name>
+  <Value className="java.lang.String">hurts_private_insurance</Value>
+</Feature>
+</Annotation>
+<Annotation Id="54" Type="para" StartNode="2538" EndNode="3008">
+<Feature>
+  <Name className="java.lang.String">argmnt-label</Name>
+  <Value className="java.lang.String">getting_insurance_will_be_harder</Value>
+</Feature>
+</Annotation>
+<Annotation Id="53" Type="para" StartNode="1849" EndNode="2536">
+<Feature>
+  <Name className="java.lang.String">argmnt-label</Name>
+  <Value className="java.lang.String">hurts_private_insurance</Value>
+</Feature>
+</Annotation>
+<Annotation Id="52" Type="para" StartNode="1560" EndNode="1843">
+<Feature>
+  <Name className="java.lang.String">argmnt-label</Name>
+  <Value className="java.lang.String">hurts_private_insurance</Value>
+</Feature>
+</Annotation>
+<Annotation Id="59" Type="gfbf-object" StartNode="438" EndNode="440">
+<Feature>
+  <Name className="java.lang.String">referentId</Name>
+  <Value className="java.lang.String">74</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">refererence</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="58" Type="gfbf" StartNode="427" EndNode="437">
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">60</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">59</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">goodfor</Value>
+</Feature>
+</Annotation>
+<Annotation Id="57" Type="para" StartNode="3717" EndNode="4154">
+<Feature>
+  <Name className="java.lang.String">argmnt-label</Name>
+  <Value className="java.lang.String">reduces_availability_of_medical_care</Value>
+</Feature>
+</Annotation>
+<Annotation Id="56" Type="para" StartNode="3508" EndNode="3715">
+<Feature>
+  <Name className="java.lang.String">argmnt-label</Name>
+  <Value className="java.lang.String">hurts_economy</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">misc</Name>
+  <Value className="java.lang.String">getting_insurance_will_be_harder</Value>
+</Feature>
+</Annotation>
+<Annotation Id="63" Type="gfbf-agent" StartNode="447" EndNode="475">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="62" Type="gfbf-object" StartNode="488" EndNode="512">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="61" Type="gfbf" StartNode="481" EndNode="487">
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">63</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">62</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">badfor</Value>
+</Feature>
+</Annotation>
+<Annotation Id="60" Type="gfbf-agent" StartNode="328" EndNode="336">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="68" Type="gfbf" StartNode="3335" EndNode="3341">
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">70</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">69</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">goodfor</Value>
+</Feature>
+</Annotation>
+<Annotation Id="69" Type="gfbf-object" StartNode="3342" EndNode="3372">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="70" Type="gfbf-agent" StartNode="3308" EndNode="3334">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="71" Type="gfbf" StartNode="3376" EndNode="3387">
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">73</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">72</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">badfor</Value>
+</Feature>
+</Annotation>
+<Annotation Id="64" Type="gfbf" StartNode="1253" EndNode="1272">
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">65</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">66</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">comment</Name>
+  <Value className="java.lang.String">force down</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">badfor</Value>
+</Feature>
+</Annotation>
+<Annotation Id="65" Type="gfbf-agent" StartNode="1213" EndNode="1247">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="66" Type="gfbf-object" StartNode="1259" EndNode="1267">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="67" Type="others" StartNode="3059" EndNode="3089">
+</Annotation>
+<Annotation Id="76" Type="gfbf" StartNode="1739" EndNode="1742">
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">75</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">badfor</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">77</Value>
+</Feature>
+</Annotation>
+<Annotation Id="77" Type="gfbf-object" StartNode="1743" EndNode="1760">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="78" Type="gfbf" StartNode="1948" EndNode="1956">
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">80</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">badfor</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">79</Value>
+</Feature>
+</Annotation>
+<Annotation Id="79" Type="gfbf-object" StartNode="1957" EndNode="1998">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="72" Type="gfbf-object" StartNode="3388" EndNode="3413">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="73" Type="gfbf-agent" StartNode="3308" EndNode="3334">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="74" Type="referent" StartNode="363" EndNode="421">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="75" Type="gfbf-agent" StartNode="1724" EndNode="1733">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="85" Type="referent" StartNode="3725" EndNode="3746">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="84" Type="gfbf-agent" StartNode="3771" EndNode="3775">
+<Feature>
+  <Name className="java.lang.String">reference</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">referentId</Name>
+  <Value className="java.lang.String">85</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="80" Type="gfbf-agent" StartNode="1849" EndNode="1938">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="83" Type="gfbf-object" StartNode="3787" EndNode="3789">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="82" Type="gfbf" StartNode="3779" EndNode="3786">
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">84</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">badfor</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">83</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="113">
+</Annotation>
+<Annotation Id="1" Type="paragraph" StartNode="115" EndNode="441">
+</Annotation>
+<Annotation Id="2" Type="paragraph" StartNode="447" EndNode="624">
+</Annotation>
+<Annotation Id="3" Type="paragraph" StartNode="630" EndNode="764">
+</Annotation>
+<Annotation Id="4" Type="paragraph" StartNode="771" EndNode="981">
+</Annotation>
+<Annotation Id="5" Type="paragraph" StartNode="983" EndNode="1558">
+</Annotation>
+<Annotation Id="6" Type="paragraph" StartNode="1560" EndNode="1843">
+</Annotation>
+<Annotation Id="7" Type="paragraph" StartNode="1849" EndNode="1999">
+</Annotation>
+<Annotation Id="42" Type="rel" StartNode="2538" EndNode="2645">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">individuals_will_pay_more</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="paragraph" StartNode="2005" EndNode="2159">
+</Annotation>
+<Annotation Id="43" Type="arg" StartNode="3596" EndNode="3714">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">bill_will_hurt_healthcare_system</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="paragraph" StartNode="2165" EndNode="2394">
+</Annotation>
+<Annotation Id="10" Type="paragraph" StartNode="2400" EndNode="2536">
+</Annotation>
+<Annotation Id="11" Type="paragraph" StartNode="2538" EndNode="3008">
+</Annotation>
+<Annotation Id="12" Type="paragraph" StartNode="3011" EndNode="3506">
+</Annotation>
+<Annotation Id="13" Type="paragraph" StartNode="3508" EndNode="3715">
+</Annotation>
+<Annotation Id="14" Type="paragraph" StartNode="3717" EndNode="4200">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,450 @@
+<?xml version='1.0' encoding='MacRoman'?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/home/conrada/Dropbox/healthcare_data/training_new/hc099.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String">LF</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0" />CBO: <Node id="5" />Defunding<Node id="14" /> '<Node id="16" />ObamaCare<Node id="25" />' Would Cost Billions<Node id="46" />
+share
+Brian Beutler March 11, 2011, 10:17 AM 2238<Node id="96" />
+
+<Node id="98" />If <Node id="101" />Congress<Node id="109" /> <Node id="110" />prohibits<Node id="119" /> <Node id="120" />the Obama administration<Node id="144" /> from <Node id="150" />funding<Node id="157" /> <Node id="158" />implementation of the new health care law<Node id="199" />, it will cost the government billions of dollars over 10 years, according to the Congressional Budget Office<Node id="308" />.<Node id="309" />
+
+<Node id="311" />You might think that declaring certain funds off limits would save the government money<Node id="398" /> &#x201a;&#x20ac;&#x201d; and indeed <Node id="414" />the measure in the House spending bill defunding the health care law would save $1.6 billion through the end of the year<Node id="534" />. <Node id="536" />But by <Node id="543" />forbidding<Node id="553" /> <Node id="554" />the Department of Health and Human Services<Node id="597" /> from <Node id="603" />developing<Node id="613" /> <Node id="614" />programs expected to save money<Node id="645" />, such a prohibition would actually accrue about $6 billion in costs by the end of the decade<Node id="738" />.<Node id="739" />
+
+"<Node id="742" />CBO estimates that enacting the prohibition on using new fiscal year 2011 funding to carry out those laws would reduce spending by $1.6 billion during the remainder of 2011, but would increase spending by $3.1 billion in fiscal year 2012 and by smaller amounts in each of the fiscal years 2013 through 2021<Node id="1048" />," writes CBO chief Doug Elmendorf. "<Node id="1085" />Net additional costs would total $3.9 billion over the 2011- 2016 period and $5.6 billion over the 2011-2021 period<Node id="1200" />. <Node id="1202" />In addition, CBO and JCT estimate that the prohibition would reduce federal revenues by $0.1 billion over both the 2011-2016 and 2011-2021 periods<Node id="1348" />."<Node id="1350" />
+
+<Node id="1352" />There are many reasons for this, according to CBO, but here's the big one: "<Node id="1428" />Delaying or reducing work on  -  research and development activities for the rest of fiscal year 2011 would delay the realization of expected savings<Node id="1577" />." In other words, <Node id="1596" />provisions of the law that are expected to reduce the deficit right now would be postponed<Node id="1686" />. <Node id="1688" />As a result of "<Node id="1704" />delaying<Node id="1712" /> <Node id="1713" />the implementation of new programs<Node id="1747" />, and thus <Node id="1758" />delaying<Node id="1766" /> <Node id="1767" />the savings that would result from them<Node id="1806" />, [government spending] would increase spending by about $4.9 billion over the 2011-2021 period<Node id="1901" />."<Node id="1903" />
+
+<Node id="1905" />As you might imagine, Democrats are pleased with this report, and <Node id="1971" />other recent evidence that <Node id="1998" />House<Node id="2003" /> efforts to <Node id="2015" />defund<Node id="2021" /> <Node id="2022" />the health care law<Node id="2041" /> would <Node id="2048" />create<Node id="2054" /> <Node id="2055" />a big, costly, and politically damaging mess<Node id="2099" />.
+Barack Obama, CBO, Deficit, Defunding health care, Health Care, Republicans, Spending
+<Node id="2188" /></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation Id="6" Type="doc" StartNode="0" EndNode="2188">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">hc099</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">author</Name>
+  <Value className="java.lang.String">brian,beutler</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">source</Name>
+  <Value className="java.lang.String">talkingpointsmemo</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">date</Name>
+  <Value className="java.lang.String">20110311</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">side</Name>
+  <Value className="java.lang.String">pro</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">url</Name>
+  <Value className="java.lang.String">http://tpmdc.talkingpointsmemo.com/2011/03/cbo-defunding-obamacare-would-cost-billions.php</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="arg" StartNode="0" EndNode="46">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">repeal_increases_deficit</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="arg" StartNode="98" EndNode="308">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">repeal_increases_deficit</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="rel" StartNode="311" EndNode="398">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">repeal_increases_deficit</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">group</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="arg" StartNode="414" EndNode="534">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">dside</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="arg" StartNode="536" EndNode="738">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">repeal_increases_deficit</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="rel" StartNode="742" EndNode="1048">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">repeal_increases_deficit</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="arg" StartNode="1085" EndNode="1200">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">repeal_increases_deficit</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="17" Type="rel" StartNode="1428" EndNode="1577">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">repeal_increases_deficit</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="rel" StartNode="1202" EndNode="1348">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">repeal_increases_deficit</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="19" Type="arg" StartNode="1688" EndNode="1901">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">repeal_increases_deficit</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="18" Type="rel" StartNode="1596" EndNode="1686">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">repeal_increases_deficit</Value>
+</Feature>
+</Annotation>
+<Annotation Id="21" Type="gfbf" StartNode="5" EndNode="14">
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">implicit</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">badfor</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">22</Value>
+</Feature>
+</Annotation>
+<Annotation Id="20" Type="arg" StartNode="1905" EndNode="2099">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">repeal_increases_deficit</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="23" Type="gfbf" StartNode="150" EndNode="157">
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">25</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">24</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">goodfor</Value>
+</Feature>
+</Annotation>
+<Annotation Id="22" Type="gfbf-object" StartNode="16" EndNode="25">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="25" Type="gfbf-agent" StartNode="120" EndNode="144">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="24" Type="gfbf-object" StartNode="158" EndNode="199">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="27" Type="gfbf" StartNode="603" EndNode="613">
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">29</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">goodfor</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">28</Value>
+</Feature>
+</Annotation>
+<Annotation Id="26" Type="influencer" StartNode="110" EndNode="119">
+<Feature>
+  <Name className="java.lang.String">effect</Name>
+  <Value className="java.lang.String">reverse</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">42</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">23</Value>
+</Feature>
+</Annotation>
+<Annotation Id="29" Type="gfbf-agent" StartNode="554" EndNode="597">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="28" Type="gfbf-object" StartNode="614" EndNode="645">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="31" Type="gfbf" StartNode="1704" EndNode="1712">
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">implicit</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">badfor</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">32</Value>
+</Feature>
+</Annotation>
+<Annotation Id="30" Type="influencer" StartNode="543" EndNode="553">
+<Feature>
+  <Name className="java.lang.String">effect</Name>
+  <Value className="java.lang.String">reverse</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">implicit</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">27</Value>
+</Feature>
+</Annotation>
+<Annotation Id="34" Type="gfbf-object" StartNode="1767" EndNode="1806">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="35" Type="gfbf-agent" StartNode="1971" EndNode="2041">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="32" Type="gfbf-object" StartNode="1713" EndNode="1747">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="33" Type="gfbf" StartNode="1758" EndNode="1766">
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">implicit</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">badfor</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">34</Value>
+</Feature>
+</Annotation>
+<Annotation Id="38" Type="gfbf-agent" StartNode="1998" EndNode="2003">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="39" Type="gfbf" StartNode="2015" EndNode="2021">
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">38</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">40</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">badfor</Value>
+</Feature>
+</Annotation>
+<Annotation Id="36" Type="gfbf" StartNode="2048" EndNode="2054">
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">35</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">37</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">goodfor</Value>
+</Feature>
+</Annotation>
+<Annotation Id="37" Type="gfbf-object" StartNode="2055" EndNode="2099">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="42" Type="gfbf-agent" StartNode="101" EndNode="109">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="40" Type="gfbf-object" StartNode="2022" EndNode="2041">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="96">
+</Annotation>
+<Annotation Id="1" Type="paragraph" StartNode="98" EndNode="309">
+</Annotation>
+<Annotation Id="2" Type="paragraph" StartNode="311" EndNode="739">
+</Annotation>
+<Annotation Id="3" Type="paragraph" StartNode="742" EndNode="1350">
+</Annotation>
+<Annotation Id="4" Type="paragraph" StartNode="1352" EndNode="1903">
+</Annotation>
+<Annotation Id="5" Type="paragraph" StartNode="1905" EndNode="2188">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

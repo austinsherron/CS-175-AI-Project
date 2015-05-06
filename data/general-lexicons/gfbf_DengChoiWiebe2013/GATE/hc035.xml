@@ -1,0 +1,667 @@
+<?xml version='1.0' encoding='US-ASCII'?>
+<GateDocument version="2">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/home/conrada/Dropbox/healthcare_devel_data_final/hc035.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String">CRLF</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>What Obamacare can learn from Romneycare: Massachusetts' plan makes far more sense<Node id="82"/>
+BY BRAD JONES
+Sunday, March 21st 2010, 4:00 AM
+ <Node id="131"/>Partisans on both sides of Washington's health care debate point to the Massachusetts plan enacted in 2006 - some to defend Obamacare, some to attack it<Node id="283"/>.
+ <Node id="286"/>I know <Node id="293"/>the Massachusetts health care reform plan<Node id="334"/> well because I was there at the creation<Node id="375"/>.
+ <Node id="378"/>It is different from ObamaCare in many important respects, and there are vital cautionary lessons it teaches us as <Node id="493"/>we<Node id="495"/> <Node id="496"/>grapple with<Node id="508"/> <Node id="509"/>the problem of the uninsured nationally<Node id="548"/>.
+ <Node id="551"/>We did in fact get almost everyone insured<Node id="593"/>.
+ <Node id="596"/>Nearly 98% of Massachusetts citizens now have health insurance, including those with pre-existing conditions<Node id="704"/>. <Node id="706"/>This has meant earlier treatment and better care<Node id="754"/>.
+ <Node id="757"/>No one in Massachusetts needs fear that he or she will become uninsured if they lose or change jobs<Node id="856"/>.
+ <Node id="859"/>We achieved this by establishing an incentive for people to get insured: An uninsured individual's tax levy is raised by an amount equal to one half of the annual premium of the lowest-cost health insurance private plan<Node id="1078"/>.
+ <Node id="1081"/>For those who cannot afford insurance, we provide a subsidy according to a sliding scale based on their income<Node id="1191"/>.
+ <Node id="1194"/>We also established an exchange to make it easier for individuals to purchase insurance<Node id="1281"/>.
+ In these ways, our plan also tracks Obamacare.
+ But that's where the similarities end.
+ <Node id="1372"/>Our plan has proven fiscally smart<Node id="1406"/>.
+ <Node id="1409"/>The program costs less than 1.5% of the state budget, well within its original forecast<Node id="1496"/>.
+ <Node id="1499"/>We don't yet know whether Obamacare would cost more or less than projected, but a disturbing number of optimistic projections and fiscal gimmicks in the bill suggest it will cost more than anticipated.
+<Node id="1701"/>
+ <Node id="1703"/>Higher taxes on individuals and businesses were not part of our plan - while nearly $1 trillion in higher taxes are a big part of what funds Obamacare.
+<Node id="1855"/>
+ <Node id="1857"/>Nor did we seek to control insurance premiums<Node id="1902"/>. <Node id="1904"/>Obamacare gives government this power.
+<Node id="1943"/>
+ <Node id="1945"/>Our plan did not cut Medicaid or Medicare<Node id="1986"/>.
+ <Node id="1989"/>Obamacare<Node id="1998"/> will <Node id="2004"/>divert $1.1 trillion away from<Node id="2034"/> <Node id="2035"/>Medicare<Node id="2043"/>, which is barely solvent as is.
+<Node id="2076"/>
+ <Node id="2078"/>The Massachusetts legislation was 70 pages long, and easy for the people to understand<Node id="2164"/>.
+ <Node id="2167"/>Obamacare is a frightening 2,000-page bill<Node id="2209"/>.
+
+ <Node id="2213"/>This is more than symbolic; it means the bill is filled with myriad surprises for the taxpayers.
+<Node id="2310"/>
+ <Node id="2312"/>The final big difference is perhaps most important of all: Ours is a state plan, not a federal plan <Node id="2412"/>imposed on<Node id="2422"/> <Node id="2423"/>the entire country<Node id="2441"/>.
+<Node id="2443"/>
+ We've made mistakes.
+ <Node id="2467"/>Massachusetts mandates which medical coverage must be included in each insurance policy, including such things as an unlimited number of in vitro fertilization treatments<Node id="2637"/>.
+ <Node id="2640"/>That<Node id="2644"/> <Node id="2645"/>inflates<Node id="2653"/> <Node id="2654"/>costs for everyone<Node id="2672"/>.
+ And Massachusetts applies a $295 annual fee on employers for each uninsured employee, which has hurt the business climate in our state.
+ Then-Gov. Mitt Romney's objection to both these measures was overridden by Democrats in the legislature.
+ <Node id="2918"/>Regrettably, Obamacare repeats these design errors<Node id="2968"/>.
+
+ <Node id="2972"/>Finally, we learned that while our plan succeeded in lowering premiums for individuals who wish to purchase insurance on their own, for those already insured through their employer, health insurance costs continue to rise<Node id="3193"/>.
+
+ <Node id="3197"/>Among the reasons: State-mandated treatment coverages and the failure to limit malpractice rewards<Node id="3295"/>.
+
+ <Node id="3299"/>Summing up the major lessons for our current national debate: <Node id="3361"/>States<Node id="3367"/> can <Node id="3372"/>solve<Node id="3377"/> <Node id="3378"/>the problems of pre-existing conditions and the uninsured<Node id="3435"/>.<Node id="3436"/>
+
+ <Node id="3439"/>There is no need for higher taxes, Medicare eliminations or for a federal power grab.
+<Node id="3525"/>
+ <Node id="3527"/>And <Node id="3531"/>the single biggest health care problem<Node id="3569"/> - high costs - will <Node id="3590"/>not<Node id="3593"/> be <Node id="3597"/>solved<Node id="3603"/> by <Node id="3607"/>universal coverage<Node id="3625"/> alone<Node id="3631"/>.
+
+<Node id="3634"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation Id="1" Type="doc" StartNode="0" EndNode="3634">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">hc035</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">author</Name>
+  <Value className="java.lang.String">Brad,Jones</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">date</Name>
+  <Value className="java.lang.String">20100321</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">source</Name>
+  <Value className="java.lang.String">nydailynews,New,York,Daily,News</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">side</Name>
+  <Value className="java.lang.String">anti</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">url</Name>
+  <Value className="java.lang.String">http://www.nydailynews.com/opinions/2010/03/21/2010-03-21_what_obamacare_can_learn_from_romneycare.html </Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="rel" StartNode="293" EndNode="334">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">r1</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="arg" StartNode="378" EndNode="548">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">massachusetts_plan_better_than_obamacare</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="arg" StartNode="1499" EndNode="1701">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">will_cost_more_than_anticipated</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="arg" StartNode="1703" EndNode="1855">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">individuals_will_pay_higher_taxes</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="arg" StartNode="1904" EndNode="1943">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">expands_govt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="arg" StartNode="1989" EndNode="2076">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">cuts_medicare</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="arg" StartNode="2167" EndNode="2209">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">too_long</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="arg" StartNode="2213" EndNode="2310">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">individuals_will_pay_higher_taxes</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">incomplete</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="arg" StartNode="2312" EndNode="2443">
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">healthcare_reform_is_state_responsibility</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">about-rel</Name>
+  <Value className="java.lang.String">r1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="arg" StartNode="3299" EndNode="3436">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">healthcare_reform_is_state_responsibility</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="arg" StartNode="3439" EndNode="3525">
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">interferes_with_states_ability_to_regulate</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="arg" StartNode="3527" EndNode="3631">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">does_not_control_healthcare_costs</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="rel" StartNode="2972" EndNode="3193">
+<Feature>
+  <Name className="java.lang.String"></Name>
+  <Value className="java.lang.String">does_not_control_costs_for_employer-based_insurance</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">does_not_control_costs_for_employer-based_insurance</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="17" Type="arg" StartNode="0" EndNode="82">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">massachusetts_plan_better_than_obamacare</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="rel" StartNode="3197" EndNode="3295">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">does_not_control_costs_for_employer-based_insurance</Value>
+</Feature>
+</Annotation>
+<Annotation Id="19" Type="rel" StartNode="286" EndNode="375">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">massachusetts_plan_better_than_obamacare</Value>
+</Feature>
+</Annotation>
+<Annotation Id="18" Type="rel" StartNode="131" EndNode="283">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">massachusetts_plan_better_than_obamacare</Value>
+</Feature>
+</Annotation>
+<Annotation Id="21" Type="rel" StartNode="596" EndNode="704">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">massachusetts_plan_better_than_obamacare</Value>
+</Feature>
+</Annotation>
+<Annotation Id="20" Type="rel" StartNode="551" EndNode="593">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">massachusetts_plan_better_than_obamacare</Value>
+</Feature>
+</Annotation>
+<Annotation Id="23" Type="rel" StartNode="757" EndNode="856">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">massachusetts_plan_better_than_obamacare</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</Annotation>
+<Annotation Id="22" Type="rel" StartNode="706" EndNode="754">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">massachusetts_plan_better_than_obamacare</Value>
+</Feature>
+</Annotation>
+<Annotation Id="25" Type="rel" StartNode="1081" EndNode="1191">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">massachusetts_plan_better_than_obamacare</Value>
+</Feature>
+</Annotation>
+<Annotation Id="24" Type="rel" StartNode="859" EndNode="1078">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">massachusetts_plan_better_than_obamacare</Value>
+</Feature>
+</Annotation>
+<Annotation Id="26" Type="rel" StartNode="1194" EndNode="1281">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">massachusetts_plan_better_than_obamacare</Value>
+</Feature>
+</Annotation>
+<Annotation Id="29" Type="rel" StartNode="1409" EndNode="1496">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">massachusetts_plan_better_than_obamacare</Value>
+</Feature>
+</Annotation>
+<Annotation Id="28" Type="rel" StartNode="1372" EndNode="1406">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">massachusetts_plan_better_than_obamacare</Value>
+</Feature>
+</Annotation>
+<Annotation Id="31" Type="rel" StartNode="1945" EndNode="1986">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">massachusetts_plan_better_than_obamacare</Value>
+</Feature>
+</Annotation>
+<Annotation Id="30" Type="rel" StartNode="1857" EndNode="1902">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">massachusetts_plan_better_than_obamacare</Value>
+</Feature>
+</Annotation>
+<Annotation Id="34" Type="gfbf" StartNode="496" EndNode="508">
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">45</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">35</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">badfor</Value>
+</Feature>
+</Annotation>
+<Annotation Id="35" Type="gfbf-object" StartNode="509" EndNode="548">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="32" Type="rel" StartNode="2078" EndNode="2164">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">massachusetts_plan_better_than_obamacare</Value>
+</Feature>
+</Annotation>
+<Annotation Id="33" Type="rel" StartNode="2918" EndNode="2968">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">healthcare_reform_is_state_responsibility</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="39" Type="gfbf-object" StartNode="2423" EndNode="2441">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="36" Type="gfbf" StartNode="2004" EndNode="2034">
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">46</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">37</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">badfor</Value>
+</Feature>
+</Annotation>
+<Annotation Id="37" Type="gfbf-object" StartNode="2035" EndNode="2043">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="42" Type="gfbf" StartNode="3597" EndNode="3603">
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">50</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">43</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">badfor</Value>
+</Feature>
+</Annotation>
+<Annotation Id="43" Type="gfbf-object" StartNode="3531" EndNode="3569">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="40" Type="gfbf" StartNode="3372" EndNode="3377">
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">47</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">49</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">badfor</Value>
+</Feature>
+</Annotation>
+<Annotation Id="46" Type="gfbf-agent" StartNode="1989" EndNode="1998">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="47" Type="gfbf-agent" StartNode="3361" EndNode="3367">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="44" Type="gfbf" StartNode="2412" EndNode="2422">
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">implicit</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">badfor</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">39</Value>
+</Feature>
+</Annotation>
+<Annotation Id="45" Type="gfbf-agent" StartNode="493" EndNode="495">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="51" Type="influencer" StartNode="3590" EndNode="3593">
+<Feature>
+  <Name className="java.lang.String">effect</Name>
+  <Value className="java.lang.String">reverse</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">50</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">42</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50" Type="gfbf-agent" StartNode="3607" EndNode="3625">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="49" Type="gfbf-object" StartNode="3378" EndNode="3435">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="54" Type="gfbf-agent" StartNode="2640" EndNode="2644">
+<Feature>
+  <Name className="java.lang.String">referentId</Name>
+  <Value className="java.lang.String">56</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">reference</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="53" Type="gfbf-object" StartNode="2654" EndNode="2672">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="52" Type="gfbf" StartNode="2645" EndNode="2653">
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">54</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">goodfor</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">53</Value>
+</Feature>
+</Annotation>
+<Annotation Id="56" Type="referent" StartNode="2467" EndNode="2637">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="3634">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

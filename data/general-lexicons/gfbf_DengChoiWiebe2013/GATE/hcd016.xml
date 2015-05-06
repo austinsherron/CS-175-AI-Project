@@ -1,0 +1,572 @@
+<?xml version='1.0' encoding='MacRoman'?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/home/conrada/Dropbox/healthcare_data/devel2/hcd016.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String">LF</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0" />joelgpFollowRSS
+Daily Kos member<Node id="32" />
+
+    <Node id="38" />Profile
+    Diaries (list)
+    Stream<Node id="75" />
+
+<Node id="77" />Tue Dec 06, 2011 at 07:46 AM PST
+Breaking USAToday.com Report: <Node id="140" />"Obamacare" is Definitely Working<Node id="173" />
+
+<Node id="175" />by joelgpFollow
+ShareNew
+permalink 	483 Comments<Node id="223" />
+
+<Node id="225" />What follows is just a quick diary to share a "positive" story about Obamacare<Node id="303" />.<Node id="304" />
+
+<Node id="306" />We have heard more <Node id="325" />false rhetoric<Node id="339" /> on this policy than just about any law I can remember in a long time<Node id="408" />.  <Node id="411" />USAToday.com reviewed hard empirical data to determine the success of certain aspects of the plan thus far<Node id="517" />.<Node id="518" />
+
+<Node id="520" />I've cut up their article to give you the straight dope to hopefully help you find something useful when you're battle another misinformed con<Node id="662" />:<Node id="663" />
+
+<Node id="665" />1. <Node id="668" />More than 2.65 million Medicare doughnut hole seniors  have saved more than $1.5 billion on their prescriptions this year<Node id="789" />.<Node id="790" />
+
+<Node id="792" />2. <Node id="795" />Their premiums have NOT <Node id="819" />gone up<Node id="826" />!<Node id="827" />!<Node id="828" />
+
+<Node id="830" />3. <Node id="833" />Seniors have saved and average of $569-per-person since the policy <Node id="900" />went into effect<Node id="916" />.<Node id="917" />
+
+<Node id="919" />4. <Node id="922" />The savings came from Obama's 50% discount for drugs bought during the doughnut hole period<Node id="1013" />.<Node id="1014" />
+
+<Node id="1016" />5. <Node id="1019" />The current premium for the Medicare Prescription Drug Plan is $30.76<Node id="1088" />.  <Node id="1091" />It will go down to $30.00 in August 2012<Node id="1131" />.<Node id="1132" />
+
+<Node id="1134" />6. <Node id="1137" />Seniors are becoming more engaged in their health plans because of <Node id="1204" />thousands of forums by Medicare<Node id="1235" />.<Node id="1236" />
+
+<Node id="1238" />7. <Node id="1241" />As of this past November, 24 million Americans have gone in for <Node id="1305" />free screenings and preventative check-ups<Node id="1347" />.<Node id="1348" />
+
+<Node id="1350" />8. <Node id="1353" />Even Robert Moffitt, Sr. Fellow at Heritage believes <Node id="1406" />all of these early interventions<Node id="1438" /> "could" <Node id="1447" />bring down<Node id="1457" /> <Node id="1458" />the cost of healthcare<Node id="1480" />.<Node id="1481" />
+
+<Node id="1483" />So folks, it's pretty obvious from this report that the <Node id="1539" />much maligned <Node id="1553" />Obamacare<Node id="1562" /> really is working<Node id="1580" />.  <Node id="1583" />I'm sure that of the 24 million people who have already taken advantage of the free check-ups and screenings, <Node id="1693" />it<Node id="1695" /> probably has already <Node id="1717" />saved<Node id="1722" /> <Node id="1723" />countless lives<Node id="1738" />.<Node id="1739" />
+
+
+<Node id="1742" />And, the fact that the average doughnut-hole senior saved nearly $600.00 dollars last year, while getting the prescription drugs they needed is really a big deal<Node id="1903" />.  <Node id="1906" />I'm sure you'll never see this story on cable news so I thought I'd share<Node id="1979" />.
+Have a spectacular day!!    <Node id="2009" />
+
+<Node id="2011" />Tags<Node id="2015" />
+
+    <Node id="2021" />Culture
+    Economy
+    Elections
+    Health Care
+    media
+    Obama
+    Recommended
+    White House<Node id="2122" />
+
+
+<Node id="2125" /></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation Id="70" Type="gfbf" StartNode="1447" EndNode="1457">
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">71</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">75</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">badfor</Value>
+</Feature>
+</Annotation>
+<Annotation Id="71" Type="gfbf-agent" StartNode="1406" EndNode="1438">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="64" Type="para" StartNode="1238" EndNode="1348">
+<Feature>
+  <Name className="java.lang.String">argmnt-label</Name>
+  <Value className="java.lang.String">expands/guarantees_access_to_preventative_care</Value>
+</Feature>
+</Annotation>
+<Annotation Id="65" Type="para" StartNode="1350" EndNode="1481">
+<Feature>
+  <Name className="java.lang.String">argmnt-label</Name>
+  <Value className="java.lang.String">controls_healthcare_costs</Value>
+</Feature>
+</Annotation>
+<Annotation Id="66" Type="others" StartNode="819" EndNode="826">
+<Feature>
+  <Name className="java.lang.String">comment</Name>
+  <Value className="java.lang.String">GoodFor agent</Value>
+</Feature>
+</Annotation>
+<Annotation Id="67" Type="others" StartNode="900" EndNode="916">
+<Feature>
+  <Name className="java.lang.String">comment</Name>
+  <Value className="java.lang.String">GoodFor agent</Value>
+</Feature>
+</Annotation>
+<Annotation Id="77" Type="referent" StartNode="1553" EndNode="1562">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="72" Type="gfbf" StartNode="1717" EndNode="1722">
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">73</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">74</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">goodfor</Value>
+</Feature>
+</Annotation>
+<Annotation Id="73" Type="gfbf-agent" StartNode="1693" EndNode="1695">
+<Feature>
+  <Name className="java.lang.String">referentId</Name>
+  <Value className="java.lang.String">77</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">reference</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="74" Type="gfbf-object" StartNode="1723" EndNode="1738">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="75" Type="gfbf-object" StartNode="1458" EndNode="1480">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="21" Type="arg" StartNode="140" EndNode="173">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">bills_impact_is_positive</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="20" Type="doc" StartNode="0" EndNode="2125">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">hcd016</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">author</Name>
+  <Value className="java.lang.String">joelgp</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">source</Name>
+  <Value className="java.lang.String">dailykos</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">date</Name>
+  <Value className="java.lang.String">20111206</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">side</Name>
+  <Value className="java.lang.String">pro</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">url</Name>
+  <Value className="java.lang.String">http://www.dailykos.com/story/2011/12/06/1042744/-Breaking-USATodaycom-Report:-Obamacare-is-Definitely-Working</Value>
+</Feature>
+</Annotation>
+<Annotation Id="23" Type="arg" StartNode="306" EndNode="408">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">opposition_demagogues_bill</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="22" Type="rel" StartNode="225" EndNode="303">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">bills_impact_is_positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="25" Type="rel" StartNode="520" EndNode="662">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">people_dont_know_truth_about_bill</Value>
+</Feature>
+</Annotation>
+<Annotation Id="24" Type="rel" StartNode="411" EndNode="517">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">bills_impact_is_positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="27" Type="arg" StartNode="795" EndNode="827">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">helps_seniors_pay_for_meds</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="26" Type="arg" StartNode="668" EndNode="789">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">helps_seniors_pay_for_meds</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="29" Type="rel" StartNode="922" EndNode="1013">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">else</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">helps_seniors_pay_for_meds</Value>
+</Feature>
+</Annotation>
+<Annotation Id="28" Type="arg" StartNode="833" EndNode="916">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">helps_seniors_pay_for_meds</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="31" Type="rel" StartNode="1091" EndNode="1131">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">helps_seniors_pay_for_meds</Value>
+</Feature>
+</Annotation>
+<Annotation Id="30" Type="rel" StartNode="1019" EndNode="1088">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">helps_seniors_pay_for_meds</Value>
+</Feature>
+</Annotation>
+<Annotation Id="34" Type="arg" StartNode="1353" EndNode="1480">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">controls_healthcare_costs</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="35" Type="arg" StartNode="1483" EndNode="1580">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">bills_impact_is_positive</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="32" Type="arg" StartNode="1137" EndNode="1235">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">improves_care_for_seniors</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="33" Type="arg" StartNode="1241" EndNode="1347">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">expands/guarantees_access_to_preventative_care</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="38" Type="arg" StartNode="1742" EndNode="1903">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">helps_seniors_pay_for_meds</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="39" Type="rel" StartNode="1906" EndNode="1979">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">people_dont_know_truth_about_bill</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="36" Type="content" StartNode="1539" EndNode="1562">
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="37" Type="arg" StartNode="1583" EndNode="1738">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">saves_lives</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="42" Type="content" StartNode="325" EndNode="339">
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="43" Type="para" StartNode="225" EndNode="518">
+<Feature>
+  <Name className="java.lang.String">argmnt-label</Name>
+  <Value className="java.lang.String">opposition_demagogues_bill</Value>
+</Feature>
+</Annotation>
+<Annotation Id="40" Type="content" StartNode="1305" EndNode="1347">
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="41" Type="content" StartNode="1204" EndNode="1235">
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="54" Type="para" StartNode="1016" EndNode="1132">
+<Feature>
+  <Name className="java.lang.String">argmnt-label</Name>
+  <Value className="java.lang.String">helps_seniors_pay_for_meds</Value>
+</Feature>
+</Annotation>
+<Annotation Id="59" Type="para" StartNode="665" EndNode="790">
+<Feature>
+  <Name className="java.lang.String">argmnt-label</Name>
+  <Value className="java.lang.String">helps_seniors_pay_for_meds</Value>
+</Feature>
+</Annotation>
+<Annotation Id="58" Type="para" StartNode="520" EndNode="663">
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argmnt-label</Name>
+  <Value className="java.lang.String">opposition_demagogues_bill</Value>
+</Feature>
+</Annotation>
+<Annotation Id="57" Type="para" StartNode="1742" EndNode="2009">
+<Feature>
+  <Name className="java.lang.String">argmnt-label</Name>
+  <Value className="java.lang.String">helps_seniors_pay_for_meds</Value>
+</Feature>
+</Annotation>
+<Annotation Id="56" Type="para" StartNode="1483" EndNode="1739">
+<Feature>
+  <Name className="java.lang.String">argmnt-label</Name>
+  <Value className="java.lang.String">expands/guarantees_access_to_preventative_care</Value>
+</Feature>
+</Annotation>
+<Annotation Id="63" Type="para" StartNode="1134" EndNode="1236">
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argmnt-label</Name>
+  <Value className="java.lang.String">makes_care_more_direct</Value>
+</Feature>
+</Annotation>
+<Annotation Id="62" Type="para" StartNode="919" EndNode="1014">
+<Feature>
+  <Name className="java.lang.String">argmnt-label</Name>
+  <Value className="java.lang.String">helps_seniors_pay_for_meds</Value>
+</Feature>
+</Annotation>
+<Annotation Id="61" Type="para" StartNode="830" EndNode="917">
+<Feature>
+  <Name className="java.lang.String">argmnt-label</Name>
+  <Value className="java.lang.String">improves_healthcare_affordability</Value>
+</Feature>
+</Annotation>
+<Annotation Id="60" Type="para" StartNode="792" EndNode="828">
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argmnt-label</Name>
+  <Value className="java.lang.String">improves_healthcare_affordability</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="32">
+</Annotation>
+<Annotation Id="1" Type="paragraph" StartNode="38" EndNode="75">
+</Annotation>
+<Annotation Id="2" Type="paragraph" StartNode="77" EndNode="173">
+</Annotation>
+<Annotation Id="3" Type="paragraph" StartNode="175" EndNode="223">
+</Annotation>
+<Annotation Id="4" Type="paragraph" StartNode="225" EndNode="304">
+</Annotation>
+<Annotation Id="5" Type="paragraph" StartNode="306" EndNode="518">
+</Annotation>
+<Annotation Id="6" Type="paragraph" StartNode="520" EndNode="663">
+</Annotation>
+<Annotation Id="7" Type="paragraph" StartNode="665" EndNode="790">
+</Annotation>
+<Annotation Id="8" Type="paragraph" StartNode="792" EndNode="828">
+</Annotation>
+<Annotation Id="9" Type="paragraph" StartNode="830" EndNode="917">
+</Annotation>
+<Annotation Id="10" Type="paragraph" StartNode="919" EndNode="1014">
+</Annotation>
+<Annotation Id="11" Type="paragraph" StartNode="1016" EndNode="1132">
+</Annotation>
+<Annotation Id="12" Type="paragraph" StartNode="1134" EndNode="1236">
+</Annotation>
+<Annotation Id="13" Type="paragraph" StartNode="1238" EndNode="1348">
+</Annotation>
+<Annotation Id="14" Type="paragraph" StartNode="1350" EndNode="1481">
+</Annotation>
+<Annotation Id="15" Type="paragraph" StartNode="1483" EndNode="1739">
+</Annotation>
+<Annotation Id="17" Type="paragraph" StartNode="2011" EndNode="2015">
+</Annotation>
+<Annotation Id="16" Type="paragraph" StartNode="1742" EndNode="2009">
+</Annotation>
+<Annotation Id="18" Type="paragraph" StartNode="2021" EndNode="2122">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

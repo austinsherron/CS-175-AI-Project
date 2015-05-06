@@ -1,0 +1,501 @@
+<?xml version='1.0' encoding='MacRoman'?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/home/conrada/Dropbox/healthcare_data/devel2/hcd019.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String">LF</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0" />One in eight small businesses get insurance cancellations after ObamaCare passage
+posted at 7:18 pm on July 26, 2011 by Ed Morrissey<Node id="132" />
+
+<Node id="134" />Let's take a breather from Barack Obama's <Node id="176" />failure<Node id="183" /> to lead on the debt crisis to his failed signature policy of ObamaCare<Node id="254" />.  <Node id="257" />Despite his promise that passage of the health-insurance overhaul bill would <Node id="334" />allow people to keep their current health insurance<Node id="385" />, a new report from the National Federation of Independent Business shows that one in eight small businesses have had to stop <Node id="511" />offering insurance to<Node id="532" /> their employees<Node id="548" />.  The Daily Caller notes that the change has not been voluntary:<Node id="613" />
+
+    <Node id="619" />Among the most striking of NFIB's findings was <Node id="666" />the number of employer health insurance plans<Node id="711" /> that have been or will be <Node id="738" />eliminated<Node id="748" /> since <Node id="755" />PPACA's passage<Node id="770" /> - 14 percent, or one in eight<Node id="800" />. <Node id="802" />Eliminating<Node id="813" /> <Node id="814" />employer health care plans<Node id="840" /> "is the first major consequence of PPACA that small-business owners likely feel," the report said<Node id="938" />.<Node id="939" />
+
+    <Node id="945" />"<Node id="946" />We are not aware of any data suggesting we've had turnover anywhere near this level in the past," said William J. Dennis, a senior research fellow at the National Federation for Independent Business<Node id="1144" />.<Node id="1145" />
+
+    <Node id="1151" />The NFIB study also found 20 percent of small employers expect to significantly change their benefit packages the next time they renew their health insurance plans<Node id="1314" />. <Node id="1316" />Almost all of them expected to see diminished benefits, increased employee costs, or both<Node id="1405" />.<Node id="1406" />
+
+<Node id="1408" />The report makes clear that the change has mainly been imposed on small businesses.  <Node id="1493" />Left on their own, they would have continued coverage<Node id="1546" />, <Node id="1548" />but in response to ObamaCare, <Node id="1578" />insurers<Node id="1586" /> have <Node id="1592" />curtailed<Node id="1601" /> <Node id="1602" />the plans offered to smaller employers<Node id="1640" />:<Node id="1641" />
+
+    <Node id="1647" />The considerable changes expected are in part prodded by plans that have effectively been eliminated by insurers<Node id="1759" />.  <Node id="1762" />One of the great "promises" of PPACA supporters was that insured people would be able to keep their current health insurance plan<Node id="1891" />. <Node id="1893" />As a practical matter that has not been true for a substantial number of small employers and their employees<Node id="2001" />. <Node id="2003" />Since enactment, one in eight (12%) small employers have either had their health insurance plans terminated or been told that their plan would not be available in the future (Q. 5)<Node id="2183" />.<Node id="2184" />
+
+<Node id="2186" />There are some legitimate questions about this survey.  Many of the questions asked are of opinions and projections rather than already-known events.  The sample size is light as well, with only 750 businesses surveyed by NFIB.  That's not an inadequate sample for a national survey, but it's not exactly robust either.<Node id="2505" />
+
+<Node id="2507" />Still, the core question involves events that have already transpired, which is either cancellations or notices of cancellations from insurers<Node id="2649" />.  <Node id="2652" />If 14 12% of the sample reported those outcomes, that means that 90 businesses have been either cut off or warned of cutoffs on their existing plans, with an impact averaging somewhere around 4500 employees<Node id="2858" />.  <Node id="2861" />That's a significant result, especially given the "you can keep your health-care plan" rhetoric coming from the White House while urging passage of ObamaCare<Node id="3018" />.<Node id="3019" />
+
+<Node id="3021" />It also demonstrates one reason why businesses aren't enthusiastic about expansion<Node id="3103" />.  <Node id="3106" />Under these circumstances, businesses can't price the costs of their existing staffs, let alone additions to them through capital investment and expansion<Node id="3260" />.  <Node id="3263" />When risk can't be quantified with some degree of certainty, then risk simply isn't taken - and we get the stagnation we've seen for the last two years<Node id="3414" />.<Node id="3415" />
+
+<Node id="3417" />Update: The percentage should have been 12% (one in eight), not 14% (one in seven).  I've corrected the calculations as well; thanks to Ed R for the correction.<Node id="3577" />
+
+<Node id="3579" /></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation Id="11" Type="doc" StartNode="0" EndNode="3579">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">hcd019</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">author</Name>
+  <Value className="java.lang.String">ed,morrissey</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">source</Name>
+  <Value className="java.lang.String">hotair</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">date</Name>
+  <Value className="java.lang.String">20110726</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">side</Name>
+  <Value className="java.lang.String">anti</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">url</Name>
+  <Value className="java.lang.String">http://hotair.com/archives/2011/07/26/one-in-eight-small-businesses-get-insurance-cancellations-after-obamacare-passage/</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="arg" StartNode="134" EndNode="254">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">bill_is_failure</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="arg" StartNode="257" EndNode="548">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">businesses_will_stop_offering_insurance_to_employees</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="rel" StartNode="619" EndNode="800">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">businesses_will_stop_offering_insurance_to_employees</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="arg" StartNode="802" EndNode="938">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">businesses_will_stop_offering_insurance_to_employees</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="17" Type="rel" StartNode="1316" EndNode="1405">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">businesses_will_stop_offering_insurance_to_employees</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="rel" StartNode="1151" EndNode="1314">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">businesses_will_stop_offering_insurance_to_employees</Value>
+</Feature>
+</Annotation>
+<Annotation Id="19" Type="arg" StartNode="1548" EndNode="1640">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">businesses_will_stop_offering_insurance_to_employees</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="18" Type="arg" StartNode="1493" EndNode="1546">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">businesses_will_stop_offering_insurance_to_employees</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="21" Type="rel" StartNode="1647" EndNode="1759">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">existing_plans_will_be_eliminated/cancelled</Value>
+</Feature>
+</Annotation>
+<Annotation Id="20" Type="rel" StartNode="946" EndNode="1144">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">businesses_will_stop_offering_insurance_to_employees</Value>
+</Feature>
+</Annotation>
+<Annotation Id="23" Type="arg" StartNode="1893" EndNode="2001">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">existing_plans_will_be_eliminated/cancelled</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">incomplete</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="22" Type="arg" StartNode="1762" EndNode="1891">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">else</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="24" Type="rel" StartNode="2003" EndNode="2183">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">existing_plans_will_be_eliminated/cancelled</Value>
+</Feature>
+</Annotation>
+<Annotation Id="27" Type="rel" StartNode="2652" EndNode="2858">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">hurts_private_insurance</Value>
+</Feature>
+</Annotation>
+<Annotation Id="26" Type="rel" StartNode="2507" EndNode="2649">
+</Annotation>
+<Annotation Id="29" Type="rel" StartNode="3021" EndNode="3103">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">leads_to_economic_uncertainty</Value>
+</Feature>
+</Annotation>
+<Annotation Id="28" Type="arg" StartNode="2861" EndNode="3018">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">hurts_private_insurance</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">incomplete</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="31" Type="arg" StartNode="3263" EndNode="3414">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">leads_to_economic_uncertainty</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">incomplete</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="30" Type="arg" StartNode="3106" EndNode="3260">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">leads_to_economic_uncertainty</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">incomplete</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="34" Type="para" StartNode="945" EndNode="1406">
+<Feature>
+  <Name className="java.lang.String">argmnt-label</Name>
+  <Value className="java.lang.String">hurts_small_businesses</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">misc</Name>
+  <Value className="java.lang.String">businesses_will_stop_offering_insurance_to_employees</Value>
+</Feature>
+</Annotation>
+<Annotation Id="35" Type="para" StartNode="1408" EndNode="1641">
+<Feature>
+  <Name className="java.lang.String">argmnt-label</Name>
+  <Value className="java.lang.String">hurts_small_businesses</Value>
+</Feature>
+</Annotation>
+<Annotation Id="32" Type="para" StartNode="134" EndNode="613">
+<Feature>
+  <Name className="java.lang.String">argmnt-label</Name>
+  <Value className="java.lang.String">businesses_will_stop_offering_insurance_to_employees</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">misc</Name>
+  <Value className="java.lang.String">hurts_small_businesses</Value>
+</Feature>
+</Annotation>
+<Annotation Id="33" Type="para" StartNode="619" EndNode="939">
+<Feature>
+  <Name className="java.lang.String">argmnt-label</Name>
+  <Value className="java.lang.String">hurts_small_businesses</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">misc</Name>
+  <Value className="java.lang.String">businesses_will_stop_offering_insurance_to_employees</Value>
+</Feature>
+</Annotation>
+<Annotation Id="38" Type="para" StartNode="2507" EndNode="3019">
+<Feature>
+  <Name className="java.lang.String">argmnt-label</Name>
+  <Value className="java.lang.String">businesses_will_stop_offering_insurance_to_employees</Value>
+</Feature>
+</Annotation>
+<Annotation Id="39" Type="para" StartNode="3021" EndNode="3415">
+<Feature>
+  <Name className="java.lang.String">argmnt-label</Name>
+  <Value className="java.lang.String">leads_to_economic_uncertainty</Value>
+</Feature>
+</Annotation>
+<Annotation Id="36" Type="para" StartNode="1647" EndNode="2184">
+<Feature>
+  <Name className="java.lang.String">argmnt-label</Name>
+  <Value className="java.lang.String">existing_plans_will_be_eliminated/cancelled</Value>
+</Feature>
+</Annotation>
+<Annotation Id="37" Type="para" StartNode="2186" EndNode="2505">
+<Feature>
+  <Name className="java.lang.String">argmnt-label</Name>
+  <Value className="java.lang.String">none</Value>
+</Feature>
+</Annotation>
+<Annotation Id="42" Type="others" StartNode="334" EndNode="385">
+<Feature>
+  <Name className="java.lang.String">comment</Name>
+  <Value className="java.lang.String">allow sb to do sth...</Value>
+</Feature>
+</Annotation>
+<Annotation Id="43" Type="others" StartNode="511" EndNode="532">
+<Feature>
+  <Name className="java.lang.String">comment</Name>
+  <Value className="java.lang.String">offer sth to sb</Value>
+</Feature>
+</Annotation>
+<Annotation Id="40" Type="para" StartNode="3417" EndNode="3577">
+<Feature>
+  <Name className="java.lang.String">argmnt-label</Name>
+  <Value className="java.lang.String">none</Value>
+</Feature>
+</Annotation>
+<Annotation Id="41" Type="others" StartNode="176" EndNode="183">
+<Feature>
+  <Name className="java.lang.String">comment</Name>
+  <Value className="java.lang.String">AGENT?</Value>
+</Feature>
+</Annotation>
+<Annotation Id="46" Type="gfbf-agent" StartNode="755" EndNode="770">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="47" Type="gfbf" StartNode="738" EndNode="748">
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">46</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">badfor</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">48</Value>
+</Feature>
+</Annotation>
+<Annotation Id="44" Type="gfbf" StartNode="802" EndNode="813">
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">implicit</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">45</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">badfor</Value>
+</Feature>
+</Annotation>
+<Annotation Id="45" Type="gfbf-object" StartNode="814" EndNode="840">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="51" Type="gfbf-agent" StartNode="1578" EndNode="1586">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50" Type="gfbf-object" StartNode="1602" EndNode="1640">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="49" Type="gfbf" StartNode="1592" EndNode="1601">
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">51</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">badfor</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">50</Value>
+</Feature>
+</Annotation>
+<Annotation Id="48" Type="gfbf-object" StartNode="666" EndNode="711">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="132">
+</Annotation>
+<Annotation Id="1" Type="paragraph" StartNode="134" EndNode="613">
+</Annotation>
+<Annotation Id="2" Type="paragraph" StartNode="619" EndNode="939">
+</Annotation>
+<Annotation Id="3" Type="paragraph" StartNode="946" EndNode="1145">
+</Annotation>
+<Annotation Id="4" Type="paragraph" StartNode="1151" EndNode="1406">
+</Annotation>
+<Annotation Id="5" Type="paragraph" StartNode="1408" EndNode="1641">
+</Annotation>
+<Annotation Id="6" Type="paragraph" StartNode="1647" EndNode="2184">
+</Annotation>
+<Annotation Id="7" Type="paragraph" StartNode="2186" EndNode="2505">
+</Annotation>
+<Annotation Id="8" Type="paragraph" StartNode="2507" EndNode="3019">
+</Annotation>
+<Annotation Id="9" Type="paragraph" StartNode="3021" EndNode="3415">
+</Annotation>
+<Annotation Id="10" Type="paragraph" StartNode="3417" EndNode="3577">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,417 @@
+<?xml version='1.0' encoding='US-ASCII'?>
+<GateDocument version="2">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/home/conrada/Dropbox/healthcare_devel_data_final/hc020.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String">CRLF</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Reforming Health Care Reform
+Reforming the health care system isn't new.
+ Many presidents and Congresses have tried and failed, most recently Bill Clinton.
+ Why, then, did health care reform pass under this administration?
+ According to Jamie Orlikoff, of Orlikoff and Associates, who addressed a gathering of community leaders in Rapid City, South Dakota, in December and whose consulting firm specializes in health care issues, past attempts may have failed simply because the status quo was still acceptable.
+ <Node id="513"/>This time around, the broad view was that the status quo was unacceptable and the American economy would eventually collapse if nothing were done<Node id="658"/>.
+ <Node id="661"/>However, the health care bill Congress passed in March 2010 didn't completely address the unacceptable elements of the status quo<Node id="790"/>. <Node id="792"/>In particular, says Orlikoff, the issue of cost is still largely unaddressed<Node id="868"/>.
+
+ <Node id="872"/>The December 2010 report of the bipartisan National Commission on Fiscal Responsibility and Reform<Node id="970"/>, tasked with finding ways to <Node id="1000"/>reduce<Node id="1006"/> <Node id="1007"/>the deficit<Node id="1018"/>, said the health care bill didn't go far enough in cutting costs<Node id="1083"/>.
+
+ <Node id="1087"/>The single largest category in the commission's recommended cuts, four hundred billion dollars, was health care<Node id="1198"/>.
+ <Node id="1201"/>Health care, notes Orlikoff, is the largest expenditure of government and of the Pentagon<Node id="1290"/>.
+
+ <Node id="1294"/>If we are serious about cutting the debt, we must turn our attention to health care costs<Node id="1383"/>.
+
+ <Node id="1387"/>Health care<Node id="1398"/> also represents a large segment of private sector spending.
+
+ It's the largest component cost of an American car or tractor, while the largest component cost of a Chinese or Japanese vehicle is steel.
+
+ No wonder: China spends 4% on health care, India spends 2%, and the U.S. spends 17.5%.
+ Orlikoff suggests this is one reason American retailers can sell imported products so cheaply.
+ <Node id="1786"/>According to the Institute of Medicine, 30% of what we spend on health care adds no clinical value.
+<Node id="1886"/>
+ That's a whopping 5% of GDP.
+ <Node id="1918"/>The Agency for Healthcare Research and Quality, part of the Department of Health and Human Services, reports that 4.4 million hospital admissions, costing thirty billion dollars a year, could be prevented<Node id="2122"/>.
+
+ Exacerbating the inefficiency of health care is that there are huge geographic disparities, with pockets of efficiency.
+ One commonly cited example is the contrast between two Texas towns.
+ Despite similar demographics, McCallen has one of the country's highest health care spending rates and El Paso one of the lowest.
+ When it comes to end-of-life care for patients with terminal illnesses, Orlikoff notes that UCLA/Hopkins spends an average of $90,000 per person and Cleveland Clinic/Mayo an average of $55,000.
+ The difference in spending results in no difference in patient experience or outcome.
+
+ <Node id="2730"/>Orlikoff is also concerned that <Node id="2762"/>our burgeoning health care expenses<Node id="2797"/> will eventually <Node id="2814"/>spell<Node id="2819"/> <Node id="2820"/>the end of the US economy<Node id="2845"/>.<Node id="2846"/>
+
+ "<Node id="2850"/>The dust bin of history is littered with economies that fell apart because one sector consumed the economy<Node id="2956"/>."
+
+ He cites the USSR and its over-concentration on defense spending.
+ <Node id="3028"/>One of the problems with the bill, says Orlikoff, is that 25-year-old, sleep-deprived kids on Red Bull wrote most of it<Node id="3147"/>.
+
+ <Node id="3151"/>Some parts were written by people who could write and understood health care, some by those who couldn't write<Node id="3261"/>.
+ <Node id="3264"/>For example, one three-page section of the bill has no verb<Node id="3323"/>.
+
+ <Node id="3327"/>Still, if the bill is repealed, which is highly unlikely prior to 2012, we are left with market reform instead of legislative reform<Node id="3459"/>. <Node id="3461"/>Orlikoff points out that <Node id="3486"/>market reform<Node id="3499"/> is much more random; however, my belief is that it's much more effective.
+<Node id="3574"/>
+ <Node id="3576"/>As experts like Jamie Orlikoff continue to tell us, health care reform is nowhere close to achieving a satisfactory status quo.<Node id="3703"/>
+
+ <Node id="3706"/>Clearly, we need to continue discussing what we want and need to make our health care system one of the best in the world<Node id="3827"/>.
+<Node id="3829"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation Id="1" Type="doc" StartNode="0" EndNode="3829">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">hc020</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">source</Name>
+  <Value className="java.lang.String">Financial,Awakenings</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">side</Name>
+  <Value className="java.lang.String">anti</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">url</Name>
+  <Value className="java.lang.String">http://financialawakenings.com/in-the-news/reforming-health-care-reform/ </Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="arg" StartNode="661" EndNode="790">
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">does_not_control_healthcare_costs</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">incomplete</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="arg" StartNode="792" EndNode="868">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">does_not_control_healthcare_costs</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="arg" StartNode="872" EndNode="1083">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">does_not_control_healthcare_costs</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="rel" StartNode="1201" EndNode="1290">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">does_not_control_healthcare_costs</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="rel" StartNode="1387" EndNode="1398">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">r1</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="arg" StartNode="1786" EndNode="1886">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">does_not_control_healthcare_costs</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">incomplete</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="rel" StartNode="1918" EndNode="2122">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">other_reforms_more_effective</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="arg" StartNode="2730" EndNode="2846">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">does_not_control_healthcare_costs</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="rel" StartNode="2850" EndNode="2956">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">does_not_control_healthcare_costs</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="arg" StartNode="3028" EndNode="3147">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">poorly_written</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="17" Type="rel" StartNode="3486" EndNode="3499">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">r2</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="rel" StartNode="3151" EndNode="3261">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">poorly_written</Value>
+</Feature>
+</Annotation>
+<Annotation Id="19" Type="arg" StartNode="3576" EndNode="3703">
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">bill_will_hurt_healthcare_system</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="18" Type="arg" StartNode="3461" EndNode="3574">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">market_controls_costs_better_than_govt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">about-rel</Name>
+  <Value className="java.lang.String">r2</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="21" Type="rel" StartNode="513" EndNode="658">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">does_not_control_healthcare_costs</Value>
+</Feature>
+</Annotation>
+<Annotation Id="23" Type="arg" StartNode="1294" EndNode="1383">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">does_not_control_healthcare_costs</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="22" Type="rel" StartNode="1087" EndNode="1198">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">does_not_control_healthcare_costs</Value>
+</Feature>
+</Annotation>
+<Annotation Id="25" Type="rel" StartNode="3264" EndNode="3323">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">poorly_written</Value>
+</Feature>
+</Annotation>
+<Annotation Id="24" Type="arg" StartNode="3706" EndNode="3827">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">else</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="27" Type="gfbf" StartNode="1000" EndNode="1006">
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">30</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">28</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">badfor</Value>
+</Feature>
+</Annotation>
+<Annotation Id="26" Type="rel" StartNode="3327" EndNode="3459">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">market_controls_costs_better_than_govt</Value>
+</Feature>
+</Annotation>
+<Annotation Id="29" Type="others" StartNode="2814" EndNode="2845">
+</Annotation>
+<Annotation Id="28" Type="gfbf-object" StartNode="1007" EndNode="1018">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="30" Type="gfbf-agent" StartNode="872" EndNode="970">
+<Feature>
+  <Name className="java.lang.String">comment</Name>
+  <Value className="java.lang.String">agent or would be ways?</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="34" Type="gfbf-agent" StartNode="2762" EndNode="2797">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="32" Type="gfbf" StartNode="2814" EndNode="2819">
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">34</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">33</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">goodfor</Value>
+</Feature>
+</Annotation>
+<Annotation Id="33" Type="gfbf-object" StartNode="2820" EndNode="2845">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="3829">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

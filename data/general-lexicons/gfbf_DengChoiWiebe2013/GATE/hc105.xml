@@ -1,0 +1,266 @@
+<?xml version='1.0' encoding='MacRoman'?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/home/conrada/Dropbox/healthcare_data/training_new/hc105.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String">LF</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0" />January 8, 2012
+Surprise! <Node id="26" />Half a million union workers get Obamacare waiver since June<Node id="86" />
+Rick Moran<Node id="97" />
+
+<Node id="99" />This, despite the supposed "tightening" of rules made by HHS last summer.<Node id="172" />
+
+<Node id="174" />The Daily Caller:<Node id="191" />
+
+    <Node id="197" />Labor unions continued to receive the overwhelming majority of waivers from the president's health care reform law since the Obama administration tightened application rules last summer<Node id="382" />.<Node id="383" />
+
+    <Node id="389" />Documents released in a classic Friday afternoon news dump show that labor unions representing 543,812 workers received waivers from President Barack Obama's signature legislation since June 17, 2011<Node id="588" />.<Node id="589" />
+
+    <Node id="595" />By contrast, private employers with a total of 69,813 employees, many of whom work for small businesses, were granted waivers.<Node id="721" />
+
+    <Node id="727" />The Department of Health and Human Services revised the rules governing applications for health reform waivers June 17, 2011, amid a steady stream of controversial news reports, including The Daily Caller's story that nearly 20 percent of last May's waivers went to businesses in House Minority Leader Nancy Pelosi's district in California<Node id="1066" />.<Node id="1067" />
+
+    <Node id="1073" />The labor unions receiving waivers include those that are monitored under the 1947 Taft-Hartley Act, and those that are not<Node id="1196" />. The waivers granted since June 17 are valid until 2013, but recipients must make sure their employees understand the "limits of their coverage," according to HHS documents.<Node id="1370" />
+
+    <Node id="1376" />HHS granted waivers on a year-by-year basis under its initial application process, but waivers granted after June 17 are valid for a maximum of two-and-a-half years.<Node id="1541" />
+
+<Node id="1543" />I don't know how you can argue with a straight face that <Node id="1600" />the waiver process<Node id="1618" /> <Node id="1619" />isn't<Node id="1624" /> <Node id="1625" />rigged to<Node id="1634" /> <Node id="1635" />benefit<Node id="1642" /> <Node id="1643" />Obama political supporters<Node id="1669" />. <Node id="1671" />The real pain inflicted by the health care boondoggle will fall on small businesses<Node id="1754" /> - and yet they appear to be mostly frozen out of the process.<Node id="1816" />
+
+<Node id="1818" />Will the entire issue be moot after the Supreme Court rules next July<Node id="1887" />? We can only hope.<Node id="1906" />
+
+<Node id="1908" />Read more: http://www.americanthinker.com/blog/2012/01/surprise_half_a_million_union_workers_get_obamacare_waiver_since_june.html#ixzz1lFpri8KQ<Node id="2051" />
+
+<Node id="2053" /></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation Id="12" Type="doc" StartNode="0" EndNode="2053">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">hc105</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">author</Name>
+  <Value className="java.lang.String">rick,morgan</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">date</Name>
+  <Value className="java.lang.String">20120108</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">source</Name>
+  <Value className="java.lang.String">americanthinker</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">side</Name>
+  <Value className="java.lang.String">anti</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">url</Name>
+  <Value className="java.lang.String">http://www.americanthinker.com/blog/2012/01/surprise_half_a_million_union_workers_get_obamacare_waiver_since_june.html</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="arg" StartNode="26" EndNode="86">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">unions_unfairly_favored</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="arg" StartNode="197" EndNode="382">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">unions_unfairly_favored</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="rel" StartNode="389" EndNode="588">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">unions_unfairly_favored</Value>
+</Feature>
+</Annotation>
+<Annotation Id="17" Type="rel" StartNode="1073" EndNode="1196">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">unions_unfairly_favored</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="rel" StartNode="727" EndNode="1066">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">votes_bought_through_kickbacks</Value>
+</Feature>
+</Annotation>
+<Annotation Id="19" Type="arg" StartNode="1671" EndNode="1754">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">hurts_businesses</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="18" Type="arg" StartNode="1543" EndNode="1669">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">unions_unfairly_favored</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="21" Type="gfbf" StartNode="1635" EndNode="1642">
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">23</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">goodfor</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">22</Value>
+</Feature>
+</Annotation>
+<Annotation Id="20" Type="rel" StartNode="1818" EndNode="1887">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">unconstitutional</Value>
+</Feature>
+</Annotation>
+<Annotation Id="23" Type="gfbf-agent" StartNode="1600" EndNode="1618">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="22" Type="gfbf-object" StartNode="1643" EndNode="1669">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="25" Type="influencer" StartNode="1625" EndNode="1634">
+<Feature>
+  <Name className="java.lang.String">effect</Name>
+  <Value className="java.lang.String">retain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">implicit</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">21</Value>
+</Feature>
+</Annotation>
+<Annotation Id="24" Type="influencer" StartNode="1619" EndNode="1624">
+<Feature>
+  <Name className="java.lang.String">effect</Name>
+  <Value className="java.lang.String">reverse</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">implicit</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">25</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="97">
+</Annotation>
+<Annotation Id="1" Type="paragraph" StartNode="99" EndNode="172">
+</Annotation>
+<Annotation Id="2" Type="paragraph" StartNode="174" EndNode="191">
+</Annotation>
+<Annotation Id="3" Type="paragraph" StartNode="197" EndNode="383">
+</Annotation>
+<Annotation Id="4" Type="paragraph" StartNode="389" EndNode="589">
+</Annotation>
+<Annotation Id="5" Type="paragraph" StartNode="595" EndNode="721">
+</Annotation>
+<Annotation Id="6" Type="paragraph" StartNode="727" EndNode="1067">
+</Annotation>
+<Annotation Id="7" Type="paragraph" StartNode="1073" EndNode="1370">
+</Annotation>
+<Annotation Id="8" Type="paragraph" StartNode="1376" EndNode="1541">
+</Annotation>
+<Annotation Id="9" Type="paragraph" StartNode="1543" EndNode="1816">
+</Annotation>
+<Annotation Id="10" Type="paragraph" StartNode="1818" EndNode="1906">
+</Annotation>
+<Annotation Id="11" Type="paragraph" StartNode="1908" EndNode="2051">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

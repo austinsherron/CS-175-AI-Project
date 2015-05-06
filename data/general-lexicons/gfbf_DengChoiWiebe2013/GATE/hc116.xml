@@ -1,0 +1,735 @@
+<?xml version='1.0' encoding='US-ASCII'?>
+<GateDocument version="2">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/home/conrada/Dropbox/healthcare_data/training_new/hc116.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String">LF</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>January 8, 2011
+<Node id="16"/>The Limits of Federal Power: ObamaCare on Trial<Node id="63"/>
+By Jon N  Hall
+One of the first orders of business for the 112th Congress is for the new House to fulfill its campaign promise to pass a repeal of ObamaCare. <Node id="222"/>This  will be a vain effort, however, as repeal will likely die in the Senate<Node id="299"/>.  But even if repeal were to get through the Senate, President Obama would surely veto it.<Node id="390"/>
+
+<Node id="392"/>The better way for ObamaCare to be struck down is not by repeal, but by appeal: appeal to the courts<Node id="492"/>.  <Node id="495"/>A proper Supreme Court decision on the constitutionality of ObamaCare would set huge precedents having far-reaching ramifications<Node id="624"/>.  The end of the first major skirmish in the legal war came December 13 with US District Judge Henry Hudson's decision in Virginia v Sebelius.  For ObamaCare, Friday the 13th came on a Monday.<Node id="817"/>
+
+<Node id="819"/>Created by the states, the federal government is a government of enumerated powers.  The 10th Amendment makes this clear.  But the Constitution does not specifically grant to the feds the power to do much of what they do.  <Node id="1042"/>The feds therefore must find that power somewhere in the Constitution, so they invoke the Commerce Clause or the General Welfare Clause or something for justification<Node id="1208"/>.  <Node id="1211"/>But there must be limits to what the feds can do; otherwise, America degenerates into just another totalitarian state<Node id="1328"/>.  <Node id="1331"/>Where those limits are was the question before Judge Hudson, who ruled that the Minimum Essential Coverage Provision (Section 1501) of ObamaCare -- better known as the "individual mandate" -- is unconstitutional<Node id="1542"/>.  Page 37 of Hudson's decision:<Node id="1574"/>
+
+    <Node id="1580"/>Congress lacked power under the Commerce Clause<Node id="1627"/>  -  <Node id="1632"/>to compel an individual to involuntarily engage in a private commercial transaction, as contemplated by the Minimum Essential Coverage Provision<Node id="1776"/>.  -  <Node id="1782"/>The unchecked <Node id="1796"/>expansion of<Node id="1808"/> <Node id="1809"/>congressional power to the limits<Node id="1842"/> suggested by the Minimum Essential Coverage Provision would invite unbridled exercise of federal police powers<Node id="1953"/>.<Node id="1954"/>
+
+
+<Node id="1957"/>And then, on page 38, Hudson delivers his coup de grace: <Node id="2014"/>the individual mandate<Node id="2036"/> "<Node id="2038"/>exceeds<Node id="2045"/> <Node id="2046"/>the constitutional boundaries of congressional power<Node id="2098"/>."  On the day of Hudson's decision, Ilya Shapiro of the Cato Institute (who filed two briefs in the case) wrote:<Node id="2211"/>
+
+    <Node id="2217"/>Indeed, not even in the infamous 1942 case of Wickard v  Filburn -- when the Supreme Court ratified Congress' regulation of what farmers grew in their backyards on the theory that such local activity, in the aggregate, affects national wheat prices -- have courts faced such a breathtaking assertion of raw federal power. Even at the height of the New Deal, Congress did not attempt to force people to buy wheat to support the new national agricultural policy. [Emphasis added.]<Node id="2695"/>
+
+
+<Node id="2698"/>At American Thinker on January 4, attorney Monte Kuligowski outlined the history of case law precedent relating to the Commerce Clause, going back as far as Chief Justice Marshall in 1824.  For the constitutionalist, it's not a pretty history, as Kuligowski dilates on Wickard and other offensive decisions.  Since FDR, judges are increasingly likely to take their cue from "case law" (ie , judicial precedent) rather than the Constitution.  The operative principle in case law is stare decisis: "stay with what has been decided."<Node id="3228"/>
+
+<Node id="3230"/>But if stare decisis were the Court's only principle, wouldn't we still be operating under Plessy v Ferguson?<Node id="3339"/>  <Node id="3341"/>There are many vile, ridiculous, and even un-American judicial decisions<Node id="3413"/>.  <Node id="3416"/>The Supreme Court shouldn't defer to "case law" precedents;<Node id="3475"/> <Node id="3476"/>they should look to the Constitution<Node id="3512"/>.<Node id="3513"/>
+
+<Node id="3515"/>Whether they're on the left or the right, many Americans exhibit a schizoid attitude toward judicial precedent: If the Supreme Court justices agree with you, they're the supreme law of the land, and we mustn't question them; if the Supremes don't agree with you, they're nine dummies who've upset the space-time continuum.  <Node id="3839"/>Folks invoke stare decisis when it works for them; they pick and choose <Node id="3911"/>the precedents<Node id="3925"/> that <Node id="3931"/>support<Node id="3938"/> <Node id="3939"/>their prejudices<Node id="3955"/>.<Node id="3956"/>
+
+<Node id="3958"/>Citing precedents, lefty Mark Levine became unhinged on "The Kudlow Report" (video) as he tore into the Hudson decision; he even seemed to endorse FDR's packing of the Court.  But one interesting issue Levine did raise is whether under the Hudson decision, Medicare would be constitutional.  (At NRO's Critical Condition blog, John Graham provides an answer.)<Node id="4317"/>
+
+<Node id="4319"/>Those who cleave to the "living Constitution" think that a law is constitutional because that's the way, in their estimation, things should be.  <Node id="4464"/>Government<Node id="4474"/>, however, <Node id="4485"/>cannot<Node id="4491"/> be <Node id="4495"/>allowed<Node id="4502"/> to <Node id="4506"/>negate<Node id="4512"/> <Node id="4513"/>an individual's rights<Node id="4535"/> just to make a government program workable<Node id="4578"/>.  One of the rights at issue in Virginia is the right of the individual to be let alone.<Node id="4667"/>
+
+<Node id="4669"/>Progressives like Mr  Levine don't accept that an individual should have this right.  <Node id="4755"/>Progressives think <Node id="4774"/>government<Node id="4784"/> should be able to <Node id="4803"/>intrude into<Node id="4815"/> <Node id="4816"/>everything<Node id="4826"/> (except, of course, telephone conversations between terrorists).<Node id="4891"/>
+
+<Node id="4893"/>If the Constitution specifically granted to the federal government the power to provide health care, then justifications for ObamaCare (like the Commerce Clause) wouldn't need to be invoked because the 10th Amendment would present no impediment<Node id="5137"/>.  <Node id="5140"/>But even if such a power were indeed<Node id="5176"/> granted to<Node id="5187"/> the feds, <Node id="5198"/>the individual mandate<Node id="5220"/> would still <Node id="5233"/>clash with<Node id="5243"/> <Node id="5244"/>the Constitution<Node id="5260"/>, namely the Equal Protection Clause of the 14th Amendment<Node id="5318"/>.<Node id="5319"/>
+
+<Node id="5321"/>That's because ObamaCare's individual mandate requires some individuals to do something (and merely because they're individuals), yet it exempts other individuals from that same requirement<Node id="5510"/>.  <Node id="5513"/>This is unequal on its face<Node id="5540"/>.  <Node id="5543"/>The individual mandate is like a capitation, or head tax, that exempts some from paying the tax and/or levies varying tax bills<Node id="5670"/>.  <Node id="5673"/>Such a tax couldn't be called a capitation because it treats individuals unequally<Node id="5755"/>.<Node id="5756"/>
+
+<Node id="5758"/>For those on the political left who are forever harping about equality, this should be a problem<Node id="5854"/>.  But it's not.  <Node id="5872"/>That's because ObamaCare isn't about equality; it's about power<Node id="5935"/>.  <Node id="5938"/>Congress must not be allowed to have such raw, unchecked power<Node id="6000"/>.<Node id="6001"/>
+
+<Node id="6003"/>The one disappointment in Hudson's otherwise fine decision is that he didn't issue an injunction on further implementation of ObamaCare.  An injunction would fast track the coming appeals.  <Node id="6193"/>It's important that the Supreme Court hears this case before <Node id="6254"/>a new Congress and a new president<Node id="6288"/> summarily <Node id="6299"/>repeal<Node id="6305"/> <Node id="6306"/>the whole misbegotten mess<Node id="6332"/>.  <Node id="6335"/>For a Supreme Court decision on Virginia v Sebelius would give us clarity about the limits of both the Commerce Clause and congressional power<Node id="6477"/>.<Node id="6478"/>
+
+<Node id="6480"/>And it would let us know whether we Americans are citizens -- or subjects.<Node id="6554"/>
+
+<Node id="6556"/>Jon N  Hall is a programmer/analyst from Kansas City.<Node id="6609"/>
+
+<Node id="6611"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation Id="19" Type="rel" StartNode="16" EndNode="63">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">unconstitutional</Value>
+</Feature>
+</Annotation>
+<Annotation Id="18" Type="doc" StartNode="0" EndNode="6611">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">hc116</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">author</Name>
+  <Value className="java.lang.String">jon,n,hall</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">source</Name>
+  <Value className="java.lang.String">americanthinker</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">date</Name>
+  <Value className="java.lang.String">20110108</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">side</Name>
+  <Value className="java.lang.String">anti</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">url</Name>
+  <Value className="java.lang.String">http://www.americanthinker.com/2011/01/the_limits_of_federal_power_ob.html</Value>
+</Feature>
+</Annotation>
+<Annotation Id="21" Type="rel" StartNode="495" EndNode="624">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">unconstitutional</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="20" Type="arg" StartNode="392" EndNode="492">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">unconstitutional</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="23" Type="rel" StartNode="4893" EndNode="5137">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">unconstitutional</Value>
+</Feature>
+</Annotation>
+<Annotation Id="22" Type="arg" StartNode="5140" EndNode="5318">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">unconstitutional</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="25" Type="arg" StartNode="5872" EndNode="5935">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">goal_is_to_expand_entitlements</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="24" Type="arg" StartNode="4755" EndNode="4826">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">goal_is_to_expand_entitlements</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="27" Type="arg" StartNode="222" EndNode="299">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">else</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="26" Type="arg" StartNode="5938" EndNode="6000">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">goal_is_to_expand_entitlements</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="29" Type="arg" StartNode="1211" EndNode="1328">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">unconstitutional</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="28" Type="rel" StartNode="1042" EndNode="1208">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">unconstitutional</Value>
+</Feature>
+</Annotation>
+<Annotation Id="31" Type="rel" StartNode="1580" EndNode="1627">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">unconstitutional</Value>
+</Feature>
+</Annotation>
+<Annotation Id="30" Type="rel" StartNode="1331" EndNode="1542">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">unconstitutional</Value>
+</Feature>
+</Annotation>
+<Annotation Id="34" Type="arg" StartNode="1782" EndNode="1953">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">unconstitutional</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="35" Type="arg" StartNode="3341" EndNode="3413">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">else</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="32" Type="arg" StartNode="1957" EndNode="2098">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">unconstitutional</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="33" Type="rel" StartNode="1632" EndNode="1776">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">unconstitutional</Value>
+</Feature>
+</Annotation>
+<Annotation Id="38" Type="arg" StartNode="4464" EndNode="4578">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">threatens_freedom</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">incomplete</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="39" Type="arg" StartNode="3230" EndNode="3339">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">else</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="36" Type="arg" StartNode="3416" EndNode="3475">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">else</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="37" Type="arg" StartNode="3476" EndNode="3512">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">else</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="42" Type="arg" StartNode="5513" EndNode="5540">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">unfair</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">incomplete</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="43" Type="rel" StartNode="5543" EndNode="5670">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">unfair</Value>
+</Feature>
+</Annotation>
+<Annotation Id="40" Type="arg" StartNode="3839" EndNode="3955">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">else</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="41" Type="rel" StartNode="5321" EndNode="5510">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">unfair</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="46" Type="arg" StartNode="6193" EndNode="6332">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">else</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="47" Type="arg" StartNode="6335" EndNode="6477">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">else</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="44" Type="arg" StartNode="5673" EndNode="5755">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">unfair</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="45" Type="arg" StartNode="5758" EndNode="5854">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">unfair</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">incomplete</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="55" Type="gfbf-object" StartNode="1809" EndNode="1842">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="54" Type="gfbf" StartNode="1796" EndNode="1808">
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">implicit</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">badfor</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">55</Value>
+</Feature>
+</Annotation>
+<Annotation Id="59" Type="gfbf-agent" StartNode="3911" EndNode="3925">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="58" Type="gfbf-agent" StartNode="2014" EndNode="2036">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="57" Type="gfbf-object" StartNode="2046" EndNode="2098">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="56" Type="gfbf" StartNode="2038" EndNode="2045">
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">58</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">57</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">badfor</Value>
+</Feature>
+</Annotation>
+<Annotation Id="63" Type="gfbf-agent" StartNode="4464" EndNode="4474">
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="62" Type="gfbf" StartNode="4506" EndNode="4512">
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">63</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">77</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">badfor</Value>
+</Feature>
+</Annotation>
+<Annotation Id="61" Type="gfbf-object" StartNode="3939" EndNode="3955">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="60" Type="gfbf" StartNode="3931" EndNode="3938">
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">59</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">61</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">goodfor</Value>
+</Feature>
+</Annotation>
+<Annotation Id="68" Type="gfbf-object" StartNode="4816" EndNode="4826">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="69" Type="gfbf-agent" StartNode="4774" EndNode="4784">
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="70" Type="others" StartNode="5176" EndNode="5187">
+<Feature>
+  <Name className="java.lang.String">comment</Name>
+  <Value className="java.lang.String">same with give...</Value>
+</Feature>
+</Annotation>
+<Annotation Id="71" Type="gfbf" StartNode="5233" EndNode="5243">
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">73</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">72</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">badfor</Value>
+</Feature>
+</Annotation>
+<Annotation Id="64" Type="influencer" StartNode="4485" EndNode="4491">
+<Feature>
+  <Name className="java.lang.String">effect</Name>
+  <Value className="java.lang.String">reverse</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">implicit</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">65</Value>
+</Feature>
+</Annotation>
+<Annotation Id="65" Type="influencer" StartNode="4495" EndNode="4502">
+<Feature>
+  <Name className="java.lang.String">effect</Name>
+  <Value className="java.lang.String">retain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">implicit</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">62</Value>
+</Feature>
+</Annotation>
+<Annotation Id="67" Type="gfbf" StartNode="4803" EndNode="4815">
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">69</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">68</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">badfor</Value>
+</Feature>
+</Annotation>
+<Annotation Id="76" Type="gfbf-agent" StartNode="6254" EndNode="6288">
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="77" Type="gfbf-object" StartNode="4513" EndNode="4535">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="72" Type="gfbf-object" StartNode="5244" EndNode="5260">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="73" Type="gfbf-agent" StartNode="5198" EndNode="5220">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="74" Type="gfbf" StartNode="6299" EndNode="6305">
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">76</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">75</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">badfor</Value>
+</Feature>
+</Annotation>
+<Annotation Id="75" Type="gfbf-object" StartNode="6306" EndNode="6332">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="390">
+</Annotation>
+<Annotation Id="1" Type="paragraph" StartNode="392" EndNode="817">
+</Annotation>
+<Annotation Id="2" Type="paragraph" StartNode="819" EndNode="1574">
+</Annotation>
+<Annotation Id="3" Type="paragraph" StartNode="1580" EndNode="1954">
+</Annotation>
+<Annotation Id="4" Type="paragraph" StartNode="1957" EndNode="2211">
+</Annotation>
+<Annotation Id="5" Type="paragraph" StartNode="2217" EndNode="2695">
+</Annotation>
+<Annotation Id="6" Type="paragraph" StartNode="2698" EndNode="3228">
+</Annotation>
+<Annotation Id="7" Type="paragraph" StartNode="3230" EndNode="3513">
+</Annotation>
+<Annotation Id="8" Type="paragraph" StartNode="3515" EndNode="3956">
+</Annotation>
+<Annotation Id="9" Type="paragraph" StartNode="3958" EndNode="4317">
+</Annotation>
+<Annotation Id="10" Type="paragraph" StartNode="4319" EndNode="4667">
+</Annotation>
+<Annotation Id="11" Type="paragraph" StartNode="4669" EndNode="4891">
+</Annotation>
+<Annotation Id="12" Type="paragraph" StartNode="4893" EndNode="5319">
+</Annotation>
+<Annotation Id="13" Type="paragraph" StartNode="5321" EndNode="5756">
+</Annotation>
+<Annotation Id="14" Type="paragraph" StartNode="5758" EndNode="6001">
+</Annotation>
+<Annotation Id="15" Type="paragraph" StartNode="6003" EndNode="6478">
+</Annotation>
+<Annotation Id="17" Type="paragraph" StartNode="6556" EndNode="6609">
+</Annotation>
+<Annotation Id="16" Type="paragraph" StartNode="6480" EndNode="6554">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

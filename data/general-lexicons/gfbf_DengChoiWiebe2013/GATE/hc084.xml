@@ -1,0 +1,414 @@
+<?xml version='1.0' encoding='MacRoman'?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/E:/Users/conrada/Documents/My%20Dropbox/healthcare_data/training_3/hc085.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String">CRLF</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0" />Awareness, Feminism | Posted by Julie Z on 03/24/2011&#xd;
+<Node id="55" />The Affordable Care Act: Feminism <Node id="89" />Moving Forward<Node id="103" />&#xd;<Node id="104" />
+The Affordable Care Act&#xd;
+<Node id="130" />&#xd;
+<Node id="132" />The Affordable Care Act&#xd;
+<Node id="157" />&#xd;
+<Node id="159" />One of the reasons many girls today don't identify as feminists is because there are quite a few of us who are convinced that men and women are totally equal. The 1970's took care of all of our political and social battles, teens reason, looking to mothers who work to the same degree and prestige as their fathers and male classmates who they largely equal or surpass in intelligence. What exactly are feminists fighting for, they might wonder, and write us off as never-satisfied perpetual complainers.&#xd;
+<Node id="665" />&#xd;
+<Node id="667" />Well. Even if we completely disregard the fact that this standpoint can really only occur to girls of first-world countries, and within those countries to girls of middle-upper classes, <Node id="853" />there are still a lot of political and economic disparities that effect all of us<Node id="934" />. For example, there's still a wage gap - while girls may see their mothers working alongside their fathers, they may be surprised by their own paychecks as compared to their male counterparts in just a few years. Another huge issue is reproductive health - we take the current rights we have over own bodies for granted, not realizing that there are plenty of people fighting to have them taken away from us, and that they could disappear at any minute.&#xd;
+<Node id="1390" />&#xd;
+<Node id="1392" />However, while when closely examined it becomes clear that the fight for women rights still has a long way to go, it's equally important to celebrate our accomplishments. Who wants to support/join a movement that's not making any headway in their long, sobering checklist of goals?&#xd;
+<Node id="1675" />&#xd;
+<Node id="1677" />A year ago, the Affordable Care Act was passed<Node id="1723" />. <Node id="1725" />This Act, amongst other benefits, includes <Node id="1768" />provisions<Node id="1778" /> that will <Node id="1789" />improve<Node id="1796" /> <Node id="1797" />women's reproductive health<Node id="1824" />. <Node id="1826" />According to the National Women's Law Center, <Node id="1872" />this Act<Node id="1880" /> will: "<Node id="1888" />improve<Node id="1895" /> <Node id="1896" />access to health insurance coverage for maternity care and family planning services<Node id="1979" /> (it will <Node id="1989" />make prescription birth control more affordable<Node id="2036" />), making it easier for <Node id="2060" />states<Node id="2066" /> to <Node id="2070" />expand<Node id="2076" /> <Node id="2077" />Medicaid coverage of family planning<Node id="2113" />." <Node id="2116" />However, at the same time that <Node id="2147" />this<Node id="2151" /> is <Node id="2155" />a great victory for<Node id="2174" /> <Node id="2175" />women in this country<Node id="2196" />, <Node id="2198" />there are still people launching campaigns opposing the Act, and trying to amend and nullify some of it's great policy<Node id="2316" />.&#xd;
+<Node id="2319" />&#xd;
+<Node id="2321" />The bottom line is this: as feminists, we can't just linger on all the work we have yet to do, and we can't rely on raising awareness about our cause by focusing on the negative<Node id="2498" />. <Node id="2500" />We<Node id="2502" /> also have to <Node id="2516" />acknowledge<Node id="2527" /> <Node id="2528" />the positive<Node id="2540" /> and <Node id="2545" />celebrate<Node id="2554" /> <Node id="2555" />our victories<Node id="2568" />, such as the passage of the Affordable Care Act<Node id="2616" />. <Node id="2618" />It's the job of our generation - teenage and young feminists - to balance both of these realities<Node id="2715" />. <Node id="2717" />We must maintain a positive and optimistic outlook while at the same time remaining <Node id="2801" />vigilant to<Node id="2812" /> protect our victories, and the Affordable Care Act is a great reminder of this mission<Node id="2899" />.&#xd;
+<Node id="2902" />&#xd;
+<Node id="2904" />This post is part of the NWLC blog-a-thon<Node id="2945" /></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation Id="8" Type="doc" StartNode="0" EndNode="2945">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">hc084</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">author</Name>
+  <Value className="java.lang.String">julie,z</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">date</Name>
+  <Value className="java.lang.String">20110324</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">source</Name>
+  <Value className="java.lang.String">fbomb</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">side</Name>
+  <Value className="java.lang.String">pro</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">url</Name>
+  <Value className="java.lang.String">http://thefbomb.org/2011/03/the-affordable-care-act/</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="arg" StartNode="1725" EndNode="1824">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">reduces/eliminates_gender_discrimination</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="arg" StartNode="1826" EndNode="2113">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">reduces/eliminates_gender_discrimination</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="arg" StartNode="2717" EndNode="2899">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">bills_impact_is_positive</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="arg" StartNode="2500" EndNode="2616">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">bills_impact_is_positive</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="arg" StartNode="55" EndNode="104">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">reduces/eliminates_gender_discrimination</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="arg" StartNode="2116" EndNode="2196">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">reduces/eliminates_gender_discrimination</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="rel" StartNode="1677" EndNode="1723">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">bill_generally_good</Value>
+</Feature>
+</Annotation>
+<Annotation Id="17" Type="arg" StartNode="2321" EndNode="2498">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">else</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="rel" StartNode="2198" EndNode="2316">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">bill_should_not_be_defunded</Value>
+</Feature>
+</Annotation>
+<Annotation Id="19" Type="arg" StartNode="853" EndNode="934">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">else</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="18" Type="arg" StartNode="2618" EndNode="2715">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">else</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="21" Type="gfbf" StartNode="1789" EndNode="1796">
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">23</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">22</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">goodfor</Value>
+</Feature>
+</Annotation>
+<Annotation Id="20" Type="others" StartNode="89" EndNode="103">
+<Feature>
+  <Name className="java.lang.String">comment</Name>
+  <Value className="java.lang.String">goodFor agent...</Value>
+</Feature>
+</Annotation>
+<Annotation Id="23" Type="gfbf-agent" StartNode="1768" EndNode="1778">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="22" Type="gfbf-object" StartNode="1797" EndNode="1824">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="25" Type="gfbf-object" StartNode="1896" EndNode="1979">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="24" Type="gfbf" StartNode="1888" EndNode="1895">
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">26</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">25</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">goodfor</Value>
+</Feature>
+</Annotation>
+<Annotation Id="27" Type="others" StartNode="1989" EndNode="2036">
+<Feature>
+  <Name className="java.lang.String">comment</Name>
+  <Value className="java.lang.String">make it ADJ</Value>
+</Feature>
+</Annotation>
+<Annotation Id="26" Type="gfbf-agent" StartNode="1872" EndNode="1880">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="29" Type="gfbf-object" StartNode="2077" EndNode="2113">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="28" Type="gfbf" StartNode="2070" EndNode="2076">
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">30</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">goodfor</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">29</Value>
+</Feature>
+</Annotation>
+<Annotation Id="31" Type="gfbf" StartNode="2155" EndNode="2174">
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">33</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">32</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">goodfor</Value>
+</Feature>
+</Annotation>
+<Annotation Id="30" Type="gfbf-agent" StartNode="2060" EndNode="2066">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="34" Type="gfbf" StartNode="2516" EndNode="2527">
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">38</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">35</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">goodfor</Value>
+</Feature>
+</Annotation>
+<Annotation Id="35" Type="gfbf-object" StartNode="2528" EndNode="2540">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="32" Type="gfbf-object" StartNode="2175" EndNode="2196">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="33" Type="gfbf-agent" StartNode="2147" EndNode="2151">
+<Feature>
+  <Name className="java.lang.String">reference</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">referentId</Name>
+  <Value className="java.lang.String">40</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="38" Type="gfbf-agent" StartNode="2500" EndNode="2502">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="39" Type="others" StartNode="2801" EndNode="2812">
+<Feature>
+  <Name className="java.lang.String">comment</Name>
+  <Value className="java.lang.String">just a emphasizer?</Value>
+</Feature>
+</Annotation>
+<Annotation Id="36" Type="gfbf" StartNode="2545" EndNode="2554">
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">38</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">37</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">goodfor</Value>
+</Feature>
+</Annotation>
+<Annotation Id="37" Type="gfbf-object" StartNode="2555" EndNode="2568">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="40" Type="referent" StartNode="1872" EndNode="1880">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="130">
+</Annotation>
+<Annotation Id="1" Type="paragraph" StartNode="132" EndNode="157">
+</Annotation>
+<Annotation Id="2" Type="paragraph" StartNode="159" EndNode="665">
+</Annotation>
+<Annotation Id="3" Type="paragraph" StartNode="667" EndNode="1390">
+</Annotation>
+<Annotation Id="4" Type="paragraph" StartNode="1392" EndNode="1675">
+</Annotation>
+<Annotation Id="5" Type="paragraph" StartNode="1677" EndNode="2319">
+</Annotation>
+<Annotation Id="6" Type="paragraph" StartNode="2321" EndNode="2902">
+</Annotation>
+<Annotation Id="7" Type="paragraph" StartNode="2904" EndNode="2945">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

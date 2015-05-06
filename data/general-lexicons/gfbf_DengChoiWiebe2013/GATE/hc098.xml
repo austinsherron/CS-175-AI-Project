@@ -1,0 +1,371 @@
+<?xml version='1.0' encoding='US-ASCII'?>
+<GateDocument version="2">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/home/conrada/Dropbox/healthcare_data/training_new/hc098.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String">LF</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>GOP<Node id="3"/> <Node id="4"/>Attacks On<Node id="14"/> <Node id="15"/>Medicare Cuts In Health Care Law<Node id="47"/> Prove False, Says HHS<Node id="69"/>
+Sec of Health and Human Services Kathleen Sebelius Sec of Health and Human Services Kathleen Sebelius
+share
+Brian Beutler September 15, 2011, 12:07 PM 3160<Node id="225"/>
+
+<Node id="227"/>One of the most persistent <Node id="254"/>GOP<Node id="257"/> attacks on<Node id="268"/> <Node id="269"/>the new health care law<Node id="292"/> is that<Node id="300"/> its Medicare savings<Node id="321"/>, including cuts to Medicare advantage overpayments, would <Node id="380"/>cripple<Node id="387"/> <Node id="388"/>the program<Node id="399"/>.<Node id="400"/>
+
+<Node id="402"/>Not true<Node id="410"/>.<Node id="411"/>
+
+"<Node id="414"/>On average, Medicare Advantage premiums will <Node id="459"/>go down<Node id="466"/> next year and seniors will <Node id="494"/>enjoy<Node id="499"/> more free benefits and cheaper prescription drugs<Node id="549"/>," says HHS Secretary Kathleen Sebelius in a statement.<Node id="604"/>
+
+<Node id="606"/>That's based on new data from the Center for Medicare and Medicaid Services, which finds that <Node id="700"/>premiums will <Node id="714"/>decline<Node id="721"/> significantly for the second straight year and enrollment will <Node id="785"/>climb<Node id="790"/>.<Node id="791"/>
+
+<Node id="793"/>In 2010, actual enrollment in Medicare Advantage was 11.7 million. In August of last year, CBO predicted Medicare Advantage enrollment would be 10.2 million in 2012. But that figure will actually be 13.1 million, HHS now projects.<Node id="1023"/>
+
+<Node id="1025"/>Medicare Advantage is a private insurance alternative to Medicare whose proponents argued would inject competition into Medicare and provide seniors policies they preferred en masse to traditional Medicare<Node id="1230"/>. But <Node id="1236"/>it's ultimately served as a form of corporate welfare, where insurance companies act as a middle man between seniors and the government payer, for a healthy profit<Node id="1399"/>. The health care law nixed that overpayment, to help pay for the cost of covering the uninsured.<Node id="1496"/>
+
+<Node id="1498"/>Republicans<Node id="1509"/> howled and <Node id="1521"/>defeated<Node id="1529"/> <Node id="1530"/>a lot of Congressional Dems<Node id="1557"/> in 2012 for <Node id="1570"/>cutting<Node id="1577"/> <Node id="1578"/>seniors' Medicare benefits<Node id="1604"/>. And they'll continue to do so. <Node id="1637"/>But so far it's just a fib<Node id="1663"/>.<Node id="1664"/>
+
+<Node id="1666"/>Get the day's best political analysis, news and reporting from the TPM team delivered to your inbox every day with DayBreaker. Sign up here, it takes just a few seconds.
+Health Care, Kathleen Sebelius, Medicare, Republicans
+<Node id="1890"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation Id="9" Type="doc" StartNode="0" EndNode="1890">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">hc098</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">author</Name>
+  <Value className="java.lang.String">brian,beutler</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">date</Name>
+  <Value className="java.lang.String">20110915</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">source</Name>
+  <Value className="java.lang.String">talkingpointsmemo</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">side</Name>
+  <Value className="java.lang.String">pro</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">url</Name>
+  <Value className="java.lang.String">http://tpmdc.talkingpointsmemo.com/2011/09/gop-attacks-on-health-care-law-medicare-cuts-prove-false-hhs.php</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="arg" StartNode="0" EndNode="69">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">opposition_demagogues_bill</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="rel" StartNode="227" EndNode="399">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">opposition_demagogues_bill</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="arg" StartNode="402" EndNode="410">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">else</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="arg" StartNode="414" EndNode="549">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">improves_medicare_advantage_affordability</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="arg" StartNode="700" EndNode="790">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">improves_medicare_advantage_affordability</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="arg" StartNode="1236" EndNode="1399">
+<Feature>
+  <Name className="java.lang.String"></Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">improves_efficiency_of_insurers</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="17" Type="arg" StartNode="1637" EndNode="1663">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">opposition_demagogues_bill</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">incomplete</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="rel" StartNode="1498" EndNode="1604">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">opposition_demagogues_bill</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="19" Type="gfbf" StartNode="4" EndNode="14">
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">21</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">20</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">badfor</Value>
+</Feature>
+</Annotation>
+<Annotation Id="18" Type="rel" StartNode="1025" EndNode="1230">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">improves_efficiency</Value>
+</Feature>
+</Annotation>
+<Annotation Id="21" Type="gfbf-agent" StartNode="0" EndNode="3">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="20" Type="gfbf-object" StartNode="15" EndNode="47">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="23" Type="others" StartNode="494" EndNode="499">
+<Feature>
+  <Name className="java.lang.String">comment</Name>
+  <Value className="java.lang.String">GoodFor agent</Value>
+</Feature>
+</Annotation>
+<Annotation Id="22" Type="others" StartNode="459" EndNode="466">
+<Feature>
+  <Name className="java.lang.String">comment</Name>
+  <Value className="java.lang.String">BadFor agent</Value>
+</Feature>
+</Annotation>
+<Annotation Id="25" Type="others" StartNode="785" EndNode="790">
+<Feature>
+  <Name className="java.lang.String">comment</Name>
+  <Value className="java.lang.String">GoodFor agent</Value>
+</Feature>
+</Annotation>
+<Annotation Id="24" Type="others" StartNode="714" EndNode="721">
+<Feature>
+  <Name className="java.lang.String">comment</Name>
+  <Value className="java.lang.String">BadFor agent</Value>
+</Feature>
+</Annotation>
+<Annotation Id="26" Type="gfbf" StartNode="257" EndNode="268">
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">28</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">29</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">badfor</Value>
+</Feature>
+</Annotation>
+<Annotation Id="29" Type="gfbf-object" StartNode="269" EndNode="292">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="28" Type="gfbf-agent" StartNode="254" EndNode="257">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="31" Type="gfbf-agent" StartNode="300" EndNode="321">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="34" Type="gfbf-agent" StartNode="1498" EndNode="1509">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="35" Type="gfbf" StartNode="1521" EndNode="1529">
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">34</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">37</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">badfor</Value>
+</Feature>
+</Annotation>
+<Annotation Id="32" Type="gfbf" StartNode="380" EndNode="387">
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">31</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">badfor</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">33</Value>
+</Feature>
+</Annotation>
+<Annotation Id="33" Type="gfbf-object" StartNode="388" EndNode="399">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="38" Type="gfbf" StartNode="1570" EndNode="1577">
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">34</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">badfor</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">39</Value>
+</Feature>
+</Annotation>
+<Annotation Id="39" Type="gfbf-object" StartNode="1578" EndNode="1604">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="37" Type="gfbf-object" StartNode="1530" EndNode="1557">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="225">
+</Annotation>
+<Annotation Id="1" Type="paragraph" StartNode="227" EndNode="400">
+</Annotation>
+<Annotation Id="2" Type="paragraph" StartNode="402" EndNode="411">
+</Annotation>
+<Annotation Id="3" Type="paragraph" StartNode="414" EndNode="604">
+</Annotation>
+<Annotation Id="4" Type="paragraph" StartNode="606" EndNode="791">
+</Annotation>
+<Annotation Id="5" Type="paragraph" StartNode="793" EndNode="1023">
+</Annotation>
+<Annotation Id="6" Type="paragraph" StartNode="1025" EndNode="1496">
+</Annotation>
+<Annotation Id="7" Type="paragraph" StartNode="1498" EndNode="1664">
+</Annotation>
+<Annotation Id="8" Type="paragraph" StartNode="1666" EndNode="1890">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

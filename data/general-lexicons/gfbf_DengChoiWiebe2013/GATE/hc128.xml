@@ -1,0 +1,237 @@
+<?xml version='1.0' encoding='MacRoman'?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/home/conrada/Dropbox/healthcare_data/training_new/hc128.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String">LF</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0" />CBO Budget Outlook: <Node id="20" />Health Care Costs<Node id="37" /> 'Will Be <Node id="47" />Restrained<Node id="57" />' By <Node id="62" />Savings In Affordable Care Act<Node id="92" />
+
+<Node id="94" />By Igor Volsky on Aug 24, 2011 at 9:53 am<Node id="135" />
+
+<Node id="137" />The Congressional Budget Office has released a new report pinning this year's deficit at $1.3 trillion - the third-largest in the last 65 years - and predicting that real GDP will rise 2.3 percent this year and 2.7 percent next year. <Node id="371" />Federal spending on health care will continue to increase faster than GDP<Node id="444" />, <Node id="446" />but CBO notes that some of the cost will be contained by the cost-saving mechanisms in the Affordable Care Act<Node id="556" />:<Node id="557" />
+
+    "<Node id="564" />CBO estimates that outlays for Medicare (excluding receipts from premiums) will total $555 billion (3.5 percent of GDP) in 2012, about the same, in nominal terms, that it estimates for 2011<Node id="753" />. <Node id="755" />Between 2013 and 2021, outlays are projected to grow at an average annual rate of 6.3 percent, reaching $966 billion (4.1 percent of GDP) in 2021<Node id="900" />. <Node id="902" />Spending will be pushed up over the decade by increases in the number of beneficiaries and in health care costs per beneficiary (in nominal terms)<Node id="1048" />. <Node id="1050" />At the same time, growth in spending will be restrained by reductions in updates to payment rates that were included in the 2010 health care legislation and by the program's sustainable growth rate mechanism, which, under current law, is projected to reduce payments to physicians by about 30 percent in 2012 and by additional amounts thereafter<Node id="1395" />.<Node id="1396" />
+
+<Node id="1398" />In other words, beginning in 2014, as 32 million individuals begin receiving health care coverage and visiting doctors, health care expenditures will naturally increase<Node id="1566" />. <Node id="1568" />Costs will continue to grow higher than current law until around 2015, at which point the Medicare savings (payment changes), the excise tax on so-called Cadillac health plans, and the Medicare payment board will cause costs "to be restrained<Node id="1810" />."
+Update<Node id="1819" />
+
+<Node id="1821" />The CBO has also found $25 billion in savings that it's attributing to technical changes: "CBO has lowered its 10-year projections of spending for other health care programs by a net amount of $25 billion<Node id="2025" />. <Node id="2027" />That change is mostly attributable to revisions to the agency's methodology for estimating the amount of refundable tax credits that will be provided to subsidize the purchase of health insurance and the amount of cost- sharing subsidies that will be available for health insurance purchased through exchanges beginning in 2014<Node id="2354" />."
+Tags:<Node id="2362" />
+
+    <Node id="2368" />Congressional Budget Office<Node id="2395" />
+
+
+<Node id="2398" /></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation Id="7" Type="doc" StartNode="0" EndNode="2398">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">hc128</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">author</Name>
+  <Value className="java.lang.String">igor,volsky</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">source</Name>
+  <Value className="java.lang.String">thinkprogress</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">date</Name>
+  <Value className="java.lang.String">20110824</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">side</Name>
+  <Value className="java.lang.String">pro</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">url</Name>
+  <Value className="java.lang.String">http://thinkprogress.org/health/2011/08/24/302902/cbo-deficit-report-health-care-costs-will-be-restrained-by-savings-in-affordable-care-act/</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="arg" StartNode="0" EndNode="92">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">controls_healthcare_costs</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="rel" StartNode="371" EndNode="444">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">controls_healthcare_costs</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="arg" StartNode="446" EndNode="556">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">controls_healthcare_costs</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="rel" StartNode="1821" EndNode="2025">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">controls_healthcare_costs</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="rel" StartNode="564" EndNode="753">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">controls_medicare_costs</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="rel" StartNode="755" EndNode="900">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">controls_medicare_costs</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="rel" StartNode="902" EndNode="1048">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">controls_medicare_costs</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="rel" StartNode="1050" EndNode="1395">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">controls_medicare_costs</Value>
+</Feature>
+</Annotation>
+<Annotation Id="17" Type="rel" StartNode="1568" EndNode="1810">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">controls_healthcare_costs</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="rel" StartNode="1398" EndNode="1566">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">improves_access_to_healthcare_and_insurance</Value>
+</Feature>
+</Annotation>
+<Annotation Id="19" Type="gfbf" StartNode="47" EndNode="57">
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">20</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">badfor</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">21</Value>
+</Feature>
+</Annotation>
+<Annotation Id="18" Type="rel" StartNode="2027" EndNode="2354">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">controls_healthcare_costs</Value>
+</Feature>
+</Annotation>
+<Annotation Id="21" Type="gfbf-object" StartNode="20" EndNode="37">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="20" Type="gfbf-agent" StartNode="62" EndNode="92">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="92">
+</Annotation>
+<Annotation Id="1" Type="paragraph" StartNode="94" EndNode="135">
+</Annotation>
+<Annotation Id="2" Type="paragraph" StartNode="137" EndNode="557">
+</Annotation>
+<Annotation Id="3" Type="paragraph" StartNode="564" EndNode="1396">
+</Annotation>
+<Annotation Id="4" Type="paragraph" StartNode="1398" EndNode="1819">
+</Annotation>
+<Annotation Id="5" Type="paragraph" StartNode="1821" EndNode="2362">
+</Annotation>
+<Annotation Id="6" Type="paragraph" StartNode="2368" EndNode="2395">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,341 @@
+<?xml version='1.0' encoding='US-ASCII'?>
+<GateDocument version="2">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/Users/holicyj/Downloads/agreement3_Y/hc096.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String">LF</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Did <Node id="4"/>Health Care Reform<Node id="22"/> <Node id="23"/>Hurt<Node id="27"/> <Node id="28"/>The Private Insurance Part Of Medicare<Node id="66"/>? Apparently Not
+President Barack ObamaPresident Barack Obama
+share
+Sahil Kapur February 1, 2012, 1:15 PM 10118 203<Node id="181"/>
+
+<Node id="183"/>The Obama administration announced Wednesday that <Node id="233"/>the Medicare Advantage program, which allows seniors to receive health coverage through a private insurer, is enjoying lower costs and more customers as a result of the health care reform law<Node id="424"/>.<Node id="425"/>
+
+<Node id="427"/>Medicare Advantage enrollment has risen 10 percent over the last year while average premiums have fallen by 7 percent<Node id="544"/>, said Health and Human Services Secretary Kathleen Sebelius. She also pointed out that similar improvements were seen the previous year.<Node id="681"/>
+
+<Node id="683"/>The figures<Node id="694"/> <Node id="695"/>bolster<Node id="702"/> <Node id="703"/>President Obama<Node id="718"/>'s <Node id="721"/>defense of<Node id="731"/> <Node id="732"/>his signature achievement<Node id="757"/>, and for Democrats <Node id="777"/>it<Node id="779"/> has the added bonus of <Node id="803"/>refuting<Node id="811"/> <Node id="812"/>earlier Republican warnings<Node id="839"/> that "<Node id="846"/>Obamacare<Node id="855"/>" would gravely <Node id="871"/>undermine<Node id="880"/> <Node id="881"/>the choice provisions in Medicare<Node id="914"/>.<Node id="915"/>
+
+<Node id="917"/>"At the time <Node id="930"/>the Affordable Care Act<Node id="953"/> <Node id="954"/>was passed<Node id="964"/>, Republicans in Congress said <Node id="995"/>the bill<Node id="1003"/> would virtually <Node id="1020"/>end<Node id="1023"/> <Node id="1024"/>the Medicare Advantage program<Node id="1054"/>," declared senior White House staffer Nancy-Ann DeParle. "<Node id="1113"/>Those predictions turned out to be wrong<Node id="1153"/>. <Node id="1155"/>Medicare Advantage<Node id="1173"/> is stronger than ever - <Node id="1198"/>offering<Node id="1206"/> more <Node id="1212"/>seniors<Node id="1219"/> better benefits, higher quality care and lower costs."<Node id="1274"/>
+
+<Node id="1276"/>The basis for this GOP claim during the health care reform debate was that the ACA's $500 billion in Medicare provider cuts included $136 billion in pay reductions under Medicare Advantage. But, at least for now, those cuts - along with other payment reforms - appear to have made the program more competitive and efficient.<Node id="1600"/>
+
+<Node id="1602"/>"<Node id="1603"/>The new law's massive Medicare cuts will fall squarely on the backs of seniors<Node id="1681"/>, millions of whom will be forced off their current Medicare coverage," House GOP leaders wrote in their 2010 "Pledge To America" manifesto. Screeds against the payment reductions were a regular feature of Republican speeches in Congress during the debate over the law.<Node id="1950"/>
+
+<Node id="1952"/>The Medicare Advantage program<Node id="1982"/>, <Node id="1984"/>created<Node id="1991"/> in 1997, allows beneficiaries to opt out of the single-payer plan and instead receive government-subsidized private insurance at an extra cost to them<Node id="2142"/>. About one in four seniors are currently on it. The basis of the steep ACA cuts was research that showed Medicare was over-paying the private plans.<Node id="2291"/>
+
+<Node id="2293"/>Congressional Republicans didn't ultimately seem too troubled by health reform's Medicare cuts: they overwhelmingly voted to retain them last year as part of the Paul Ryan budget.
+Affordable Care Act, Barack Obama, Obamacare
+<Node id="2518"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation Id="1" Type="doc" StartNode="1" EndNode="5551">
+<Feature>
+<Name className="java.lang.String">id</Name>
+<Value className="java.lang.String">hc096</Value>
+</Feature>
+<Feature>
+<Name className="java.lang.String">side</Name>
+<Value className="java.lang.String">pro</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="gfbf-agent" StartNode="4" EndNode="22">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="gfbf-object" StartNode="28" EndNode="66">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="gfbf" StartNode="23" EndNode="27">
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">9</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">10</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">badfor</Value>
+</Feature>
+</Annotation>
+<Annotation Id="23" Type="gfbf-object" StartNode="703" EndNode="757">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="22" Type="gfbf-agent" StartNode="683" EndNode="694">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="25" Type="gfbf-agent" StartNode="777" EndNode="779">
+<Feature>
+  <Name className="java.lang.String">referentId</Name>
+  <Value className="java.lang.String">28</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">reference</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="24" Type="gfbf" StartNode="695" EndNode="702">
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">22</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">23</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">goodfor</Value>
+</Feature>
+</Annotation>
+<Annotation Id="27" Type="gfbf" StartNode="803" EndNode="811">
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">25</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">26</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">badfor</Value>
+</Feature>
+</Annotation>
+<Annotation Id="26" Type="gfbf-object" StartNode="812" EndNode="839">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="29" Type="gfbf-agent" StartNode="846" EndNode="855">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="28" Type="referent" StartNode="683" EndNode="694">
+</Annotation>
+<Annotation Id="31" Type="gfbf" StartNode="871" EndNode="880">
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">29</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">30</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">badfor</Value>
+</Feature>
+</Annotation>
+<Annotation Id="30" Type="gfbf-object" StartNode="881" EndNode="914">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="34" Type="gfbf-agent" StartNode="995" EndNode="1003">
+<Feature>
+  <Name className="java.lang.String">reference</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">referentId</Name>
+  <Value className="java.lang.String">37</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="35" Type="gfbf-object" StartNode="1024" EndNode="1054">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="32" Type="gfbf-object" StartNode="930" EndNode="953">
+<Feature>
+  <Name className="java.lang.String">uncertain</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="33" Type="gfbf" StartNode="954" EndNode="964">
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">implicit</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">32</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">goodfor</Value>
+</Feature>
+</Annotation>
+<Annotation Id="36" Type="gfbf" StartNode="1020" EndNode="1023">
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">34</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">35</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">badfor</Value>
+</Feature>
+</Annotation>
+<Annotation Id="37" Type="referent" StartNode="930" EndNode="953">
+</Annotation>
+<Annotation Id="40" Type="gfbf-agent" StartNode="1155" EndNode="1173">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="41" Type="gfbf-object" StartNode="1212" EndNode="1219">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="46" Type="gfbf-object" StartNode="1952" EndNode="1982">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="47" Type="gfbf" StartNode="1984" EndNode="1991">
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">implicit</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">phaseII</Name>
+  <Value className="java.lang.String">phaseII</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">46</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">goodfor</Value>
+</Feature>
+</Annotation>
+<Annotation Id="51" Type="gfbf" StartNode="721" EndNode="731">
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">52</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">goodfor</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">53</Value>
+</Feature>
+</Annotation>
+<Annotation Id="55" Type="highlight" StartNode="233" EndNode="424">
+</Annotation>
+<Annotation Id="54" Type="gfbf" StartNode="1198" EndNode="1206">
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">40</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">41</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">goodfor</Value>
+</Feature>
+</Annotation>
+<Annotation Id="53" Type="gfbf-object" StartNode="732" EndNode="757">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="52" Type="gfbf-agent" StartNode="703" EndNode="718">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="59" Type="highlight" StartNode="1952" EndNode="2142">
+</Annotation>
+<Annotation Id="58" Type="highlight" StartNode="1603" EndNode="1681">
+</Annotation>
+<Annotation Id="57" Type="highlight" StartNode="1113" EndNode="1153">
+</Annotation>
+<Annotation Id="56" Type="highlight" StartNode="427" EndNode="544">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="181">
+</Annotation>
+<Annotation Id="1" Type="paragraph" StartNode="183" EndNode="425">
+</Annotation>
+<Annotation Id="2" Type="paragraph" StartNode="427" EndNode="681">
+</Annotation>
+<Annotation Id="3" Type="paragraph" StartNode="683" EndNode="915">
+</Annotation>
+<Annotation Id="4" Type="paragraph" StartNode="917" EndNode="1274">
+</Annotation>
+<Annotation Id="5" Type="paragraph" StartNode="1276" EndNode="1600">
+</Annotation>
+<Annotation Id="6" Type="paragraph" StartNode="1602" EndNode="1950">
+</Annotation>
+<Annotation Id="7" Type="paragraph" StartNode="1952" EndNode="2291">
+</Annotation>
+<Annotation Id="8" Type="paragraph" StartNode="2293" EndNode="2518">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

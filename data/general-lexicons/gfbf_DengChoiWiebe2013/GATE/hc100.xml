@@ -1,0 +1,374 @@
+<?xml version='1.0' encoding='MacRoman'?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/home/conrada/Dropbox/healthcare_data/training_new/hc100.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String">LF</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0" />TPMDC
+CHART OF THE DAY: <Node id="24" />Repealing<Node id="33" /> <Node id="34" />ObamaCare<Node id="43" /> Would <Node id="50" />Be Disastrous For<Node id="67" /> <Node id="68" />The Budget<Node id="78" />
+President Barack ObamaPresident Barack Obama
+share
+Brian Beutler October 24, 2011, 2:37 PM 21634
+
+The Government Accountability Office has updated its fiscal outlook for the US  government and come to some familiar conclusions. <Node id="307" />The country has a long term imbalance that will have to be addressed<Node id="375" />, <Node id="377" />but not until today's economic woes have passed<Node id="424" />. <Node id="426" />If Congress simply does nothing - and allows the Bush tax cuts, and other temporary laws to expire - the country's fiscal health will improve significantly over the long term<Node id="600" />.
+TPM SLIDESHOW: Meeting and Greeting - Fall At The White House
+
+<Node id="665" />But the report implies something that's been lost in the recent partisan debate over the country's future: <Node id="772" />repealing<Node id="781" /> <Node id="782" />ObamaCare<Node id="791" /> would consign us to swift, ugly fiscal and health care crises<Node id="853" />.
+
+<Node id="856" />The health care reform law will <Node id="888" />extend subsidized private health insurance to millions of Americans<Node id="955" />, paid for with new taxes and Medicare savings<Node id="1001" />. <Node id="1003" />But it also included <Node id="1024" />numerous demonstration projects and reforms<Node id="1067" /> intended to <Node id="1080" />rein in<Node id="1087" /> <Node id="1088" />the growth of health care costs<Node id="1119" />, and thus Medicare spending<Node id="1147" />. Some of them have great promise - if they can survive.
+
+"<Node id="1206" />Several provisions under current law, including provisions in the Patient Protection and Affordable Care Act (PPACA) were designed to control the growth of health care costs<Node id="1379" />," GAO notes. "<Node id="1394" />The full implementation and effectiveness of these cost-control provisions, which are reflected in the Baseline Extended simulation, would slow the growth in federal health care spending over the long term <Node id="1600" />. <Node id="1602" />However, the Trustees, CBO, and the CMS Actuary have expressed concerns about the effective implementation of certain cost-control measures over the long term<Node id="1760" />."
+
+    For example, they have noted that reductions in physician payment rates scheduled to occur under current law have routinely been overridden. <Node id="1909" />They have also questioned whether a provision in PPACA that would restrain spending growth by reducing the payment rates for certain Medicare services based on productivity gains observed throughout the economy is sustainable over the long term<Node id="2153" />. These concerns are reflected in our Alternative simulation, which, consistent with CBO's and CMS Actuary's alternative projections, assumes the Medicare physician rate reductions do not occur and that certain cost- containment mechanisms intended to slow the growth of health care costs are not sustained over the long term.
+
+<Node id="2481" />If Republicans get their way and repeal this and other provisions - and if Congress keeps passing temporary "doc fixes" to prevent payment cuts to doctors who see Medicare patients - then Medicare costs will continue to soar, and eventually overwhelm the federal budget<Node id="2750" />.
+
+Here's what the CBO shows happening if current law is left intact:
+
+And here's what happens if key provisions of Obamacare, and other scheduled savings, are repealed:
+
+<Node id="2921" />Republicans' answer to this problem is contained in the controversial budget framework they adopted this past spring<Node id="3037" />. <Node id="3039" />It would phase out Medicare as a single government insurance payer and replace it with a private insurance system - with subsidies for beneficiaries that grow much slower than the cost of health care<Node id="3238" />. Democrats reject this approach - but <Node id="3277" />Republicans aren't interested in playing ball with the liberal approach of hacking away at health care costs in a way that ultimately makes Medicare affordable<Node id="3436" />.
+
+You can read the GAO's full report below.
+The Federal Government's Long-Term Fiscal Outlook: Fall 2011 Update
+Barack Obama, CBO, Congressional Budget Office, GAO, Government Accountability Office, Health Care, Health Care Summit, Repealing health care
+<Node id="3692" /></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation Id="34" Type="gfbf-object" StartNode="68" EndNode="78">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="35" Type="gfbf-agent" StartNode="24" EndNode="43">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="32" Type="gfbf-object" StartNode="34" EndNode="43">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="33" Type="gfbf" StartNode="50" EndNode="67">
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">35</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">badfor</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">34</Value>
+</Feature>
+</Annotation>
+<Annotation Id="39" Type="others" StartNode="888" EndNode="955">
+<Feature>
+  <Name className="java.lang.String">comment</Name>
+  <Value className="java.lang.String">extend A to B</Value>
+</Feature>
+</Annotation>
+<Annotation Id="36" Type="gfbf" StartNode="772" EndNode="781">
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">implicit</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">badfor</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">37</Value>
+</Feature>
+</Annotation>
+<Annotation Id="37" Type="gfbf-object" StartNode="782" EndNode="791">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="42" Type="gfbf-object" StartNode="1088" EndNode="1119">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="40" Type="gfbf-agent" StartNode="1024" EndNode="1067">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="41" Type="gfbf" StartNode="1080" EndNode="1087">
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">40</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">badfor</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">42</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="doc" StartNode="0" EndNode="3692">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">hc100</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">author</Name>
+  <Value className="java.lang.String">brian,beutler</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">date</Name>
+  <Value className="java.lang.String">20111024</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">source</Name>
+  <Value className="java.lang.String">talkingpointsmemo</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">side</Name>
+  <Value className="java.lang.String">pro</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">url</Name>
+  <Value className="java.lang.String">http://tpmdc.talkingpointsmemo.com/2011/10/chart-of-the-day-repealing-obamacare-would-be-disastrous-for-the-budget.php</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="arg" StartNode="24" EndNode="78">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">repeal_increases_deficit</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="arg" StartNode="307" EndNode="375">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">else</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="arg" StartNode="377" EndNode="424">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">else</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="17" Type="arg" StartNode="665" EndNode="853">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">repeal_increases_deficit</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="arg" StartNode="426" EndNode="600">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">else</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="19" Type="arg" StartNode="1003" EndNode="1147">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">controls_healthcare_costs</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="18" Type="arg" StartNode="856" EndNode="1001">
+<Feature>
+  <Name className="java.lang.String">prospect</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">expands/guarentees_access_to_insurance</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="21" Type="rel" StartNode="1394" EndNode="1600">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">controls_healthcare_costs</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="20" Type="rel" StartNode="1206" EndNode="1379">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">controls_healthcare_costs</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</Annotation>
+<Annotation Id="24" Type="rel" StartNode="1602" EndNode="1760">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">controls_healthcare_costs</Value>
+</Feature>
+</Annotation>
+<Annotation Id="31" Type="gfbf" StartNode="24" EndNode="33">
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">implicit</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">badfor</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">32</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="27" Type="arg" StartNode="2481" EndNode="2750">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">repeal_increases_deficit</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="26" Type="rel" StartNode="1909" EndNode="2153">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">controls_healthcare_costs</Value>
+</Feature>
+</Annotation>
+<Annotation Id="29" Type="rel" StartNode="2921" EndNode="3037">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">opposition_has_no_plan</Value>
+</Feature>
+</Annotation>
+<Annotation Id="28" Type="arg" StartNode="3277" EndNode="3436">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">opposition_has_no_plan</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="30" Type="rel" StartNode="3039" EndNode="3238">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">opposition_has_no_plan</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

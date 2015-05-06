@@ -1,0 +1,759 @@
+<?xml version='1.0' encoding='MacRoman'?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/home/conrada/Dropbox/healthcare_data/devel2/hcd022.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String">LF</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0" />David PhillipsFollowRSS
+Daily Kos member<Node id="40" />
+
+    <Node id="46" />Profile
+    Diaries (list)
+    Stream<Node id="83" />
+
+<Node id="85" />Thu Dec 15, 2011 at 11:47 AM PST
+<Node id="118" />Obama health care reforms <Node id="144" />keep<Node id="148" /> 2.5 million more young adults insured<Node id="186" />
+
+<Node id="188" />by David PhillipsFollow
+Share
+permalink 	1 Comment<Node id="238" />
+
+<Node id="240" />One of the provisions under the Affordable Care Act that is already in effect, allows parents to keep their children on their health insurance plans through age 26<Node id="403" />. <Node id="405" />New data from the National Center for Health Statistics at the Centers for Disease Control and Prevention (CDC) shows that 2.5 million young adults are now <Node id="561" />receiving<Node id="570" /> coverage, up from the 1 million reported earlier this year<Node id="629" />.<Node id="630" />
+
+<Node id="632" />Health and Human Services Secretary Kathleen Sebelius said, "Thanks to the Affordable Care Act, 2.5 million more young adults don't have to <Node id="772" />live with the fear and uncertainty of going without health insurance<Node id="840" />.  <Node id="843" />Moms and dads around the country can breathe a little easier knowing their children are covered<Node id="938" />."<Node id="940" />
+
+<Node id="942" />Data from the first three months of 2011 showed that one million more young adults had insurance coverage compared to a year ago<Node id="1070" />.  <Node id="1073" />The numbers announced today show <Node id="1106" />a continuation of<Node id="1123" /> <Node id="1124" />the coverage gains<Node id="1142" /> due to <Node id="1150" />the health care law<Node id="1169" /> as students graduate from high school and college in May and June and otherwise would have <Node id="1261" />lost coverage<Node id="1274" />.<Node id="1275" />
+
+<Node id="1277" />The data released today are consistent with estimates from surveys released earlier in the year.  <Node id="1375" />Those surveys have shown an increase in the number and percentage of young adults 19 to 25 with health insurance coverage<Node id="1496" />.  Specifically, the Census Bureau and the Gallup-Healthways Well-Being Index Survey, as well as the NHIS release of data through March 2011, reported similar trends through early 2011.<Node id="1681" />
+
+<Node id="1683" />Today's results highlighted in an HHS issue brief, show that the initial gains from the health care law have continued to grow<Node id="1809" />.<Node id="1810" />
+
+"<Node id="1813" />The data announced today show that, because of <Node id="1860" />the health care law<Node id="1879" />, there is a continued and consistent pattern of <Node id="1928" />improved<Node id="1936" /> <Node id="1937" />health coverage among young adults<Node id="1971" />," said Sherry Glied, Ph.D., HHS assistant secretary for planning and evaluation<Node id="2051" />.  "<Node id="2055" />The Affordable Care Act<Node id="2078" /> has <Node id="2083" />helped<Node id="2089" /> literally <Node id="2100" />millions of young adults<Node id="2124" /> get the health insurance they need so they can begin their careers with the peace of mind that they're covered<Node id="2235" />."<Node id="2237" />
+
+<Node id="2239" />The Patient's Bill of Rights<Node id="2267" />, which <Node id="2275" />went into effect<Node id="2291" /> September 23, 2010, will <Node id="2317" />stop<Node id="2321" /> <Node id="2322" />the worst insurance company abuses<Node id="2356" /> by implementing the following protections<Node id="2398" />:<Node id="2399" />
+
+-<Node id="2402" />    <Node id="2406" />Health coverage<Node id="2421" /> <Node id="2422" />cannot<Node id="2428" /> be arbitrarily <Node id="2444" />cancelled<Node id="2453" /> if you become sick<Node id="2472" />
+-    <Node id="2478" />Children<Node id="2486" /> <Node id="2487" />cannot<Node id="2493" /> be <Node id="2497" />denied coverage<Node id="2512" /> due to a pre-existing condition<Node id="2544" />
+-    <Node id="2550" />Children up to age 26 can stay on your health plan<Node id="2600" />
+-    <Node id="2606" />No lifetime limits on health coverage<Node id="2643" />
+-    <Node id="2649" />Annual limits are phased out over three years<Node id="2694" />
+-    <Node id="2700" />Key preventive services will be available without a deductible or co-pay<Node id="2772" />
+-    <Node id="2778" />Patients have a right to choose their own doctor<Node id="2826" />
+-    <Node id="2832" />Options are improved for appealing insurance companies' decisions<Node id="2897" />
+-    <Node id="2903" />Restrictions on emergency room care are ended<Node id="2948" />
+
+<Node id="2950" />Parents in all 50 states have added their children to their policies, which republican politician is going to tell them, tough luck, they will have to go without health insurance coverage?<Node id="3138" /> Sadly, all of them.<Node id="3158" />
+
+<Node id="3160" />Tags<Node id="3164" />
+
+    <Node id="3170" />CDC
+    Health Care
+    Patient Protection and Affordable Care Act
+    PPACA
+    Secretary Kathleen Sebelius<Node id="3278" />
+
+
+<Node id="3281" /></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation Id="15" Type="doc" StartNode="0" EndNode="3281">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">hcd022</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">author</Name>
+  <Value className="java.lang.String">david,phillips</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">date</Name>
+  <Value className="java.lang.String">20111215</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">source</Name>
+  <Value className="java.lang.String">dailykos</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">side</Name>
+  <Value className="java.lang.String">pro</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">url</Name>
+  <Value className="java.lang.String">http://www.dailykos.com/story/2011/12/15/1045737/-Obama-health-care-reforms-keep-25-million-more-young-adults-insured</Value>
+</Feature>
+</Annotation>
+<Annotation Id="17" Type="rel" StartNode="240" EndNode="403">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">keeping_adult_children_on_parents_plan_is_beneficial</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="arg" StartNode="118" EndNode="186">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">keeping_adult_children_on_parents_plan_is_beneficial</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="19" Type="arg" StartNode="632" EndNode="840">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">keeping_adult_children_on_parents_plan_is_beneficial</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="18" Type="arg" StartNode="405" EndNode="629">
+<Feature>
+  <Name className="java.lang.String"></Name>
+  <Value className="java.lang.String">keeping_adult_children_on_parents_plan_is_beneficial</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">prospect</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="21" Type="rel" StartNode="942" EndNode="1070">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">keeping_adult_children_on_parents_plan_is_beneficial</Value>
+</Feature>
+</Annotation>
+<Annotation Id="20" Type="arg" StartNode="843" EndNode="938">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">badFor agent...</Value>
+</Feature>
+</Annotation>
+<Annotation Id="23" Type="rel" StartNode="1375" EndNode="1496">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">keeping_adult_children_on_parents_plan_is_beneficial</Value>
+</Feature>
+</Annotation>
+<Annotation Id="22" Type="arg" StartNode="1073" EndNode="1274">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">keeping_adult_children_on_parents_plan_is_beneficial</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="25" Type="arg" StartNode="1813" EndNode="2051">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">keeping_adult_children_on_parents_plan_is_beneficial</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="24" Type="rel" StartNode="1683" EndNode="1809">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">bills_impact_is_positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="27" Type="arg" StartNode="2239" EndNode="2398">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">prevents_corporate_exploitation</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">incomplete</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="26" Type="arg" StartNode="2055" EndNode="2235">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">keeping_adult_children_on_parents_plan_is_beneficial</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="29" Type="arg" StartNode="2478" EndNode="2544">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">eliminates_pre-existing_conditions_for_children</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="28" Type="arg" StartNode="2406" EndNode="2472">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">prevents_insurers_from_dropping_the_sick</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="31" Type="rel" StartNode="2606" EndNode="2643">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">else</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">eliminates_caps_on_coverage</Value>
+</Feature>
+</Annotation>
+<Annotation Id="30" Type="rel" StartNode="2550" EndNode="2600">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">children_can_stay_on_parent_plans_longer</Value>
+</Feature>
+</Annotation>
+<Annotation Id="34" Type="rel" StartNode="2778" EndNode="2826">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">else</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">makes_care_more_direct</Value>
+</Feature>
+</Annotation>
+<Annotation Id="35" Type="rel" StartNode="2832" EndNode="2897">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">prevents_corporate_exploitation</Value>
+</Feature>
+</Annotation>
+<Annotation Id="32" Type="rel" StartNode="2649" EndNode="2694">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">eliminates_caps_on_coverage</Value>
+</Feature>
+</Annotation>
+<Annotation Id="33" Type="rel" StartNode="2700" EndNode="2772">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">expands/guarantees_access_to_preventative_care</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="38" Type="para" StartNode="240" EndNode="630">
+<Feature>
+  <Name className="java.lang.String">argmnt-label</Name>
+  <Value className="java.lang.String">children_can_stay_on_parent_plans_longer</Value>
+</Feature>
+</Annotation>
+<Annotation Id="39" Type="para" StartNode="632" EndNode="940">
+<Feature>
+  <Name className="java.lang.String">argmnt-label</Name>
+  <Value className="java.lang.String">children_can_stay_on_parent_plans_longer</Value>
+</Feature>
+</Annotation>
+<Annotation Id="36" Type="rel" StartNode="2903" EndNode="2948">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">improves_healthcare_and_insurance_access</Value>
+</Feature>
+</Annotation>
+<Annotation Id="37" Type="arg" StartNode="2950" EndNode="3138">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">keeping_adult_children_on_parents_plan_is_beneficial</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="42" Type="para" StartNode="1683" EndNode="2237">
+<Feature>
+  <Name className="java.lang.String">argmnt-label</Name>
+  <Value className="java.lang.String">children_can_stay_on_parent_plans_longer</Value>
+</Feature>
+</Annotation>
+<Annotation Id="43" Type="para" StartNode="2239" EndNode="2399">
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argmnt-label</Name>
+  <Value className="java.lang.String">prevents_corporate_exploitation</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">misc</Name>
+  <Value className="java.lang.String">prevents_insurers_from_dropping_the_sick</Value>
+</Feature>
+</Annotation>
+<Annotation Id="40" Type="para" StartNode="942" EndNode="1275">
+<Feature>
+  <Name className="java.lang.String">argmnt-label</Name>
+  <Value className="java.lang.String">children_can_stay_on_parent_plans_longer</Value>
+</Feature>
+</Annotation>
+<Annotation Id="41" Type="para" StartNode="1277" EndNode="1681">
+<Feature>
+  <Name className="java.lang.String">argmnt-label</Name>
+  <Value className="java.lang.String">children_can_stay_on_parent_plans_longer</Value>
+</Feature>
+</Annotation>
+<Annotation Id="46" Type="para" StartNode="2550" EndNode="2600">
+<Feature>
+  <Name className="java.lang.String">argmnt-label</Name>
+  <Value className="java.lang.String">children_can_stay_on_parent_plans_longer</Value>
+</Feature>
+</Annotation>
+<Annotation Id="47" Type="para" StartNode="2606" EndNode="2643">
+<Feature>
+  <Name className="java.lang.String">argmnt-label</Name>
+  <Value className="java.lang.String">eliminates_caps_on_coverage</Value>
+</Feature>
+</Annotation>
+<Annotation Id="44" Type="para" StartNode="2406" EndNode="2472">
+<Feature>
+  <Name className="java.lang.String">argmnt-label</Name>
+  <Value className="java.lang.String">prevents_insurers_from_dropping_the_sick</Value>
+</Feature>
+</Annotation>
+<Annotation Id="45" Type="para" StartNode="2478" EndNode="2544">
+<Feature>
+  <Name className="java.lang.String">argmnt-label</Name>
+  <Value className="java.lang.String">eliminates_pre-existing_conditions_for_children</Value>
+</Feature>
+</Annotation>
+<Annotation Id="51" Type="para" StartNode="2832" EndNode="2897">
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argmnt-label</Name>
+  <Value className="java.lang.String">prevents_corporate_exploitation</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50" Type="para" StartNode="2778" EndNode="2826">
+<Feature>
+  <Name className="java.lang.String">argmnt-label</Name>
+  <Value className="java.lang.String">makes_care_more_direct</Value>
+</Feature>
+</Annotation>
+<Annotation Id="49" Type="para" StartNode="2700" EndNode="2772">
+<Feature>
+  <Name className="java.lang.String">argmnt-label</Name>
+  <Value className="java.lang.String">expands/guarantees_access_to_preventative_care</Value>
+</Feature>
+</Annotation>
+<Annotation Id="48" Type="para" StartNode="2649" EndNode="2694">
+<Feature>
+  <Name className="java.lang.String">argmnt-label</Name>
+  <Value className="java.lang.String">eliminates_caps_on_coverage</Value>
+</Feature>
+</Annotation>
+<Annotation Id="55" Type="others" StartNode="772" EndNode="840">
+<Feature>
+  <Name className="java.lang.String">comment</Name>
+  <Value className="java.lang.String">bdaFor agent</Value>
+</Feature>
+</Annotation>
+<Annotation Id="54" Type="others" StartNode="561" EndNode="570">
+<Feature>
+  <Name className="java.lang.String">comment</Name>
+  <Value className="java.lang.String">property...</Value>
+</Feature>
+</Annotation>
+<Annotation Id="53" Type="para" StartNode="2950" EndNode="3158">
+<Feature>
+  <Name className="java.lang.String">argmnt-label</Name>
+  <Value className="java.lang.String">keeping_adult_children_on_parents_plan_is_beneficial</Value>
+</Feature>
+</Annotation>
+<Annotation Id="52" Type="para" StartNode="2903" EndNode="2948">
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argmnt-label</Name>
+  <Value className="java.lang.String">improves_quality_of_healthcare</Value>
+</Feature>
+</Annotation>
+<Annotation Id="59" Type="others" StartNode="1261" EndNode="1274">
+<Feature>
+  <Name className="java.lang.String">comment</Name>
+  <Value className="java.lang.String">property</Value>
+</Feature>
+</Annotation>
+<Annotation Id="58" Type="gfbf-agent" StartNode="1150" EndNode="1169">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="57" Type="gfbf-object" StartNode="1124" EndNode="1142">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="56" Type="gfbf" StartNode="1106" EndNode="1123">
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">58</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">57</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">goodfor</Value>
+</Feature>
+</Annotation>
+<Annotation Id="63" Type="gfbf" StartNode="2083" EndNode="2089">
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">65</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">64</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">goodfor</Value>
+</Feature>
+</Annotation>
+<Annotation Id="62" Type="gfbf-agent" StartNode="1860" EndNode="1879">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="61" Type="gfbf-object" StartNode="1937" EndNode="1971">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="60" Type="gfbf" StartNode="1928" EndNode="1936">
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">62</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">61</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">goodfor</Value>
+</Feature>
+</Annotation>
+<Annotation Id="68" Type="gfbf-object" StartNode="2322" EndNode="2356">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="69" Type="gfbf-agent" StartNode="2239" EndNode="2267">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="70" Type="gfbf" StartNode="2444" EndNode="2453">
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">implicit</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">badfor</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">71</Value>
+</Feature>
+</Annotation>
+<Annotation Id="71" Type="gfbf-object" StartNode="2406" EndNode="2421">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="64" Type="gfbf-object" StartNode="2100" EndNode="2124">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="65" Type="gfbf-agent" StartNode="2055" EndNode="2078">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="66" Type="others" StartNode="2275" EndNode="2291">
+<Feature>
+  <Name className="java.lang.String">comment</Name>
+  <Value className="java.lang.String">GoodFor agent...</Value>
+</Feature>
+</Annotation>
+<Annotation Id="67" Type="gfbf" StartNode="2317" EndNode="2321">
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">69</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">68</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">badfor</Value>
+</Feature>
+</Annotation>
+<Annotation Id="76" Type="others" StartNode="144" EndNode="148">
+<Feature>
+  <Name className="java.lang.String">comment</Name>
+  <Value className="java.lang.String">keep</Value>
+</Feature>
+</Annotation>
+<Annotation Id="72" Type="influencer" StartNode="2422" EndNode="2428">
+<Feature>
+  <Name className="java.lang.String">effect</Name>
+  <Value className="java.lang.String">reverse</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">implicit</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">70</Value>
+</Feature>
+</Annotation>
+<Annotation Id="73" Type="gfbf" StartNode="2497" EndNode="2512">
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">implicit</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">74</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">comment</Name>
+  <Value className="java.lang.String">deny sb sth...</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">badfor</Value>
+</Feature>
+</Annotation>
+<Annotation Id="74" Type="gfbf-object" StartNode="2478" EndNode="2486">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="75" Type="influencer" StartNode="2487" EndNode="2493">
+<Feature>
+  <Name className="java.lang.String">effect</Name>
+  <Value className="java.lang.String">reverse</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">implicit</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">73</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="40">
+</Annotation>
+<Annotation Id="1" Type="paragraph" StartNode="46" EndNode="83">
+</Annotation>
+<Annotation Id="2" Type="paragraph" StartNode="85" EndNode="186">
+</Annotation>
+<Annotation Id="3" Type="paragraph" StartNode="188" EndNode="238">
+</Annotation>
+<Annotation Id="4" Type="paragraph" StartNode="240" EndNode="630">
+</Annotation>
+<Annotation Id="5" Type="paragraph" StartNode="632" EndNode="940">
+</Annotation>
+<Annotation Id="6" Type="paragraph" StartNode="942" EndNode="1275">
+</Annotation>
+<Annotation Id="7" Type="paragraph" StartNode="1277" EndNode="1681">
+</Annotation>
+<Annotation Id="8" Type="paragraph" StartNode="1683" EndNode="1810">
+</Annotation>
+<Annotation Id="9" Type="paragraph" StartNode="1813" EndNode="2237">
+</Annotation>
+<Annotation Id="10" Type="paragraph" StartNode="2239" EndNode="2399">
+</Annotation>
+<Annotation Id="11" Type="paragraph" StartNode="2402" EndNode="2948">
+</Annotation>
+<Annotation Id="12" Type="paragraph" StartNode="2950" EndNode="3158">
+</Annotation>
+<Annotation Id="13" Type="paragraph" StartNode="3160" EndNode="3164">
+</Annotation>
+<Annotation Id="14" Type="paragraph" StartNode="3170" EndNode="3278">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

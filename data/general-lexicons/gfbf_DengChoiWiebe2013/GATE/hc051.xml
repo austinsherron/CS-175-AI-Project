@@ -1,0 +1,1288 @@
+<?xml version='1.0' encoding='MacRoman'?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/E:/Users/conrada/Documents/My%20Dropbox/healthcare_data/training_2/hc051.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String">CRLF</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0" />December 16, 2011&#xd;
+defining ideas&#xd;
+<Node id="35" />Obamacare&#x2019;s Other Unconstitutional Provision&#xd;<Node id="80" />
+by Clint Bolick (Research Fellow)&#xd;
+<Node id="116" />An agency uncontrollable by Congress, unreviewable by the courts, and virtually unrepealable.<Node id="209" />&#xd;
+<Node id="211" />&#xd;
+<Node id="213" />Following the passage of the massive federal health-care bill, inquiring minds wanted to know the dimensions of the new bureaucracy it had created.<Node id="360" /> <Node id="361" />So the question was put to the Congressional Research Service (CRS): How many new agencies, boards, and commissions were created by the law?<Node id="501" /> <Node id="502" />Estimates ranged from fifty to the low hundreds<Node id="549" />. <Node id="551" />The CRS, with perhaps more research resources available to it than any other entity on earth, scoured the bill and its surrounding context, and finally came up with an answer<Node id="725" />: <Node id="727" />The number of new agencies<Node id="753" /> <Node id="754" />created<Node id="761" /> by <Node id="765" />Obamacare<Node id="774" /> is &#x201c;unknowable.&#x201d;&#xd;<Node id="792" />
+<Node id="793" />&#xd;
+<Node id="795" />That is a scary pronouncement<Node id="824" />. <Node id="826" />Not only don&#x2019;t we know the number of <Node id="863" />new agencies<Node id="875" />, but we don&#x2019;t know which ones are the same or separate entities, what the contours of their jurisdictions are, or the extent to which <Node id="1010" />they<Node id="1014" /> will <Node id="1020" />intrude upon<Node id="1032" /> <Node id="1033" />some of the most important and intimate decisions we make as individuals<Node id="1105" />.&#xd;
+ <Node id="1109" />Obamacare's other unconstitutional provision<Node id="1153" />  &#xd;
+ Illustration by Barbara Kelley&#xd;
+<Node id="1190" />&#xd;
+<Node id="1192" />But even scarier is what we do know: that <Node id="1234" />one of the agencies<Node id="1253" /> <Node id="1254" />created<Node id="1261" /> by <Node id="1265" />Obamacare<Node id="1274" /> has the most sweeping, unchecked powers of any <Node id="1322" />regulatory entity<Node id="1339" /> ever <Node id="1345" />created<Node id="1352" /> by <Node id="1356" />the US government<Node id="1373" />. <Node id="1375" />Its name&#x2014;the Independent Payment Advisory Board (IPAB)&#x2014;sounds benign, but it is anything but<Node id="1467" />.&#xd;
+<Node id="1470" />&#xd;
+<Node id="1472" />Central to the passage of the federal health-care law was the Obama administration&#x2019;s assertion&#x2014;ludicrous on its face yet convincing to enough members of Congress to <Node id="1637" />provide the bill&#x2019;s razor-thin margin of victory<Node id="1684" />&#x2014;that the law would contain health-care costs<Node id="1729" />. Centrdial to that assertion, in turn, is IPAB.&#xd;
+<Node id="1779" />&#xd;
+<Node id="1781" />Congress invested IPAB with broad powers to control Medicare costs&#x2014;powers with virtually no limits<Node id="1879" />. <Node id="1881" />Three features combine to make IPAB&#x2019;s regulatory power unprecedented: its decisions are largely uncontrollable by Congress, its actions are unreviewable by the courts, and&#x2014;amazingly&#x2014;the agency&#x2019;s existence is virtually unrepealable.<Node id="2112" />&#xd;
+<Node id="2114" />&#xd;
+<Node id="2116" />Ordinarily, the delegation of legislative power to regulatory agencies is accompanied by numerous safeguards<Node id="2224" />. <Node id="2226" />First, as a matter of separation of powers, courts require that the delegation of regulatory powers be guided and restricted by &#x201c;intelligible standards<Node id="2377" />.&#x201d; <Node id="2380" />Second, most regulatory powers are exercised through the administrative rule-making process, which provides for public notice and comment<Node id="2517" />. <Node id="2519" />Third, both Congress and the courts can review the rules<Node id="2575" />. <Node id="2577" />Finally, of course, Congress can repeal the agency or change the delegation of power<Node id="2661" />. <Node id="2663" />None of those safeguards are present with IPAB.<Node id="2710" />&#xd;
+<Node id="2712" />&#xd;
+<Node id="2714" />The judiciary is forbidden from reviewing the board's actions.&#xd;
+<Node id="2778" />&#xd;
+<Node id="2780" />The law directs IPAB&#x2014;a 15-member commission appointed by the president with Senate confirmation, and whose composition (unlike most other agencies) need not be bipartisan&#x2014;to make annual &#x201c;legislative proposals&#x201d; starting in 2014 that will result in reducing the per capita rate of growth in Medicare. The law says that certain proposals are off-limits, including any that &#x201c;ration health care, raise revenues or increase Medicare beneficiary cost sharing (including deductibles, coinsurance, and copayments), or otherwise restrict benefits or modify eligibility requirements.&#x201d;&#xd;
+<Node id="3355" />&#xd;
+<Node id="3357" />There are three whopping problems with this directive<Node id="3410" />. <Node id="3412" />First, if Medicare beneficiaries cannot be required to pay more and <Node id="3480" />their benefits<Node id="3494" /> cannot be <Node id="3505" />reduced<Node id="3512" />, there is only one way to achieve cost-containment: to <Node id="3568" />reduce<Node id="3574" /> <Node id="3575" />payments to physicians and hospitals<Node id="3611" />. <Node id="3613" />Those reductions<Node id="3629" /> will further <Node id="3643" />diminish<Node id="3651" /> <Node id="3652" />the number of Medicare providers<Node id="3684" /> and/or <Node id="3692" />reduce<Node id="3698" /> <Node id="3699" />the quality of care<Node id="3718" />&#x2014;in essence, <Node id="3731" />creating<Node id="3739" /> precisely <Node id="3750" />the de facto rationing of health-care services<Node id="3796" /> <Node id="3797" />the bill<Node id="3805" /> supposedly <Node id="3817" />prohibits<Node id="3826" />.&#xd;
+<Node id="3829" />&#xd;
+<Node id="3831" />Second, crucial terms such as &#x201c;rationing&#x201d; are undefined, and the requirements are confusing and contradictory<Node id="3940" />. <Node id="3942" />Elsewhere, the law directs IPAB to &#x201c;protect and improve Medicare beneficiaries&#x2019; access to necessary and evidence-based items and services<Node id="4079" />.&#x201d; <Node id="4082" />So IPAB is not allowed to ration health care, but it must decide which services are &#x201c;necessary and evidence-based&#x201d;&#x2014;which, of course, is rationing<Node id="4227" />.&#xd;
+<Node id="4230" />&#xd;
+<Node id="4232" />Finally, even if <Node id="4249" />the vague statutory constraints on IPAB<Node id="4288" /> have any meaning, there is <Node id="4316" />no<Node id="4318" /> entity, not the Congress nor the courts<Node id="4358" />, <Node id="4360" />that<Node id="4364" /> can effectively <Node id="4381" />police<Node id="4387" /> <Node id="4388" />them<Node id="4392" />. <Node id="4394" />IPAB is exempt from normal administrative procedures or safeguards<Node id="4460" />. <Node id="4462" />Congress has an abbreviated period during which to review IPAB proposals; it can only change them in limited ways; and it must do so by a three-fifths majority<Node id="4621" />. <Node id="4623" />If Congress fails to overcome those obstacles, IPAB&#x2019;s proposals automatically become law<Node id="4711" />. <Node id="4713" />And the judiciary is forbidden from reviewing IPAB&#x2019;s actions<Node id="4773" />.&#xd;
+<Node id="4776" />&#xd;
+<Node id="4778" />Theoretically, Congress can repeal IPAB&#x2014;but the law appears to limit its ability to do so in bizarre and severe ways<Node id="4894" />. Under the statute, any bill to repeal IPAB must be introduced within the one-month period between January 1 and February 1, 2017. If introduced, it must be enacted by a three-fifths super-majority no later than August 15, 2017. <Node id="5124" />If passed, the IPAB repeal will not become effective until 2020&#x2014;leaving an out-of-control agency in operation for three years after Congress votes to abolish it<Node id="5284" />.&#xd;
+<Node id="5287" />&#xd;
+<Node id="5289" />IPAB&#x2019;s defenders point to other agencies, such as the Base Closure and Realignment Commission, which were exempt from ordinary administrative processes and had abbreviated congressional reviews of their proposals<Node id="5501" />. <Node id="5503" />But no agency in our nation&#x2019;s history has been given the power to make binding law in a manner so unaccountable, uncontrollable, or unreviewable as IPAB&#x2014;and none has been essentially immunized against its own demise<Node id="5718" />.&#xd;
+<Node id="5721" />&#xd;
+<Node id="5723" />Unlike most other agencies, IPAB's membership does not need to be bipartisan.&#xd;
+<Node id="5802" />&#xd;
+<Node id="5804" />Even advocacy groups that otherwise supported Obamacare raised concerns about IPAB<Node id="5886" />. <Node id="5888" />After all, if <Node id="5902" />the agency rations health care or further<Node id="5943" /> <Node id="5944" />reduces<Node id="5951" /> <Node id="5952" />the number of physicians and hospitals that accept Medicare<Node id="6011" />, it will adversely affect many people who need health care<Node id="6070" />. <Node id="6072" />The American Medical Association (AMA), which supported the bill, warned that IPAB is &#x201c;an independent body comprised of un-elected officials, with broad discretionary authority to make radical changes in the structure of the Medicare program.&#x201d;<Node id="6315" />  <Node id="6317" />The AMA was joined in its opposition by 74 groups representing millions of Medicare beneficiaries and service providers, along with over 100 members of Congress from both parties who expressed their concerns about the erosion of congressional authority over Medicare in a letter to then-House Speaker Nancy Pelosi<Node id="6630" />. <Node id="6632" />Retiring Rep. Barney Frank (D-MA) recently signed on to a Republican-sponsored bill to repeal IPAB<Node id="6730" />. &#xd;
+<Node id="6734" />&#xd;
+<Node id="6736" />Then why doesn&#x2019;t Congress simply repeal IPAB? After all, one Congress cannot bind a subsequent Congress, right? While that is&#x2014;or should be&#x2014;true, the problem is that efforts to repeal IPAB outside of the narrow parameters provided by the health-care law can be ruled out of order by congressional parliamentarians. The same is true of congressional efforts to control IPAB&#x2019;s actions.&#xd;
+<Node id="7120" />&#xd;
+<Node id="7122" />Because of those limits, the Goldwater Institute filed a lawsuit in federal district court in Phoenix to challenge IPAB. <Node id="7243" />By <Node id="7246" />limiting<Node id="7254" /> <Node id="7255" />its repeal<Node id="7265" />, <Node id="7267" />Congress<Node id="7275" /> unconstitutionally &#x201c;entrenched&#x201d; IPAB, preventing members of Congress from effectively representing their constituents<Node id="7393" />. <Node id="7395" />As Thomas Jefferson explained, were a legislature to &#x201c;pass any act, and declare it shall be irrevocable by subsequent assemblies, the declaration is merely void, and the act repealable, as other acts are<Node id="7598" />.&#x201d; <Node id="7601" />The Supreme Court affirmed Jefferson&#x2019;s admonition in an 1879 case, proclaiming, &#x201c;It is vital to the public welfare that each [legislature] should be able at all times to do whatever the varying circumstances and present exigencies touching the subject involved may require<Node id="7873" />. A different result would be fraught with evil.&#x201d;&#xd;
+<Node id="7924" />&#xd;
+<Node id="7926" />The Goldwater Institute&#x2019;s lawsuit challenges IPAB&#x2019;s very existence as an unlawful delegation of congressional power<Node id="8041" />. <Node id="8043" />Although most of the legal challenges to Obamacare have focused on the individual mandate to purchase government-prescribed health insurance, IPAB is no less central to the overall regulatory scheme<Node id="8241" />. <Node id="8243" />Many members of Congress voted for Obamacare only when convinced of the dubious premise that the law would constrain health-care costs<Node id="8377" />. <Node id="8379" />If <Node id="8382" />IPAB<Node id="8386" /> is <Node id="8390" />removed<Node id="8397" />, the flimsy cost-containment rationale will disappear as well<Node id="8459" />.&#xd;
+<Node id="8462" />&#xd;
+<Node id="8464" />The district court will hear arguments over the constitutionality of IPAB in the coming months<Node id="8558" />. Central to those arguments is Justice Antonin Scalia&#x2019;s clairvoyant warning 22 years ago that unless the constitutional prohibition against the delegation of legislative power was enforced, Congress could create &#x201c;&#x2018;expert&#x2019; bodies, insulated from the political process, to which Congress [could] delegate various portions of its lawmaking responsibility.&#x201d;&#xd;
+<Node id="8914" />&#xd;
+<Node id="8916" />&#x201c;How tempting,&#x201d; Scalia wrote, &#x201c;to create an expert Medical Commission . . . to dispose of such thorny, &#x2018;no-win&#x2019; political issues as the withholding of life-support systems in federally funded hospitals.&#x201d;<Node id="9119" />&#xd;
+<Node id="9121" />&#xd;
+<Node id="9123" />Scalia&#x2019;s not-so-hypothetical musing is today&#x2019;s reality. <Node id="9179" />As my colleague Diane Cohen, the lead lawyer in the Goldwater Institute&#x2019;s lawsuit, has testified before Congress, IPAB is &#x201c;&#x2018;independent&#x2019; in the worst sense of the word: it is independent of Congress, the President, the judiciary and the American people<Node id="9431" />.&#x201d; <Node id="9434" />IPAB<Node id="9438" /> is a death panel not only by virtue of its awesome powers to control health-care decisions for millions of Americans<Node id="9555" />, but <Node id="9561" />because its creation and existence are antithetical to our republican form of government and the <Node id="9658" />freedoms<Node id="9666" /> <Node id="9667" />it<Node id="9669" /> was designed to <Node id="9686" />protect<Node id="9693" />.<Node id="9694" /> &#xd;
+<Node id="9697" />&#xd;
+<Node id="9699" />Clint Bolick is a research fellow at the Hoover Institution and also serves as the director of the Goldwater Institute Center for Constitutional Litigation in Phoenix. Before joining the Goldwater Institute in 2007, Bolick was litigation director of the Institute for Justice, a libertarian public interest firm that he cofounded in 1991, and president of the Alliance for School Choice, a national nonprofit educational policy group advocating school choice programs across the country.&#xd;
+Letters to the editor may be sent to definingideas@stanford.edu. Editors reserve the right to reject or publish (and edit) letters.&#xd;
+<Node id="10321" /></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation Id="23" Type="doc" StartNode="0" EndNode="10321">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">hc051</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">author</Name>
+  <Value className="java.lang.String">clint,bolick</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">source</Name>
+  <Value className="java.lang.String">defining,ideas</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">date</Name>
+  <Value className="java.lang.String">20111216</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">side</Name>
+  <Value className="java.lang.String">anti</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">url</Name>
+  <Value className="java.lang.String">http://www.hoover.org/publications/defining-ideas/article/103021</Value>
+</Feature>
+</Annotation>
+<Annotation Id="25" Type="rel" StartNode="116" EndNode="209">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">unconstitutional</Value>
+</Feature>
+</Annotation>
+<Annotation Id="24" Type="rel" StartNode="35" EndNode="80">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">unconstitutional</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="27" Type="rel" StartNode="213" EndNode="360">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">expands_federal_govt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="26" Type="arg" StartNode="727" EndNode="792">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">expands_federal_govt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="29" Type="arg" StartNode="1192" EndNode="1373">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">expands_federal_govt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="28" Type="arg" StartNode="826" EndNode="1105">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">expands_federal_govt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="31" Type="arg" StartNode="1881" EndNode="2112">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">centralizes_healthcare_control</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="30" Type="arg" StartNode="1472" EndNode="1729">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">does_not_control_healthcare_costs</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="34" Type="arg" StartNode="3412" EndNode="3611">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">medicare_will_stop_being_accepted</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="35" Type="arg" StartNode="4082" EndNode="4227">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">healthcare_rationing</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="32" Type="arg" StartNode="2663" EndNode="2710">
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">centralizes_healthcare_control</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">incomplete</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="33" Type="arg" StartNode="3613" EndNode="3826">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">healthcare_rationing</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="38" Type="rel" StartNode="6072" EndNode="6315">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">ipab_unpopular</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="39" Type="arg" StartNode="7243" EndNode="7393">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">unconstitutional</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="36" Type="arg" StartNode="3831" EndNode="3940">
+<Feature>
+  <Name className="java.lang.String"></Name>
+  <Value className="java.lang.String">healthcare_rationing</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="37" Type="arg" StartNode="5503" EndNode="5718">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">govt_reaching_beyond_authority</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="42" Type="rel" StartNode="7926" EndNode="8041">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">unconstitutional</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="43" Type="arg" StartNode="8379" EndNode="8459">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">does_not_control_healthcare_costs</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="46" Type="arg" StartNode="9434" EndNode="9555">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">healthcare_rationing</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="47" Type="arg" StartNode="9561" EndNode="9694">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">govt_reaching_beyond_authority</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="45" Type="rel" StartNode="8916" EndNode="9119">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">healthcare_rationing</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="51" Type="rel" StartNode="1109" EndNode="1153">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">unconstitutional</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50" Type="arg" StartNode="795" EndNode="824">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">else</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="49" Type="rel" StartNode="502" EndNode="549">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">expands_federal_govt</Value>
+</Feature>
+</Annotation>
+<Annotation Id="48" Type="rel" StartNode="361" EndNode="501">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">expands_federal_govt</Value>
+</Feature>
+</Annotation>
+<Annotation Id="55" Type="rel" StartNode="2116" EndNode="2224">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">centralizes_healthcare_control</Value>
+</Feature>
+</Annotation>
+<Annotation Id="54" Type="rel" StartNode="1781" EndNode="1879">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">centralizes_healthcare_control</Value>
+</Feature>
+</Annotation>
+<Annotation Id="53" Type="rel" StartNode="551" EndNode="725">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">expands_federal_govt</Value>
+</Feature>
+</Annotation>
+<Annotation Id="52" Type="rel" StartNode="1375" EndNode="1467">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">expands_federal_govt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="59" Type="rel" StartNode="2577" EndNode="2661">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">centralizes_healthcare_control</Value>
+</Feature>
+</Annotation>
+<Annotation Id="58" Type="rel" StartNode="2519" EndNode="2575">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">centralizes_healthcare_control</Value>
+</Feature>
+</Annotation>
+<Annotation Id="57" Type="rel" StartNode="2380" EndNode="2517">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">centralizes_healthcare_control</Value>
+</Feature>
+</Annotation>
+<Annotation Id="56" Type="rel" StartNode="2226" EndNode="2377">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">centralizes_healthcare_control</Value>
+</Feature>
+</Annotation>
+<Annotation Id="63" Type="rel" StartNode="4394" EndNode="4460">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">else</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">govt_reaching_beyond_authority</Value>
+</Feature>
+</Annotation>
+<Annotation Id="62" Type="arg" StartNode="4232" EndNode="4392">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">govt_reaching_beyond_authority</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="61" Type="arg" StartNode="3357" EndNode="3410">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">else</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="60" Type="rel" StartNode="3942" EndNode="4079">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">healthcare_rationing</Value>
+</Feature>
+</Annotation>
+<Annotation Id="68" Type="rel" StartNode="5124" EndNode="5284">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">govt_reaching_beyond_authority</Value>
+</Feature>
+</Annotation>
+<Annotation Id="69" Type="rel" StartNode="5289" EndNode="5501">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">govt_reaching_beyond_authority</Value>
+</Feature>
+</Annotation>
+<Annotation Id="71" Type="rel" StartNode="5804" EndNode="5886">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">ipab_unpopular</Value>
+</Feature>
+</Annotation>
+<Annotation Id="64" Type="rel" StartNode="4462" EndNode="4621">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">govt_reaching_beyond_authority</Value>
+</Feature>
+</Annotation>
+<Annotation Id="65" Type="rel" StartNode="4623" EndNode="4711">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">govt_reaching_beyond_authority</Value>
+</Feature>
+</Annotation>
+<Annotation Id="66" Type="rel" StartNode="4713" EndNode="4773">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">govt_reaching_beyond_authority</Value>
+</Feature>
+</Annotation>
+<Annotation Id="67" Type="rel" StartNode="4778" EndNode="4894">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">govt_reaching_beyond_authority</Value>
+</Feature>
+</Annotation>
+<Annotation Id="76" Type="rel" StartNode="7601" EndNode="7873">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">unconstitutional</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="77" Type="rel" StartNode="8043" EndNode="8241">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">unconstitutional</Value>
+</Feature>
+</Annotation>
+<Annotation Id="78" Type="rel" StartNode="8243" EndNode="8377">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">does_not_control_healthcare_costs</Value>
+</Feature>
+</Annotation>
+<Annotation Id="79" Type="rel" StartNode="8464" EndNode="8558">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">unconstitutional</Value>
+</Feature>
+</Annotation>
+<Annotation Id="72" Type="arg" StartNode="5888" EndNode="6070">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">healthcare_rationing</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="73" Type="rel" StartNode="6317" EndNode="6630">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">ipab_unpopular</Value>
+</Feature>
+</Annotation>
+<Annotation Id="74" Type="rel" StartNode="6632" EndNode="6730">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">ipab_unpopular</Value>
+</Feature>
+</Annotation>
+<Annotation Id="75" Type="rel" StartNode="7395" EndNode="7598">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">unconstitutional</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="87" Type="gfbf-object" StartNode="1234" EndNode="1253">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="86" Type="gfbf" StartNode="1254" EndNode="1261">
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">116</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">87</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">goodfor</Value>
+</Feature>
+</Annotation>
+<Annotation Id="81" Type="gfbf" StartNode="754" EndNode="761">
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">114</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">82</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">goodfor</Value>
+</Feature>
+</Annotation>
+<Annotation Id="80" Type="rel" StartNode="9179" EndNode="9431">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">establishes_unaccountable_committees</Value>
+</Feature>
+</Annotation>
+<Annotation Id="82" Type="gfbf-object" StartNode="727" EndNode="753">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="93" Type="gfbf-object" StartNode="3480" EndNode="3494">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="92" Type="gfbf" StartNode="3505" EndNode="3512">
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">implicit</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">93</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">badfor</Value>
+</Feature>
+</Annotation>
+<Annotation Id="95" Type="gfbf-object" StartNode="3575" EndNode="3611">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="94" Type="gfbf" StartNode="3568" EndNode="3574">
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">implicit</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">95</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">badfor</Value>
+</Feature>
+</Annotation>
+<Annotation Id="89" Type="gfbf" StartNode="1345" EndNode="1352">
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">117</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">90</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">goodfor</Value>
+</Feature>
+</Annotation>
+<Annotation Id="91" Type="others" StartNode="1637" EndNode="1684">
+</Annotation>
+<Annotation Id="90" Type="gfbf-object" StartNode="1322" EndNode="1339">
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="102" Type="others" StartNode="4316" EndNode="4318">
+<Feature>
+  <Name className="java.lang.String">effect</Name>
+  <Value className="java.lang.String">reverse</Value>
+</Feature>
+</Annotation>
+<Annotation Id="103" Type="gfbf" StartNode="4381" EndNode="4387">
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">126</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">104</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">badfor</Value>
+</Feature>
+</Annotation>
+<Annotation Id="100" Type="influencer" StartNode="3817" EndNode="3826">
+<Feature>
+  <Name className="java.lang.String">effect</Name>
+  <Value className="java.lang.String">reverse</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">129</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">113</Value>
+</Feature>
+</Annotation>
+<Annotation Id="101" Type="gfbf-object" StartNode="3750" EndNode="3796">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="98" Type="gfbf" StartNode="3692" EndNode="3698">
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">118</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">99</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">badfor</Value>
+</Feature>
+</Annotation>
+<Annotation Id="99" Type="gfbf-object" StartNode="3699" EndNode="3718">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="96" Type="gfbf" StartNode="3643" EndNode="3651">
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">118</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">97</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">badfor</Value>
+</Feature>
+</Annotation>
+<Annotation Id="97" Type="gfbf-object" StartNode="3652" EndNode="3684">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="110" Type="gfbf-object" StartNode="8382" EndNode="8386">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="111" Type="gfbf" StartNode="9686" EndNode="9693">
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">121</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">112</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">goodfor</Value>
+</Feature>
+</Annotation>
+<Annotation Id="108" Type="gfbf-object" StartNode="7255" EndNode="7265">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="109" Type="gfbf" StartNode="8390" EndNode="8397">
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">implicit</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">110</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">badfor</Value>
+</Feature>
+</Annotation>
+<Annotation Id="106" Type="gfbf-object" StartNode="5952" EndNode="6011">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="107" Type="gfbf" StartNode="7246" EndNode="7254">
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">121</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">108</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">badfor</Value>
+</Feature>
+</Annotation>
+<Annotation Id="104" Type="gfbf-object" StartNode="4388" EndNode="4392">
+<Feature>
+  <Name className="java.lang.String">referentId</Name>
+  <Value className="java.lang.String">127</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">refererence</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="105" Type="gfbf" StartNode="5944" EndNode="5951">
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">120</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">106</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">badfor</Value>
+</Feature>
+</Annotation>
+<Annotation Id="119" Type="referent" StartNode="4316" EndNode="4358">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="118" Type="gfbf-agent" StartNode="3613" EndNode="3629">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="117" Type="gfbf-agent" StartNode="1356" EndNode="1373">
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="116" Type="gfbf-agent" StartNode="1265" EndNode="1274">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="115" Type="gfbf-agent" StartNode="1010" EndNode="1014">
+<Feature>
+  <Name className="java.lang.String">reference</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">referentId</Name>
+  <Value className="java.lang.String">123</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="114" Type="gfbf-agent" StartNode="765" EndNode="774">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="113" Type="gfbf" StartNode="3731" EndNode="3739">
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">118</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">goodfor</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">101</Value>
+</Feature>
+</Annotation>
+<Annotation Id="112" Type="gfbf-object" StartNode="9658" EndNode="9666">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="127" Type="referent" StartNode="4249" EndNode="4288">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="126" Type="gfbf-agent" StartNode="4360" EndNode="4364">
+<Feature>
+  <Name className="java.lang.String">reference</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">referentId</Name>
+  <Value className="java.lang.String">119</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="125" Type="gfbf" StartNode="1020" EndNode="1032">
+<Feature>
+  <Name className="java.lang.String">agentId</Name>
+  <Value className="java.lang.String">115</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">badfor</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">objectId</Name>
+  <Value className="java.lang.String">124</Value>
+</Feature>
+</Annotation>
+<Annotation Id="124" Type="gfbf-object" StartNode="1033" EndNode="1105">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="123" Type="referent" StartNode="863" EndNode="875">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="122" Type="gfbf-agent" StartNode="9667" EndNode="9669">
+<Feature>
+  <Name className="java.lang.String">reference</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">referentId</Name>
+  <Value className="java.lang.String">128</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="121" Type="gfbf-agent" StartNode="7267" EndNode="7275">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="120" Type="gfbf-agent" StartNode="5902" EndNode="5943">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="129" Type="gfbf-agent" StartNode="3797" EndNode="3805">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="128" Type="referent" StartNode="9434" EndNode="9438">
+<Feature>
+  <Name className="java.lang.String">writerAtt</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="211">
+</Annotation>
+<Annotation Id="1" Type="paragraph" StartNode="213" EndNode="793">
+</Annotation>
+<Annotation Id="2" Type="paragraph" StartNode="795" EndNode="1190">
+</Annotation>
+<Annotation Id="3" Type="paragraph" StartNode="1192" EndNode="1470">
+</Annotation>
+<Annotation Id="4" Type="paragraph" StartNode="1472" EndNode="1779">
+</Annotation>
+<Annotation Id="5" Type="paragraph" StartNode="1781" EndNode="2114">
+</Annotation>
+<Annotation Id="6" Type="paragraph" StartNode="2116" EndNode="2712">
+</Annotation>
+<Annotation Id="7" Type="paragraph" StartNode="2714" EndNode="2778">
+</Annotation>
+<Annotation Id="8" Type="paragraph" StartNode="2780" EndNode="3355">
+</Annotation>
+<Annotation Id="9" Type="paragraph" StartNode="3357" EndNode="3829">
+</Annotation>
+<Annotation Id="10" Type="paragraph" StartNode="3831" EndNode="4230">
+</Annotation>
+<Annotation Id="11" Type="paragraph" StartNode="4232" EndNode="4776">
+</Annotation>
+<Annotation Id="12" Type="paragraph" StartNode="4778" EndNode="5287">
+</Annotation>
+<Annotation Id="13" Type="paragraph" StartNode="5289" EndNode="5721">
+</Annotation>
+<Annotation Id="14" Type="paragraph" StartNode="5723" EndNode="5802">
+</Annotation>
+<Annotation Id="15" Type="paragraph" StartNode="5804" EndNode="6734">
+</Annotation>
+<Annotation Id="17" Type="paragraph" StartNode="7122" EndNode="7924">
+</Annotation>
+<Annotation Id="16" Type="paragraph" StartNode="6736" EndNode="7120">
+</Annotation>
+<Annotation Id="19" Type="paragraph" StartNode="8464" EndNode="8914">
+</Annotation>
+<Annotation Id="18" Type="paragraph" StartNode="7926" EndNode="8462">
+</Annotation>
+<Annotation Id="21" Type="paragraph" StartNode="9123" EndNode="9697">
+</Annotation>
+<Annotation Id="20" Type="paragraph" StartNode="8916" EndNode="9121">
+</Annotation>
+<Annotation Id="22" Type="paragraph" StartNode="9699" EndNode="10321">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>
