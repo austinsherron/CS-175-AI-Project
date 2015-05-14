@@ -11,7 +11,7 @@ def format_word(word):
   return new_word.strip()
 
 stop_words = {}
-dictionary = {}
+dictionary_score = {}
 sorted_values = []
 rows = []
 
@@ -23,15 +23,23 @@ with open(sys.argv[2], 'r') as f:
   reader = csv.reader(f, delimiter=',', quotechar='"')
   for row in reader:
     rows.append(row)
-    for word in row[0].split(' '):
+    words = row[0].split(' ')
+    score = float(row[1])
+    if score > .001:
+      score = 1
+    elif score < -.001:
+      score = -1
+    else:
+      score = 0
+    for word in words:
       w = word.strip()
       if not w in stop_words:
-        if w in dictionary:
-          dictionary[w] += 1
+        if w in dictionary_score:
+          dictionary_score[w] += 1#score
         else:
-          dictionary[w] = 1
+          dictionary_score[w] = 1#score
 
-for (key, value) in dictionary.iteritems():
+for (key, value) in dictionary_score.iteritems():
   sorted_values.append({
     'key': key,
     'value': value
@@ -40,7 +48,17 @@ for (key, value) in dictionary.iteritems():
 def sort_by_value(item):
   return item['value']
 
-sorted_values = sorted(sorted_values, key=sort_by_value, reverse=True)
+sorted_values_good = sorted(sorted_values, key=sort_by_value, reverse=True)
+sorted_values_bad = sorted(sorted_values, key=sort_by_value)
 
-for i in range(200):
-  print sorted_values[i]
+main_words = []
+for i in range(15000):
+  main_words.append(sorted_values_good[i]['key'])
+
+'''for i in range(5000):
+  main_words.append(sorted_values_bad[i]['key'])'''
+
+with open('feature_words.txt', 'w') as f:
+  for word in main_words:
+    f.write(word + '\n')
+

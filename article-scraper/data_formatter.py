@@ -25,9 +25,9 @@ with open(sys.argv[1], 'r') as f:
     headline = format_headline(''.join(row[0:l-1]))
     classification = 0
     v = float(row[l - 1])
-    if v > 0:
+    if v > .001:
       classification = 1
-    elif v < 0:
+    elif v < -.001:
       classification = -1
     rows.append([
       headline,
